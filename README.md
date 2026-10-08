@@ -1,6 +1,6 @@
-# The Jackbox Party Pack 2 en français
+# The Jackbox Party Pack en français
 
-Ce repository contient les traductions de la communauté française pour le jeu "The Jackbox Party Pack 2" de Jackbox Games
+Ce repository contient les traductions de la communauté française pour le jeu "The Jackbox Party Pack" de Jackbox Games
 
 ## Détails
 
