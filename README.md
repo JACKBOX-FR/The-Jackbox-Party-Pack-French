@@ -13,6 +13,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | WORD SPUD | WordSpud | ✅ | ✅ | ❌ | [NIX3S](https://github.com/NIX3S)|
 | Jeu | PartyPack | ✅ | ✅ |   |  |
 
+
 ✅ Terminé</br>
 ⚪ Commencé mais non terminé</br>
 ❌ Non commencé
