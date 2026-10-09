@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "vieille grenouille|une très vieille grenouille|une vieille grenouille ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Très vieille grenouille ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

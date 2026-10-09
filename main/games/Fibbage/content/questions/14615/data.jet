@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "chat, manuel de sécurité, tuyau d'incendie, bébé, infirmière, baignoire, chien, tapis d'ours, sortie de secours, jambe coupée, canard, poids de bouilloire, grenouille, dreidel, tortue, cercueil, tapis, extincteur ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "feu ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "barbe ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Lors d'un incendie célèbre en 1567, un Norvégien nommé Hans Steininger est mort après avoir trébuché sur un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324360_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "324363_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

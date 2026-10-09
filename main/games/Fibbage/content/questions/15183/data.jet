@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "statue fédérale, château gonflable, vache, église, panneau d'arrêt, épouvantail, vautour, boa constrictor, porta-pot, train, pelote de laine, botte de foin, plage, Sears, panneau d'affichage, énorme ballon de plage, grande roue, canard ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "souffler ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "baleine morte ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "baleine, baleine échouée ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le 12 novembre 1970, George Thornton, un ingénieur routier de l'Oregon, a eu la tâche inhabituelle de faire exploser un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "335473_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

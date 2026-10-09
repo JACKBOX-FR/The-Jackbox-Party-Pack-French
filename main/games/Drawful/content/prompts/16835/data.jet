@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Je ne sais pas | Je ne sais pas ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "je ne sais pas ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368635_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Comptable, vendeur de fils, clown de rodéo, dégustateur de lait, avocat, dentiste, chiropracteur, chef, plombier, instructeur de yoga, joueur de guitare slide, chanteur d'opéra, agriculteur, guide touristique, vendeur New Balance, artiste de bande dessinée, pilote, programmeur ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "les blancs ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Vétérinaire ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Vétérinaires, vétérinaire, vétérinaires, vétérinaires, vétérinaires ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L’occupation américaine avec le pourcentage le plus élevé de Blancs. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334661_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

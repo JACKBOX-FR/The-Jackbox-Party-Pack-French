@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un bus de nonne|le bus de nonne ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bus de nonne ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

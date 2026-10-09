@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "briss,divorce,mariage,avocat,liposcution,prostituée,thérapeute,fusée,traitement radiculaire,hot dog,tube de préparation H,lifting,coach de vie,enfant adopté,dominatrice,vasectomie,clown de fête,taser ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bon ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "funérailles ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "service funéraire, service funéraire ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les IronPigs de Lehigh Valley, une équipe de baseball des ligues mineures, ont organisé un concours dont le prix était un bon pour un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "322331_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "322334_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

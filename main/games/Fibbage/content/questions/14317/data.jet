@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "curling, bowling, billard, baby-foot, fléchettes, volley-ball, badminton, slamball, kickball, Wiffle ball, barres asymétriques, wakeboard, shopping, tir à l'arc, lutte dans la boue, luge, échecs, disc golf ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Maryland ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "joute ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "la joute, joute ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le sport officiel de l’État du Maryland est <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318301_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

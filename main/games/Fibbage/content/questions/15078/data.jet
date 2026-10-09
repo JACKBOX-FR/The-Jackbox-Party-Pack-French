@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Tout d'abord, tu es debout ?, en route, est-ce que ça a marché ?, photo s'il te plaît, ça change tout., nouveau téléphone. Qui est-ce ?,Allons déjeuner.,Tests,J'aime les sandwichs,Watson, es-tu là,Down to F?,adflakdsja,Hot dog,Je m'appelle Neil,Et maintenant ?,Ça marche,Haba-duey ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "SMS ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Joyeux Noël ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le premier message texte jamais envoyé a été celui de Neil Papworth en 1992. Il a envoyé le message « <VIERGE> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334037_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334040_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

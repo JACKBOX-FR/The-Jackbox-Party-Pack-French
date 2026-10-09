@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If the laughing cow on the Laughing Cow Cheese logo is like most other cows, when is it releasing the MOST greenhouse gases?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "quand il rit et éternue ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Rire jusqu'à l'abattoir ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "quand il rit et éructe ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "quand il rit et pète ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "quand il rit et URINE ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si la vache qui rit sur le logo de Laughing Cow Cheese est comme la plupart des autres vaches, quand émet-elle le PLUS de gaz à effet de serre ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "quand il rit et éternue ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Rire jusqu'à l'abattoir ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "quand il rit et éructe ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "quand il rit et pète ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "quand il rit et URINE ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366430_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366427_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366426_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366429_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366424_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "366432_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

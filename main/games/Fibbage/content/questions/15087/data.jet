@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "feu d'artifice extravagant, documentaire sur la prison, thérapeute, petite amie, concert, défilé, étoile filante, bataille de rap, ouverture de musée, hypnotiseur, match de football, magicien, parc à chiens, funérailles d'un ami, opéra, film de Leo DiCaprio, ballet, homme à propos d'un chien ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "libération ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "dentiste ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, un détenu suédois de 51 ans s'est évadé de prison un jour avant sa libération prévue pour pouvoir aller voir un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334244_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What might you hear her tell her husband?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons que la déesse romaine Junon a elle aussi décidé de sortir du placard. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Mythologie ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Désolé, POSEIDON, les gars, ce n'est tout simplement pas mon truc.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le défilé de Kitty Pryde ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Désolé, JUPITER, j'en ai fini avec les mecs.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Désolé, ZEUS, j'aime les femmes.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Désolé, SATURN, rien ne vaut une dame.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+3.95 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Que pourriez-vous l’entendre dire à son mari ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons que la déesse romaine Junon a elle aussi décidé de sortir du placard. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Mythologie ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Désolé, POSEIDON, les gars, ce n'est tout simplement pas mon truc.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le défilé de Kitty Pryde ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Désolé, JUPITER, j'en ai fini avec les mecs.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "“Sorry, ZEUS, I like women.”",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“Sorry, SATURN, nothing beats a lady.”",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+3.95",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "345312_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "345307_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "345309_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "345308_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "345311_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "345306_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

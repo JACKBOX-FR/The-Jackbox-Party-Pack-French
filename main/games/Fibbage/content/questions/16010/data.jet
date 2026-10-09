@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "gnomes, le monstre du Loch Ness, professeurs, MILFS, collecteurs de prêts, loups-garous, pingouins, démons, fées, le doyen de l'école, étudiants, lapins laids, Bigfoot, elfes, nerds, fantômes, écureuils, arcs-en-ciel ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "chasser ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "licornes ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "une licorne, pour les licornes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'Université d'État du Lac Supérieur propose une licence bizarre. Le permis vous autorise à chasser <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354200_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "354203_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

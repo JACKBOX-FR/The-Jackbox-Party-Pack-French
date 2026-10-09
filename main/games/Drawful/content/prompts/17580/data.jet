@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "jet ski à roues|un jet ski à roues ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Jetski à roues ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cigare, pingouin, tige de maïs, frite, panier de basket, utérus, balai, chien de maïs, doigt, centaure, cravate, clarinette, poteau téléphonique, langue, chaussette tube, rose, moustache, didgeridoo ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cadran solaire ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "jambe de femme ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "jambe, jambe de dame, jambe de femme, jambe de femme, jambe de femme, jambe de femme, jambe de dame ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "VOYAGE EN ROUTE ! Lors de votre visite à Roselawn, dans l'Indiana, découvrez le cadran solaire géant conçu pour ressembler à un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "332774_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

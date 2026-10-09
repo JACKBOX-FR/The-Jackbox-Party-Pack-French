@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "château de bannanna|château de bananna|un château de banane ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Château de banane ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "danser, gifler les enfants, se battre, faire semblant de dormir, jouer au pattycake, t'ignorer, espionner ton animal de compagnie, sauter à la corde, péter, voler à l'étalage, tweeter, faire des bulles, jouer aux cartes avec toi, faire éclater des ballons, chanter, high-five, peindre des niches, casser des meubles ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "heure ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "se blottir ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "câlin, cuillère, câlin, blotti ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "C'est un travail bizarre, mais Jackie Samuel facture 60 $ de l'heure à <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "323777_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

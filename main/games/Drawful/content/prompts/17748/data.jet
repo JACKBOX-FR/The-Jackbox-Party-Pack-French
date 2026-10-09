@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "escargot avec enveloppe|escargot et enveloppe|enveloppe et escargot ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Escargot avec une enveloppe ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

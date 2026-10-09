@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Maison des plaisirs, Queen's Bean, Royal Thighness, Masseur personnel de la reine, Les bijoux de famille, Palais des vibrations, Jubilé de diamant, Long Love the Queen, La Reine vierge, Le chapeau de la reine, Le spectre royal, Cocktess de Snowdon, Couronnement, Sa Majesté de Sa Majesté, Épée de chevalier, La garde stoïque, Le trône, Aide royale ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "reine ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Phallus de Buckingham ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Buckingam phallus,buckingham fallus,buckingham phalus ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "C’est le nom du gode ressemblant à la reine Elizabeth II vendu par la société Masturpieces. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334707_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334710_2",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

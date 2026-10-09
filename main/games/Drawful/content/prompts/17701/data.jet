@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Jour de l'arbre|jour de l'arbre ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Journée de l'arbre ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

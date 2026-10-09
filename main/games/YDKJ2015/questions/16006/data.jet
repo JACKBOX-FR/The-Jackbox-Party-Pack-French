@@ -1,0 +1,261 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "32",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "At the end, it’s just “sock it to me” a bunch of times.",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Puis elle le lui explique littéralement. ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Et elle est bouleversée par sa relation. ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "C'était cette dame qui chantait. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Musique ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Les hommes ne demandent pas de sens unique ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Je t'ai eu, bébé\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Vogue\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+2.09 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "S+4.94 ",
+      "t": "S",
+      "n": "$aQuestion$cQ3"
+    },
+    {
+      "v": "S+8.36 ",
+      "t": "S",
+      "n": "$aQuestion$cQ4"
+    },
+    {
+      "v": "S+11.96 ",
+      "t": "S",
+      "n": "$aQuestion$cQ5"
+    },
+    {
+      "v": "Quelle était cette chanson ? ",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "\"Fière Marie\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "\"Respecter\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "À la fin, c’est juste « chausse-le-moi » plusieurs fois. ",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Then she literally spells it out for him.",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "And she’s upset with her relationship.",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "It was this lady singing.",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Music",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Men Don’t Ask For One Directions",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "“I Got You, Babe”",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“Vogue”",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+2.09",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "S+4.94",
+      "t": "S",
+      "n": "$aQuestion$cQ3"
+    },
+    {
+      "v": "S+8.36",
+      "t": "S",
+      "n": "$aQuestion$cQ4"
+    },
+    {
+      "v": "S+11.96",
+      "t": "S",
+      "n": "$aQuestion$cQ5"
+    },
+    {
+      "v": "What was that song?",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "“Proud Mary”",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "“Respect”",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "354123_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "354118_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "354120_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "354119_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "354122_0f",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "354117_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "354132_0f",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

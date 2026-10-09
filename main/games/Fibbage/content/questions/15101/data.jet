@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "traumatisme crânien, empoisonnement du sang, attaque d'oiseau, blues, pantalons mouillés, perte de sang, insuffisance hépatique, empoisonnement au plomb, noyade, attaque de requin, attaque d'ours, attaque de panique, tristesse, coup de feu, privation de sommeil, inhalation de fumée, collapsus pulmonaire, décapitation ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "queue de cheval ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "crise cardiaque ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "arrêt cardiaque ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Cause du décès d'un cascadeur indien décédé en traversant une rivière sur une tyrolienne attachée uniquement à sa queue de cheval. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334569_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334572_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

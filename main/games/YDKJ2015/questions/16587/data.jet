@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "<i>Independence Day</i>|<i>The Empire Strikes Back</i>|<i>Up</i>|<i>JAWS</i>|<i>The Avengers</i>|<i>Debbie Does Dallas</i>|<i>Zookeeper</i>|<i>Toy Story</i>|<i>Raiders of the Lost Ark</i>",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "<i>The Babe</i>|<i>Batman</i>|<i>Child’s Play</i>|<i>Sleepless In Seattle</i>|<i>Forrest Gump</i>|<i>Fargo</i>",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "<i>Bacon</i>|<i>Spider-Man</i>|<i>Johnny Dangerously</i>|<i>You’ve Got Mail</i>|<i>The Muppets</i>|<i>Apollo 13</i>",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "<i>Titanic</i>|<i>Babe</i>|<i>The Dark Knight</i>|<i>The Shining</i>|<i>When Harry Met Sally</i>|<i>Gladiator</i>|<i>Argo</i>",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Don’t Quote Me on That",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "“I’m the king of the world!”|“That’ll do, pig. That’ll do.”|“Why so serious?”|“Heeeeere’s Johnny!”|“I’ll have what she’s having.”|“Are you not entertained?!”|“Argo F#@& yourself.”",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "<i>Independence Day</i>|<i>The Empire Strikes Back</i>|<i>Up</i>|<i>JAWS</i>|<i>The Avengers</i>|<i>Debbie Does Dallas</i>|<i>Zookeeper</i>|<i>Toy Story</i>|<i>Raiders of the Lost Ark</i>",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "<i>The Babe</i>|<i>Batman</i>|<i>Child’s Play</i>|<i>Sleepless In Seattle</i>|<i>Forrest Gump</i>|<i>Fargo</i>",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "<i>Bacon</i>|<i>Spider-Man</i>|<i>Johnny dangereusement</i>|<i>Vous avez un courrier</i>|<i>Les Muppets</i>|<i>Apollo 13</i> ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "<i>Titanic</i>|<i>Babe</i>|<i>Le Chevalier Noir</i>|<i>The Shining</i>|<i>Quand Harry rencontre Sally</i>|<i>Gladiator</i>|<i>Argo</i> ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Ne me citez pas là-dessus ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Je suis le roi du monde!\" | \"Ça fera l'affaire, cochon. Ça fera l'affaire. \"| \"Pourquoi si sérieux?\" | \"Heeeeee c'est Johnny!\" | \"Je vais avoir ce qu'elle a.\" | \"Tu n'es pas amusé?! \"| \"Argo F#@& toi-même.\" ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "364763_0 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "364718_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "364719_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

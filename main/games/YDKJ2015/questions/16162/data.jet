@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "“Girl From the North County”|“Stuck in a Soundbooth” |“Up Where We Belong” |“Fighting for Custody” |“(I’ve Had) The Time of My Life” |“Don’t Go Breaking My Fart”|“You Don’t Bring Me Flowers” |“The Sound of Silence” |“Who Are You Again?”",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "“Soul Man” |“The Boy Is Mine” |“Endless Love” |“Reunited” |“Push It” |“It Takes Two”",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "“Thinking of Toledo”|“Bad Karoake”|“Urinal in the Stream”|“Don’t Know Much”|“Ice Ice Baby” |“Regret”",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "“Ebony and Ivory” |“Empire State of Mind” |“Stan” |“Islands in the Stream”|“Promiscuous”|“Under Pressure” |“Picture”",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Just Duet Already!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Paul McCartney & Stevie Wonder|Jay Z & Alicia Keys|Eminem & Dido|Kenny Rogers & Dolly Parton|Nelly Furtado & Timbaland|David Bowie and Freddie Mercury|Kid Rock & Sheryl Crow",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "“Girl From the North County”|“Stuck in a Soundbooth” |“Up Where We Belong” |“Fighting for Custody” |“(I’ve Had) The Time of My Life” |“Don’t Go Breaking My Fart”|“You Don’t Bring Me Flowers” |“The Sound of Silence” |“Who Are You Again?”",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "“Soul Man” |“The Boy Is Mine” |“Endless Love” |“Reunited” |“Push It” |“It Takes Two”",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "« Je pense à Toledo » | « Bad Karoake » | « Urinoir dans le ruisseau » | « Je ne sais pas grand chose » | « Ice Ice Baby » | « Regret » ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "« Ébène et ivoire » | « État d'esprit empire » | « Stan » | « Îles dans le ruisseau » | « Promiscuous » | « Sous pression » | « Image » ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Juste un duo déjà ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Paul McCartney et Stevie Wonder | Jay Z et Alicia Keys | Eminem et Dido | Kenny Rogers et Dolly Parton | Nelly Furtado et Timbaland | David Bowie et Freddie Mercury | Kid Rock et Sheryl Crow ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "357658_0f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "357613_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "357614_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

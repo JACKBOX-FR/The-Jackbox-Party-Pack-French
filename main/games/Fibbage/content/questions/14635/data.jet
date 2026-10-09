@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Hall, fête, salon, bar, théâtre, soirée, piscine, tente, salon, Kegger, forum, arrêt au stand, centre commercial, dortoir, orgie, seau, gala, festival de saucisses. ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Pacifique ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Café ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "café ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La zone de l'océan Pacifique où les grands requins blancs se rassemblent chaque printemps est appelée le requin blanc <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324768_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

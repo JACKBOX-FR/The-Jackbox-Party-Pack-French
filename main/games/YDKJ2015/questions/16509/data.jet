@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If Las Vegas’s Excalibur were more accurate to the story of King Arthur’s Excalibur, the hotel would be shaped like a sword (not a castle) and probably built where?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "à côté de la réplique de la Tour Eiffel ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ce qui se passe à Vegas... est historiquement inexact ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "dans les eaux de la fontaine du Bellagio ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "au sommet de la pyramide de Louxor ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "suspendu dans le ciel au-dessus de la stratosphère ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si l’Excalibur de Las Vegas était plus fidèle à l’histoire de l’Excalibur du roi Arthur, l’hôtel aurait la forme d’une épée (pas un château) et serait probablement construit où ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "à côté de la réplique de la Tour Eiffel ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ce qui se passe à Vegas... est historiquement inexact ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "dans les eaux de la fontaine du Bellagio ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "au sommet de la pyramide de Louxor ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "suspendu dans le ciel au-dessus de la stratosphère ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "363127_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "363122_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "363124_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "363123_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "363126_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "363121_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "363129_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

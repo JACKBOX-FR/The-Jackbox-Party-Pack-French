@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What might it sound like if Frosted Flakes mascot Tony the Tiger read the opening line of William Blake’s famous poem, “The Tyger”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,2,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Tyger ! Tyger ! FRRRRREE ET RAPIDE ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Blakes de maïs",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Tyger ! Tyger ! BURRRRRNING BRIGHT !\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Tyger! Tyger! SUGARRRRRY SWEET!\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Tyger ! Tyger ! PRRRRROUDEMENT POISIS !\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "À quoi cela ressemblerait-il si la mascotte de Frosted Flakes, Tony le Tigre, lisait la première ligne du célèbre poème de William Blake, « The Tyger » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,2,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Tyger ! Tyger ! FRRRRREE ET RAPIDE ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Blakes de maïs ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Tigre ! Tyger ! BURRRRRNING BRILLANT ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Tigre ! Tyger ! SUGARRRRRY DOUX!” ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Tigre ! Tyger ! PRRRRROUDEMENT PRÊT ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "349755_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "349752_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "349751_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "349754_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "349759_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "349749_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "349757_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

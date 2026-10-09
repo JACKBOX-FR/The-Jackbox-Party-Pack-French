@@ -1,0 +1,195 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which popular snack food would most likely feature a picture of Emmett Kelly on the bag?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Craquelins de poisson rouge ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Doodles au fromage de Newman ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Cacahuètes de cirque ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Teddy Grahams ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Le butin du pirate ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quelle collation populaire comporterait le plus probablement une photo d'Emmett Kelly sur le sac ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Craquelins de poisson rouge ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Doodles au fromage de Newman ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Cacahuètes de cirque ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Teddy Grahams ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Le butin du pirate ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366057_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366054_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366053_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366065_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "366064_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "366056_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "366061_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366051_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "366068_0",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

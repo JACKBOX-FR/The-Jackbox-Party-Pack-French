@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "demi-horloge avec une flèche pointée vers elle|flèche pointant vers une demi-horloge|flèche pointant vers une demi-horloge|flèche et demi-horloge|demi-horloge et flèche ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une demi-horloge avec une flèche pointée vers elle ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

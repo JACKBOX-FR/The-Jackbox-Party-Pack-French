@@ -1,0 +1,243 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Whose trash is this?",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Un vieux costume des années 1800 qui sent comme s’il avait été dans les égouts. ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Gants avec des trous découpés dans trois jointures. ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Un manuel d’utilisation pour un robot boxeur. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Bin se comporte mal ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+0,12 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Arnold Schwarzenegger ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+3.19 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Celui de Russell Crowe ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.32 ",
+      "t": "S",
+      "n": "$aQuestion$cQ3"
+    },
+    {
+      "v": "S+10.79 ",
+      "t": "S",
+      "n": "$aQuestion$cQ4"
+    },
+    {
+      "v": "Celui de Daniel Craig ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Celui de Hugh Jackman ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "À qui est cette poubelle ? ",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Un vieux costume des années 1800 qui sent comme s’il avait été dans les égouts. ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Gants avec des trous découpés dans trois jointures. ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "An owner’s manual for a boxing robot.",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,2,0",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Bin Misbehavin’",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+0.12",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Arnold Schwarzenegger’s",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+3.19",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Russell Crowe’s",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.32",
+      "t": "S",
+      "n": "$aQuestion$cQ3"
+    },
+    {
+      "v": "S+10.79",
+      "t": "S",
+      "n": "$aQuestion$cQ4"
+    },
+    {
+      "v": "Daniel Craig’s",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Hugh Jackman’s",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "362968_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "362963_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "362965_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "362964_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "362967_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "362972_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "362962_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "362974_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "362977_0",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

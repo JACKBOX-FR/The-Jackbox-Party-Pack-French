@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "une brouette, un flacon de son sang, un coussin de canapé, un canari, une chaise à bascule, une serviette de bain, un préservatif, un ensemble de coordonnées, une poupée en porcelaine, un poème, un col roulé, un lama, un bol à punch, des coupons, un noogie, un long baiser, une fausse moustache, un bandeau ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Jeux olympiques ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "un arbre ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "arbre, arbres ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le cadeau étrange qu'Hitler a offert à chaque médaillé d'or aux Jeux olympiques de Berlin de 1936. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "345911_3",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "345914_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

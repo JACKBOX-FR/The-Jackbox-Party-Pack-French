@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Chauve, Sexy, Arrogant, Stupide, Arrogant, Fort, Naïf, Hollywood, Cougar, Timide, Jouet, Noisette, Sein, Farfelu, Humide, Hollywood, Renarde, Décolleté ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "traduit ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "satan ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le film <i>G.I. Jane</i> a été traduite en <i><BLANK> Femme soldat</i> en Chine. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324282_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

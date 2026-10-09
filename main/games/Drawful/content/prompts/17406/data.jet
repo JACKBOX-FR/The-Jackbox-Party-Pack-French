@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une coupe de cheveux d'homme des cavernes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Coupe de cheveux d'homme des cavernes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

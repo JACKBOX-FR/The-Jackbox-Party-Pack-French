@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "ID secrète|une identité secrète|mon identité secrète ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Identité secrète ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

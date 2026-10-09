@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Liberté, Mauvais petit bébé, Vive les fesses !, Sous-vêtements, Papa, Je ne mourrai jamais !, Heyo, Toot-toot, Wowza, Je suis la maman, Haba-Duey, Justice, Coquine, Tu adores ça, Huzzah, Leçon apprise, Sassy, Je suis roi ! ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "fessée ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Spanko",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "fessée-o,spanko !, fessée-o !, fessée o, fessée o ! ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "À la fin du XVIIe siècle, Londres a été victime d'un homme nommé Whipping Tom, qui donnait une fessée aux gens au hasard et criait « <BLANK> ! » ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339680_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "339683_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

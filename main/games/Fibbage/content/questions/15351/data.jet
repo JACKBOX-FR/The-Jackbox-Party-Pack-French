@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "laid, tout petit, stupide, farfelu, incompétent, idiot, idiot, Turd, minuscule, fou, mou, malodorant, flasque, soi-disant roi, dégoûtant, crétin, inutile, pantalon fantaisie ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "embarrassant ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Impuissant ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le roi Henri IV de Castille avait le surnom embarrassant de « Henri le <VIERGE> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339358_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

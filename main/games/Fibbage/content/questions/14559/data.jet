@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "foyers, personnes âgées, serpents, bouches d'incendie, tombes, nonnes, gâteaux, piscines, Bibles, voitures, femmes nues, sous-marins de fête, un évêque, églises, chats et chiens, baignoires, toilettes, fourches ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "diable ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "les bébés ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un bébé, une bande de bébés ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "El Colacho est un festival espagnol où les gens se déguisent comme le diable et sautent par-dessus <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "323212_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "323215_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

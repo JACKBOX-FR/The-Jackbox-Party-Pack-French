@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would be a good name for a chain restaurant whose theme was, “In here, it’s always the BEGINNING of the Hebrew Sabbath”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "T.G.I. Les vendredis à QUAND VOUS EN VOULEZ ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Brasseries orthodoxes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "T.G.I. Les vendredis au COUCHER DU SOLEIL ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "T.G.I. Les vendredis à MIDI ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "T.G.I. Les vendredis au lever du soleil ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel serait un bon nom pour une chaîne de restaurants dont le thème était : « Ici, c’est toujours le DÉBUT du sabbat hébreu » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "T.G.I. Les vendredis à QUAND VOUS EN VOULEZ ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Brasseries orthodoxes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "T.G.I. Les vendredis au COUCHER DU SOLEIL ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "T.G.I. Les vendredis à MIDI ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "T.G.I. Les vendredis au lever du soleil ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "365184_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "365181_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "365180_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "365183_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "365178_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "365190_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

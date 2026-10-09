@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "manger un papillon|un papillon manger|manger un papillon ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Papillon mangeant ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

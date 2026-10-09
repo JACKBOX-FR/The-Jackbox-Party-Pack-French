@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "bœuf, prostitution, chapeau, couche, didgeridoo, gomme, jeep, short cargo, couteau, venin de serpent, cigarette, crocodile, crevette, chaise à bascule, boomerang, pistolet, cracker, DVD ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "pétition ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "bière ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2000, l'Australie a lancé sa plus grande pétition en ligne jamais organisée, appelant à mettre fin à la hausse des prix <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "336025_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "336028_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

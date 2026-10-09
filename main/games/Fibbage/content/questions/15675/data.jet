@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "masse, crâne humain, katana, bâton de dynamite, boule de bowling, torche de soudage, grue, fusil de chasse, parpaing, SUV, tronçonneuse, python, bulldozer, pistolet à clous, ordinateur, grenade, collègue, pied de biche ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Twix ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "chariot élévateur ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "chariot élévateur ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un homme de Milford, Iowa, a été licencié après avoir utilisé un <BLANK> pour déloger sa barre Twix du distributeur automatique du bureau. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "346823_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

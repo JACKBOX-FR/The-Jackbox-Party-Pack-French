@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "“Laffy Taffy” |“Funkytown” |“Call Me Maybe”|“I Know What Boys Like” |“Whip It” |“Who Let the Dogs Out?”|“Ice Ice Baby” |“Tubthumping” |“Jump Around”",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "“Kung Fu Fighting” |“I Want Candy” |“Barbie Girl” |“I Touch Myself” |“Bust a Move”|“Flagpole Sitta”",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "“Overalls” |“Girls” |“Right To Voicemail” |“Nnn Nnn Nnn Nnn”|“Caterpillar” |“The Freshman”",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "“Stacy’s Mom”|“Come On Eileen” |“Mambo #5”|“867-5309 (Jenny)”|“Mmm Mmm Mmm Mmm” |“Butterfly” |“Bitter Sweet Symphony”",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Full Of One Hit Wonder",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Fountains of Wayne|Dexy’s Midnight Runners|Lou Bega|Tommy Tutone|Crash Test Dummies|Crazy Town |The Verve",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "“Laffy Taffy” |“Funkytown” |“Call Me Maybe”|“I Know What Boys Like” |“Whip It” |“Who Let the Dogs Out?”|“Ice Ice Baby” |“Tubthumping” |“Jump Around”",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "“Kung Fu Fighting” |“I Want Candy” |“Barbie Girl” |“I Touch Myself” |“Bust a Move”|“Flagpole Sitta”",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "« Salopette » | « Filles » | « Droit à la messagerie vocale » | « Nnn Nnn Nnn Nnn » | « Caterpillar » | « The Freshman » ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "« La maman de Stacy » | « Allez Eileen » | « Mambo #5 » | « 867-5309 (Jenny) » | « Mmm Mmm Mmm Mmm » | « Papillon » | « Symphonie douce-amère » ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Plein d'une merveille à succès ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Fontaines de Wayne|Dexy's Midnight Runners|Lou Bega|Tommy Tutone|Crash Test Dummies|Crazy Town |The Verve ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "366244_0 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "366199_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "366200_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would NOT go into a Mark Cuban Cuban Sandwich?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un million de dollars de jambon ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Allons faire tanker les requins ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un million de dollars de choucroute ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un million de dollars de fromage suisse ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un million de dollars de moutarde ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qu'est-ce qui n'entrerait PAS dans un sandwich cubain Mark Cuban ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un million de dollars de jambon ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Allons faire tanker les requins ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un million de dollars de choucroute ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un million de dollars de fromage suisse ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un million de dollars de moutarde ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "362318_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "362315_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "362314_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "362317_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "362322_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "362312_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "362324_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "362320_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

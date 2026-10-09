@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "se déshabiller, prier Dieu, se repentir de ses péchés, danser pendant 10 minutes, chanter une chanson, raconter une blague, mourir, le rendre à son propriétaire, faire un compliment, faire l'amour avec un loup-garou, faire des sautés, le mettre sur sa tête, proposer à la personne la plus proche, raconter un secret, se mordre, jouer de l'air guitar, faire une sieste, manger tout cela ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "vampire ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "compter chaque grain ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "comptez chaque grain, comptez chaque riz, comptez chaque riz, comptez chacun, comptez chacun, comptez-les tous, comptez tout, comptez chaque grain de riz, comptez chaque grain de riz ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Selon un mythe chinois, si un vampire tombe sur un sac de riz, il doit <VIER>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354268_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "354271_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

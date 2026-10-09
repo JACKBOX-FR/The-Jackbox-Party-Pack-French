@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "banquiers internationaux, avocats, cuisiniers, boxeurs, mannequins, videurs, éboueurs, modèles de salopettes, danseurs de ballet, professionnels du poker, agriculteurs, chauffeurs de camion, ouvriers du bâtiment, entrepreneurs, dentistes, spécialistes de la lutte antiparasitaire, cueilleurs de baies, conférenciers motivateurs ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Mario et Luigi ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "concierges",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "gardiens, concierge, concierge ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "<i>Le New York Times</i> a été contraint de publier une correction après avoir identifié de manière incorrecte les personnages de Nintendo, Mario et Luigi, comme étant <BLANK> au lieu de plombiers. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317809_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

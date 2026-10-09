@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "dinosaures, trolls, baleines, nymphes des bois, gens de lave, chupacabras, yéti, zombies, groupes indépendants, oies dorées, fans de Bjork, rats, fantômes, asticots, cafards, monstres, petits pandas, voyageurs du temps ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bâtiment ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "elfes ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "les elfes, les elfes, le peuple elfe, le peuple elfique, les elfes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La construction d'autoroutes en Islande a été retardée en 2013 après que des défenseurs ont affirmé que le projet détruirait les terres naturelles où <BLANK> vit et prospère. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "352120_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "352123_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

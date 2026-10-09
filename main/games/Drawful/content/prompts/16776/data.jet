@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "ramoneur français | ramoneur de france | un ramoneur français ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ramoneur français ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

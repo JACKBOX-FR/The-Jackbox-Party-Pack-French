@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "la farce de la brosse à dents|une farce de la brosse à dents ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Blague de brosse à dents ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

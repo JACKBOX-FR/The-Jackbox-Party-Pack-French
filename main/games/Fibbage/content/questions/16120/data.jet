@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "clowns, vide-greniers, jazz, menuiserie, manuels d'instructions, faire les impôts, marionnettes, trains, karaoké, faire des s'mores, claquettes, entendre la sonnerie d'un téléphone, nettoyer le poisson, voter à une élection, repasser, requins, éternuements, pantalons kaki ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "excitation ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "poésie ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "poèmes,entendre de la poésie,lire de la poésie,lire des poèmes,entendre des poèmes,réciter de la poésie,réciter des poèmes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La métrophilie est une excitation sexuelle provoquée par <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "356640_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

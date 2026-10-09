@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "peau de léopard, fourchettes, bois de cerf, magazines <i>Playboy</i>, pain d'épices, déjections humaines, cure-dents, cire d'abeille, laine, papier bulle, neige carbonique, vieille gomme, vaches vivantes, pain rassis, balles, ruban adhésif, canettes de bière, lave ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cathédrale ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "carton ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "carton ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "VOYAGE EN ROUTE ! Lors de votre visite à Christchurch, en Nouvelle-Zélande, jetez un œil à la cathédrale de 6 millions de dollars réalisée en <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "346525_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "346528_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

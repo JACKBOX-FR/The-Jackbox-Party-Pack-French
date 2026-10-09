@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Christ, jambon, Moïse, Laban, pape, Innis, Loyola, Heinrich, Smith, Bilder, Niekamp, Richard, roi, Sniffen, Trupia, Hansen, Ubernostrum, Quackenbush ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "dernier ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Zolp ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'Université Loyola offre une bourse à tous les étudiants catholiques portant le nom de famille <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324915_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "324918_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

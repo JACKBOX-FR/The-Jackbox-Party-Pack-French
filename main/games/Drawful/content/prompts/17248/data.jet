@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "le gagnant d'un chèque géant|un gagnant d'un chèque géant|gagnant d'un chèque géant ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "gagnant d'un chèque géant ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

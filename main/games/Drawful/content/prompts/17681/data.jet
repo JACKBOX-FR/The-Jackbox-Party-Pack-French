@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une capsule de sauvetage|une capsule de sauvetage ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Capsule d'évasion ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

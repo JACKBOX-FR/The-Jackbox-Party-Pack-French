@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "l'âge des ténèbres|les ténèbres|les ténèbres|l'âge des ténèbres|l'âge des ténèbres|l'âge des ténèbres ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les âges sombres ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

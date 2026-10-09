@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un surin de prison ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Surin de prison ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369249_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

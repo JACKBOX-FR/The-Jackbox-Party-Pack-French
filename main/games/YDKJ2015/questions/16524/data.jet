@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Besides the blood-red sky... what else in the painting <i>The Scream</i> could that dude be screaming about?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"CHAUVES-SOURIS! CHAUVES-SOURIS! TANT DE CHAUVES-SOURIS !!!\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je ne peux pas m'arrêter de crier !!!! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Cette rampe à côté de laquelle je me trouve est-elle vraiment robuste ?!!!! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« CES CHIENS LÀ-BAS ME FONT FAIRE !!!! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« JE SUIS ALLERGIQUE À TOUTE CETTE HERBE !!!! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "A part le ciel rouge sang... quoi d'autre dans le tableau <i>Le cri</i> ce mec pourrait-il crier ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"CHAUVES-SOURIS! CHAUVES-SOURIS! TANT DE CHAUVES-SOURIS !!!\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je ne peux pas m'arrêter de crier !!!! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Cette rampe à côté de laquelle je me trouve est-elle vraiment robuste ?!!!! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« CES CHIENS LÀ-BAS ME FONT FAIRE !!!! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« JE SUIS ALLERGIQUE À TOUTE CETTE HERBE !!!! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "363423_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "363418_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "363420_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "363419_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "363422_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "363417_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "363425_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

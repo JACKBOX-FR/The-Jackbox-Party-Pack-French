@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "sous-vêtements loups | sous-vêtements loup | sous-vêtements loup ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sous-vêtements loups ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

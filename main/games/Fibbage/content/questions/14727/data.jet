@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "kung fu, dormir, lutte, écriture, course, plongée, escrime, natation, anecdotes, tic-tac-toe, conduite, kickball, jardinage, Scrabble, football, beatboxing, gymnastique, débat ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "boxe ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "échecs ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Leo Granit Kraft est champion du monde dans un sport insolite qui combine boxe et <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "326679_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "326682_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

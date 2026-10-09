@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Dessin d'enfant de sa famille|dessin d'enfant de famille|a Dessin d'enfant de sa famille ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dessin d'enfant de sa famille ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

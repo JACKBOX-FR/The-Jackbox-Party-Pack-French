@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would you hear on the show?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Imaginez, afin d'attirer les jeunes téléspectateurs, la chaîne chrétienne TBN diffuse une imitation de <i>Late Night with Seth Meyers</i> intitulée <i>Late Night with Seth from The Bible</i>. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Abandonnez ça pour ma chef de groupe et ma mère, Jézabel ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Es-tu là, Dieu, c'est moi, Jimmy Fallon ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« S'il vous plaît, accueillez mon frère meurtrier Caïn ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Ce spectacle est en direct de l’arche de mon père Noé ! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Alors, ma sœur Marie-Madeleine a fait la une des journaux...\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+9h35 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Qu’entendriez-vous dans l’émission ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Imaginez, afin d'attirer les jeunes téléspectateurs, la chaîne chrétienne TBN diffuse une imitation de <i>Late Night with Seth Meyers</i> intitulée <i>Late Night with Seth from The Bible</i>. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Abandonnez ça pour ma chef de groupe et ma mère, Jézabel ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Es-tu là, Dieu, c'est moi, Jimmy Fallon ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« S'il vous plaît, accueillez mon frère meurtrier Caïn ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "“This show is live from my father Noah’s ark!”",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“So, my sister, Mary Magdelene has been in the news...”",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+9.35",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "342345_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "342342_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "342341_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "342344_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "342339_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "342351_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "342347_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

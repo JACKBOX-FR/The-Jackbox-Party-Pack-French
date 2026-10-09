@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Jésus, des octuplés identiques, des extraterrestres, des statues, des serpents, des guêpes, un vieil homme, un chien qui parle, le diable, le feu, elle-même, Robin des Bois, des abeilles, une fée, des poupées, une rame de papier, le Père Noël, beaucoup de pièces d'or. ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "naissance ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "lapins ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "des lapins,un lapin,un lapin,un lapin,un lapin,des lapins,des lapins ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1726, une Britannique nommée Mary Toft a convaincu les médecins qu'elle avait donné naissance à <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "351045_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

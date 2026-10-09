@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "toges, hauts-de-forme, couches, couches pour adultes, armures, capes, perruques, rose vif, mini-jupes, costumes de gorilles, sacs poubelles, monocles, papier toilette, cornes, rien, ailes, bikinis, boîtes Kleenex ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bal de fin d'année ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "ruban adhésif ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "ruban de canard ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, deux adolescents du lycée Sequoyah, près d'Atlanta, en Géorgie, ont remporté une bourse de 5 000 $ pour avoir porté <BLANK> au bal de promo. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324892_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "bagels à pizza, trucs sortis de la poubelle, colle, plus de collations aux fruits que de fruits, peaux mortes, shampoing, sperme, gâteau aux fruits, sandwichs à la mayonnaise, graisse sur la côte de bœuf, bâtonnets de poisson, nourriture périmée, écorce, nourriture pour chien, paquets droits de sucre, chats, herbe, garniture de canapé ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "44% ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "crottes de nez",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "leurs propres crottes de nez, leurs crottes de nez, une crotte de nez, une crotte de nez, une de leurs propres crottes de nez, une de leurs crottes de nez, quelques crottes de nez ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dans une étude réalisée par l'auteur Stefan Gates, 44 % des adultes ont admis manger <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338228_0f",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

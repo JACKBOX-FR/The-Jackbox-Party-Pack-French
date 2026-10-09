@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "manger, voir un camion de glace, pleurer, se faire virer, faire caca, aller à des funérailles, forniquer, tenir des chiots, vomir, se brûler, mourir, voir un bébé, regarder du porno, serrer quelqu'un dans ses bras, voir des publicités, danser, sentir les ordures, se marier ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Barcelone ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "écouter de la musique ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "entendre de la musique ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Selon une étude de l'Université de Barcelone, étonnamment, 5 % des personnes n'éprouvent absolument aucune réaction émotionnelle lorsqu'elles <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "351715_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "351718_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

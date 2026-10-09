@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "klaxonne si tu es excitée | klaxonne si tu es excitée ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Klaxonne si tu es excitée ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

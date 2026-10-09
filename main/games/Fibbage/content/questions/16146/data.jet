@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "fait d'oreillers, accueillant et efficace, dans une casse, brille dans le noir, dirigé par des robots, entouré de mines terrestres, sur un bateau pirate, à l'intérieur d'un volcan, gratte et renifle, un hologramme, dans un cimetière, juste un ordinateur, fait de gaufres, un igloo, une maison gonflable, sur des bâtons, appartenant à George Clooney, toujours en feu ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bureau ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "sous l'eau ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "sous l'eau, dans l'océan, sous la mer, immergé dans l'océan, immergé dans l'eau ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "VOYAGE EN ROUTE ! Lorsque vous êtes à Port Vila, Vanuatu, assurez-vous de vérifier leur bureau de poste, ce qui est inhabituel car il est <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "357161_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "357164_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

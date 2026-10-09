@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "officier de police, George Washington, Harry Connick, Jr., prêtre, mannequin de crash test, Bill Clinton, courrier, Père Noël, Louis Armstrong, clown, mère, Jésus, Matthew McConaughey, vampire, maire, père au foyer, Satan, lutin ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "torse nu ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "pompier",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pompier, pompier, pompier ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "VOYAGE EN ROUTE ! Lorsque vous êtes à Lafayette, en Louisiane, n'oubliez pas de jeter un œil à leur statue quelque peu érotique représentant un <BLANK> torse nu. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "350524_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "350527_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

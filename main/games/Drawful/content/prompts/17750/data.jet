@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un portrait policier d'un tueur ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Croquis policier d'un tueur ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

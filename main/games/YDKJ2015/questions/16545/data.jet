@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What famous painting could have inspired the name of the band Cypress Hill?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Le « gothique américain » de Grant Wood ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Peindre à la fois par un et par deux ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "La « Nuit étoilée » de Vincent Van Gogh ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Un dimanche à la Grande Jatte\" de Georges Seurat ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« La persistance de la mémoire » de Salvador Dali ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel tableau célèbre a pu inspirer le nom du groupe Cypress Hill ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Le « gothique américain » de Grant Wood ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Peindre à la fois par un et par deux ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "La « Nuit étoilée » de Vincent Van Gogh ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Un dimanche à la Grande Jatte\" de Georges Seurat ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« La persistance de la mémoire » de Salvador Dali ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "363866_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "363863_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "363862_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "363865_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "363860_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

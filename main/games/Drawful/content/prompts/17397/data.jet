@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un ami imaginaire|un ami imaginaire ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ami imaginaire ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

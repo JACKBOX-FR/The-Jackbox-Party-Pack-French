@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "pooty, titres, frang, boozers, namblir, cris, cloostine, liggies, harmp, pog, warster, code statique, shiggles, Cursetags, fuckston, censories, profass, blimpo ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "jurer ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "grawlix ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le nom des symboles aléatoires utilisés pour indiquer les jurons dans les bandes dessinées. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334983_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334986_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

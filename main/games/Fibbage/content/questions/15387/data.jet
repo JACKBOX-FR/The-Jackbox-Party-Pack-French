@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "brouette, niche à chien, fossé, dressing, coffre-fort de banque, lit des parents, cabine, grange, remontées mécaniques, cercueil, banc des pénalités, cellule de prison, évier, cabine de son, boîte, lac, cheminée, brasserie ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Playtex ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "canot ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "canue, kayak ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une enquête menée en 2013 par Playtex a révélé que 8 % des Canadiens ont eu des relations sexuelles dans un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "340186_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "340189_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

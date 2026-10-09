@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Bonhomme de neige Xtreme|un bonhomme de neige extrême|un bonhomme de neige extrême ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bonhomme de neige extrême ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "bracelet de brioches à la cannelle|un bracelet de brioches à la cannelle ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "bracelet brioche à la cannelle ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

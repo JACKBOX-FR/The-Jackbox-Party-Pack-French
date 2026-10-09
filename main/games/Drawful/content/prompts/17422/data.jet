@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "porte-bonheurs sans guimauves|porte-bonheurs sans guimauves|porte-bonheurs sans guimauves|porte-bonheurs sans guimauves|porte-bonheurs sans guimauves ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Lucky Charms sans les guimauves ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

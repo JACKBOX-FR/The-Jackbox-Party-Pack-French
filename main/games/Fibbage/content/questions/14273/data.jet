@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "chèvre, sexe, maîtresse, vodka, chaise, enfant, pousse-pousse, femme, bain, chant, pipe, achat, lit, bibliothèque, perruque, violon, mouchoir, danse ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Pierre ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "barbe ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "poils du visage, barbes, barbe ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sous Pierre le Grand, les nobles devaient payer 100 roubles par an pour une licence <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317359_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

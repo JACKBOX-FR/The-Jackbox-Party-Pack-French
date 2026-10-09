@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would the Craigslist ad say if the phantom from the musical <i>Phantom of the Opera</i> wanted to rent out his secret lair?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,1,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Dimension fantôme confortable avec portail vers l'Opéra\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Sous-lettre d'Andrew Lloyd ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« des tunnels spacieux sous l'Opéra » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« emplacement merveilleux en face de l'Opéra » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« superbe vue depuis le grenier de l'Opéra » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Que dirait la publicité de Craigslist si le fantôme de la comédie musicale <i>Le Fantôme de l'Opéra</i> voulait louer son antre secret ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,1,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Dimension fantôme confortable avec portail vers l'Opéra\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Sous-lettre d'Andrew Lloyd ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« des tunnels spacieux sous l'Opéra » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« emplacement merveilleux en face de l'Opéra » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« superbe vue depuis le grenier de l'Opéra » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "368344_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "368341_0f",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "368340_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "368343_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "368338_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "368350_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "368346_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

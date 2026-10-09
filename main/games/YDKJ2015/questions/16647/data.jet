@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "flying pig|albatross|turkey|crow|peacock|pheasant|Larry Bird|dodo|emu",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Road Runner|goose|eagle|puffin|stork|loon",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "woodpecker|swan|griffin|robin|penguin|parrot",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "toucan|canary|duck|owl|penguin|hornbill|chicken",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Givin’ the Bird",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Toucan Sam|Tweety|Launchpad McQuack|Harry Potter’s Hedwig|Mumble from <i>Happy Feet</i>|Zazu from <i>Lion King</i>|Gonzo’s Camilla",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "flying pig|albatross|turkey|crow|peacock|pheasant|Larry Bird|dodo|emu",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Road Runner|goose|eagle|puffin|stork|loon",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "pic|cygne|griffin|rouge-gorge|pingouin|perroquet ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "toucan|canari|canard|hibou|pingouin|calao|poulet ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Donner l'oiseau ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Toucan Sam|Tweety|Launchpad McQuack|Hedwige de Harry Potter|Mumble de <i>Happy Feet</i>|Zazu du <i>Roi Lion</i>|Camilla de Gonzo ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "365999_0f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "365954_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "365955_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

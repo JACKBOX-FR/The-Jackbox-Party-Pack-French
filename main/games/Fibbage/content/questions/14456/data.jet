@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Ka-blam, Shizzle, Huh, Bong, Bam, Flap, Nip, Flurb, Wham, Bark, Jerk, Slam, Snap, Sr., Barf, Wheeze, Jack, Yoink, Roar ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Bande ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Pouf ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Il était une fois un quatrième membre du gang des mascottes Rice Krispies de Kellogg. À l'origine, il s'agissait de Snap, Crackle, Pop et <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "321176_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

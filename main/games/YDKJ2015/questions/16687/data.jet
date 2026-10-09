@@ -1,0 +1,302 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "Smooth Trends",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Animal Contacts",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Start ‘Em Young",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Techniques in Petting",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "The Dog Goes “Bow-Chicka Bow Wow”",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+4.03",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0,56 ",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aInstr$cIncorrect"
+    },
+    {
+      "v": "une section du <i>The Everything Dog Grooming Book</i> de Sandy Blackburn ",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "S+8.90 ",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "0,1,0,0,1,1,1 ",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Démangeaisons à l'arrière ",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "Sans poils ",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Maintenant, où ai-je mis ça ? ",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "une section dans <i>Le comportement sexuel chez l'homme humain</i> d'Alfred Kinsey ",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "TOILETTAGE DE CHIENS ",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "SEXE ",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S+0,57 ",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "Tendances fluides ",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Contacts avec les animaux ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Commencez-les jeunes ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Techniques de caresses ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "The Dog Goes “Bow-Chicka Bow Wow”",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+4.03",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.56",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cIncorrect"
+    },
+    {
+      "v": "a section in Sandy Blackburn’s <i>The Everything Dog Grooming Book</i>",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "S+8.90",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "0,1,0,0,1,1,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "Itchy Rear",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "Hairless",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "Now Where Did I Put That?",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "a section in Alfred Kinsey’s <i>Sexual Behavior in the Human Male</i>",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "DOG GROOMING",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "SEX",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S+0.57",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "366785_0",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "366773_0",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "366772_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "366784_0",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "366781_0",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "v": "366783_0",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "366782_0",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    },
+    {
+      "v": "366774_0",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "366775_0",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "366786_0",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "366776_0",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "366777_0",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "366778_0",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "366779_0",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "366780_0",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "366787_0",
+      "t": "A",
+      "n": "aDat"
+    }
+  ]
+}

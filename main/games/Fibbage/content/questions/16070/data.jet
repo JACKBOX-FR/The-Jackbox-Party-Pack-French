@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "les bouteilles en plastique, l'Argentine, leur bouche, l'océan, les groupes, leur imagination, le désert, les rues, la piscine, leur jardin, les fourmilières, leur bière, les grottes de chauves-souris, l'évier, leurs lits, leurs réservoirs d'essence, leurs pantalons, leurs tasses ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "forêt tropicale ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "la douche ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "des douches, une douche, une douche ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un groupe environnemental brésilien a lancé une campagne en 2009 pour sauver la forêt tropicale en exhortant les gens à faire pipi dans <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "355498_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "355501_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

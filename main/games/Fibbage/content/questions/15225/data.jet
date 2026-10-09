@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Cheveux,Maison!,Maison,Tombe,Mains,Chat,Chaise,Couche,Salle de bain,Chou,Amant,Dents,Rêve,Souffle,Funérailles,Parfum,Erreur,Dîner au jambon ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "787 ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Pull ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La couleur de peinture Benjamin Moore 787 porte le nom étrange de Grandma's <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "336430_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "336433_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

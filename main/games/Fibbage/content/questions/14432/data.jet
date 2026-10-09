@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "voiture, opossum, bière, rat, bateau, rendez-vous, chien, péniche, millions de dollars, Thanksgiving Turquie, manteau, caravane, dîner gratuit, trampoline, Wii, émission de télévision, vacances, Beanie Baby ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cafards ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Python ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "serpent ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un homme de Floride est mort étouffé par les cafards qu'il a mangés alors qu'il tentait de gagner un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "320736_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "320739_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Who kicked the Bucket?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un gars qui a donné un coup de pied au fils de <i>James et la pêche géante</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La mort nous arrive tous ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un gars qui a donné un coup de pied au fils de <i>Charlie et la Chocolaterie</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un gars qui a donné un coup de pied au fils de <i>To Kill a Mockingbird</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un gars qui a donné un coup de pied au fils de <i>Where the Wild Things Are</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qui a donné un coup de pied au seau ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un gars qui a donné un coup de pied au fils de <i>James et la pêche géante</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La mort nous arrive tous ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un gars qui a donné un coup de pied au fils de <i>Charlie et la Chocolaterie</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un gars qui a donné un coup de pied au fils de <i>To Kill a Mockingbird</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un gars qui a donné un coup de pied au fils de <i>Where the Wild Things Are</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "357281_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "357278_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "357277_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "357280_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "357285_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "357275_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "357287_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

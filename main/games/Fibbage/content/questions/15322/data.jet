@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Kitchen Buddy, Fibbage, Nourriture nucléaire, Hot Box, Robo Chef, Dutch Oven, Future Cook, Speed Cook, The Box, Flash Food, Very Fast Food, Afternoon Quickie, XXX, Amanda, Rory's First Kiss, Robot Yum Yum, Jeff Hansen, Food Electrocutor ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "code secret ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Weenie rapide ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "rapide, speedie weenie,opération speedy weenie,opération speedie weenie,opération speedy weeny ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le nom de code secret du projet d’invention du premier four à micro-ondes dans les années 40. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338691_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "338694_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

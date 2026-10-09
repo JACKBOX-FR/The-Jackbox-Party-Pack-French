@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "reins, boîte aux lettres, cendres du mari, toit, bazooka, Père Noël gonflable géant, cabane dans les arbres, fenêtres, âme, tapis de bienvenue, grands-parents, herbe, poubelles, piscine hors sol, échantillons d'urine, roseraie prisée, lait maternel, monocycle ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "volé ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "allée ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "allée en brique, allée ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un jour de 2012, une femme de Floride est rentrée chez elle et a découvert que, étrangement, son <BLANK> avait été volé sous les yeux de ses voisins. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338113_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "338116_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

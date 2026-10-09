@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "le pire état|le pire état de tous les temps|le pire état ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le pire état de tous les temps ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What professional cat are you most likely to find on the social networking site LynxIn?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un directeur des opérations ocelot ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Internet est principalement constitué de chats ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un consultant en affaires Bobcat ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un générateur de plomb de lion ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un rédacteur cougar ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel chat professionnel êtes-vous le plus susceptible de trouver sur le site de réseau social LynxIn ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un directeur des opérations ocelot ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Internet est principalement constitué de chats ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un consultant en affaires Bobcat ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un générateur de plomb de lion ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un rédacteur cougar ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "367611_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "367608_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "367607_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "367610_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "367615_0f",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "367605_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

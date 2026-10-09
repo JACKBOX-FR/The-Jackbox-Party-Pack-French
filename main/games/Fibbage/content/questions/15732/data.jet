@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "fils, cendres du père, chapeau, chemise, toupe de l'oncle, maison, patron, toutes les économies de la vie, portefeuille, clés de travail, pénis, acte de naissance, visage, cheveux, poids en pièces de monnaie, brosse à dents, chien de la sœur, lit ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "les salaires ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "doigt ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "propre doigt, petit doigt, petit doigt, petit doigt, petit doigt, petit doigt ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2009, dans le cadre d'une manifestation contre les salaires impayés, un responsable syndical serbe a mangé son <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "348068_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "348071_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "According to Henry Wadsworth Longfellow, how would Paul Revere secretly signal to you that he has to pee in the sea?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Je dois faire un n°1 sur un 1.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La course de minuit aux toilettes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Je dois faire un n°1 sur un 2.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Je dois faire un n°1 sur un 3.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Je dois faire un #2 dans un 1.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Selon Henry Wadsworth Longfellow, comment Paul Revere vous signalerait-il secrètement qu'il doit faire pipi dans la mer ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Je dois faire un n°1 sur un 1.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La course de minuit aux toilettes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Je dois faire un n°1 sur un 2.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Je dois faire un n°1 sur un 3.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Je dois faire un #2 dans un 1.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "343432_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "343429_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "343428_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "343431_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "343436_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "343426_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "343438_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

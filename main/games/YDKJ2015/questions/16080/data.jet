@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If the 80s hair band Poison were like “poison ivy,” what part of them would give people a rash?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "la SOIE sur leurs vêtements rock ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je vais avoir besoin de lotion deux océans de calamine, STAT ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "l'HUILE dans leur maquillage ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "l'ENCRE dans leurs tatouages ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "les FUMÉES de leur laque ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si le bandeau Poison des années 80 ressemblait à de l'herbe à puce, quelle partie d'entre eux donnerait une éruption cutanée aux gens ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "la SOIE sur leurs vêtements rock ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je vais avoir besoin de lotion deux océans de calamine, STAT ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "l'HUILE dans leur maquillage ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "l'ENCRE dans leurs tatouages ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "les FUMÉES de leur laque ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "355747_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "355744_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "355743_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "355746_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "355751_1",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "355741_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "355753_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "355749_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

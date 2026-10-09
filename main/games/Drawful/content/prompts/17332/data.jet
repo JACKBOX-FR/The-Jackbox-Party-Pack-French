@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sandwich aux cornichons et à la laitue et au bacon sans moutarde ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369768_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

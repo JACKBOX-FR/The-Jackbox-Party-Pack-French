@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "high-fiving, transpirer, bercer, nourrir, apprendre à connaître, caresser, F, tenir, bénir, salle de bain, serrer, frotter, gifler, aire de restauration, remercier, chatouiller, agaçant, gifler ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Simons ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "étreindre ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "je fais des câlins, et je fais des câlins, et je fais des câlins ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "TWEET DE CÉLÉBRITÉ ! 14h49 - 15 novembre 2013 Le compte Twitter de Richard Simmons @TheWeightSaint a tweeté : « À l'aéroport <VIERGE> tout le monde. » ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "335795_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "335798_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

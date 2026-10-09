@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If the fast food chain Long John Silver’s had a calamari special called “Squid Pro Quo!” what would be an appropriate tagline in their commercials?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "«Tous nos calamars sont gratuits!» ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "J'ai utilisé tous mes jours de vacances pour le Lobster Fest ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Nous vous donnerons des calamars, si vous nous donnez des calamars ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"L'acheteur doit se méfier de nos calamars!\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Les calamars sont innocents jusqu’à preuve du contraire ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si la chaîne de restauration rapide Long John Silver’s proposait un spécial calamar appelé « Squid Pro Quo ! quel serait un slogan approprié dans leurs publicités ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "«Tous nos calamars sont gratuits!» ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "J'ai utilisé tous mes jours de vacances pour le Lobster Fest ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Nous vous donnerons des calamars, si vous nous donnez des calamars ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"L'acheteur doit se méfier de nos calamars!\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Les calamars sont innocents jusqu’à preuve du contraire ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "365847_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "365844_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "365843_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "365846_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "365851_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "365841_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "365853_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

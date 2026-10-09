@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Poisson pourri, saut à sec, nudité, coup de poing au visage, miction publique, crotte de nez, mangeur de serpent, vomissements, poils pubiens, roadkill, cérumen, chat mort, combat à coups de poing, pellicules, prépuce, patchouli, pet, tatouage dans le bas du dos ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Népal ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Malédiction ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "malédiction, gros mots, gros mots, jurons, gros mots, gros mots ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "VOYAGE EN ROUTE ! Au Népal, visitez les villages Parsawa et Laxmipur, où vous pourrez profiter du festival <BLANK> légèrement rebutant de 10 jours. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339519_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "339522_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

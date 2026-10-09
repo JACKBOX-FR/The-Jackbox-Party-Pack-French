@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "évasion d'une prison souterraine ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "S'évader de la prison souterraine ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

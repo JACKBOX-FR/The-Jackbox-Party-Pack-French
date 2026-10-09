@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If the last panel of a Hagar the Horrible comic shows Hagar entering “Valhalla,” what would you probably see going on in the previous panel?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Agar se noie en mer ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le cirque familial n'est qu'un mythe ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Agar tuée au combat ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Agar mourant de vieillesse ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Agar brûlée vive ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si le dernier panneau d’une bande dessinée d’Agar l’Horrible montre Hagar entrant dans « Valhalla », que verriez-vous probablement se passer dans le panneau précédent ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Agar se noie en mer ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le cirque familial n'est qu'un mythe ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Agar tuée au combat ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Agar mourant de vieillesse ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Agar brûlée vive ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366393_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366390_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366389_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366392_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "366397_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366387_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "366399_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

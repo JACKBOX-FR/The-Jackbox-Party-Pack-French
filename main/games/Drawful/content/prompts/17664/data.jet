@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "bouton-poussoir pour recevoir du bacon | bouton-poussoir pour obtenir du bacon ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bouton poussoir recevoir du bacon ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

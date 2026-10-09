@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "une marionnette,un gars en costume de marmotte,une carotte,une chaîne stéréo,un ballon de football,un Slinky,un tableau,un mannequin,des fleurs,une femme nue,un hologramme,de la laitue,une peluche,un bel arbre,rien,un comédien,une carotte,un numéro 2 géant ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Punxsutawney Phil ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "une marmotte animatronique ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un robot,un robot marmotte,une marmotte robotique,robots,robot,robot marmotte,marmottes robotiques ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "PETA a demandé aux responsables de Punxsutawney, en Pennsylvanie, de remplacer Punxsutawney Phil, la marmotte du jour de la marmotte, par <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318774_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

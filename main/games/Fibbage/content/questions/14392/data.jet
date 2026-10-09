@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Funky, À la maison, Au centre commercial, Fort, En bas, À l'extérieur, Gay, Sans abri, Topless, Cassé, Shopping, Romantique, Jeune, Course, Libéral, Cueillette de pommes, Sénile, Bananes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Jus de Beetle ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Hawaïen ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Hawaïen ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une suite de <i>Beetlejuice</i> intitulée <i>Beetlejuice Goes <BLANK></i> a été écrite mais n'a jamais été réalisée. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "319914_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "319917_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

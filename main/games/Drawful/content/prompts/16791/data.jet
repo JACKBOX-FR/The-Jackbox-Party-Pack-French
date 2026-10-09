@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Hitler sans moustache|Hitler sans moustache ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Hitler sans moustache ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

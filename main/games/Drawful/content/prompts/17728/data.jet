@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "je ne peux pas dormir à cause des oiseaux | je ne peux pas dormir à cause des oiseaux ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Je ne peux pas dormir à cause des oiseaux ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

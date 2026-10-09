@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "chien mort, application téléphonique, fantôme, ours en peluche, pin, sleleton, oreiller avec des yeux dessinés dessus, réservoir d'eau, affiche de Céline Dion, chaussure, lapin invisible, dinosaure dans un musée, imitateur d'Elvis, chat, sac plein de perruques, poupée Barbie, vadrouille portant un tablier, tas de sous-vêtements sales ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "heureusement ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "mannequin en fauteuil roulant ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un homme de Watertown, New York, affirme avoir été marié pendant plus de 25 ans à sa femme Teagan, qui étrangement est une <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "353054_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "353057_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

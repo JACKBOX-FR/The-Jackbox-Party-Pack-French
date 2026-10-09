@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une pépinière d'araignées ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pépinière d'araignées ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368971_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

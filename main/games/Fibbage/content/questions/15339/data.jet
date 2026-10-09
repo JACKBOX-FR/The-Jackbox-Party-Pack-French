@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "non, cahoteux, gigantesque, quelqu'un d'autre, bizarre, vieil homme, téméraire, nu, floconneux, parfait, carré, féminin, musclé, fabuleux, ample, malodorant, terrifiant, compressible ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "les fesses ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "poilu",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "cheveux sur,cheveux sur toi,très poilu,excessivement poilu ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dasypygal est un adjectif signifiant « avoir des fesses <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339082_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "339085_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "vieilles dames, danseurs, perroquets, aigles, Roombas, chorégraphes, blaireaux, papillons, Ninjas, servantes, hélicoptères télécommandés, voitures de course, comptables, poèmes, échelles, oreillers, lutteurs, lecteurs DVD ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Maroc ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "singes ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "singes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2003, le Maroc a fait l’offre très inhabituelle d’envoyer 2 000 <BLANK> pour aider l’effort de guerre des États-Unis en Irak. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338990_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "338993_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

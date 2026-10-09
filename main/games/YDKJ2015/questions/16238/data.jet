@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "bread|tofu|human skin|light bulbs|AOL CDs|cheese|old cars|mustard|love",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "stones|pineapple|buffalo hides|sugar|hairs|curds",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "gold|seashells|sand|drywall|tape|red tape",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "gingerbread|sticks|rock|adobe|glass|intestines|cards",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Your House Is Made of What?",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Hansel and Gretel’s witch|the second of the Three Pigs|Patrick from <i>SpongeBob SquarePants</i>|the Pueblo peoples|people who “shouldn’t throw stones”|tapeworms|Frank Underwood, metaphorically",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "bread|tofu|human skin|light bulbs|AOL CDs|cheese|old cars|mustard|love",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "stones|pineapple|buffalo hides|sugar|hairs|curds",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "or|coquillages|sable|cloisons sèches|ruban adhésif|bande rouge ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "pain d'épice|bâtons|roche|adobe|verre|intestins|cartes ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Votre maison est faite de quoi ? ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "La sorcière de Hansel et Gretel|le deuxième des Trois Cochons|Patrick de <i>SpongeBob SquarePants</i>|les peuples Pueblo|les gens qui « ne devraient pas jeter des pierres »|les ténias|Frank Underwood, métaphoriquement ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "359914_0 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "359869_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "359870_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

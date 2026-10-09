@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "that guy|midstream|the soap|the seal|tase me bro!|by it’s cover|you know?|spite your face|where you eat",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "stupid stuff|your grandparents|Amy|rotten apples|love the player|Amy",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "the bridge|fear itself|Me Anything|wooden nickels|hate the gramma|Me Anything",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "get even|spilled milk|the reaper|with Texas|the hand that feeds you|hate the game|don’t tell",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Don’t Forget My Advice",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Don’t get mad...|Don’t go crying over... |Don’t fear... |Don’t mess... |Don’t bite...|Don’t hate the player...|Don’t ask...",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "that guy|midstream|the soap|the seal|tase me bro!|by it’s cover|you know?|spite your face|where you eat",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "stupid stuff|your grandparents|Amy|rotten apples|love the player|Amy",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "le pont|la peur elle-même|Moi n'importe quoi|nickels en bois|déteste le gramma|Moi n'importe quoi ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "obtenez même|le lait renversé|la faucheuse|avec le Texas|la main qui vous nourrit|déteste le jeu|ne le dis pas ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "N'oubliez pas mes conseils ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Ne vous fâchez pas...|Ne pleurez pas... |N'ayez pas peur... |Ne plaisantez pas... |Ne mordez pas...|Ne détestez pas le joueur...|Ne demandez pas... ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "357393_1 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "357348_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "357349_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

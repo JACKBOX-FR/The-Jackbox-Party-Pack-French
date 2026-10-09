@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "équipe d'improvisation|une équipe d'improvisation|un groupe d'improvisation|spectacle d'improvisation ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Groupe d'improvisation ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369267_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

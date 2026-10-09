@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un vilain grille-pain|un vilain grille-pain ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Grille-pain laid ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370155_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

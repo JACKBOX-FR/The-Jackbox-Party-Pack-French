@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "bébé maman|une petite maman|une bébé maman ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bébé maman ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

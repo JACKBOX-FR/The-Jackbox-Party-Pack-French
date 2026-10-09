@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "briller, se transformer en plumes, rétrécir, fondre, disparaître, bon goût, grandir plus vite, flotter, avoir des taches, vieillir en arrière, devenir dur, perdre, démanger, se transformer en écailles, devenir orange, se sentir comme du bois, faire pousser des cheveux en excès, moisir ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "peau ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "devenir bleu ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "devenir bleu, devenir bleuâtre, être bleu, paraître bleu, paraître bleu ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La maladie rare connue sous le nom d’« argyrie » rend la peau <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "337975_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which Steve Carell movie would an “eschatologist” probably be the most interested in?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Soyez intelligent</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Génial Michael Scotts ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>À la recherche d'un ami pour la fin du monde</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Vierge-de 40 ans</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Présentateur</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel film de Steve Carell un « eschatologue » serait probablement le plus intéressé ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Soyez intelligent</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Génial Michael Scotts ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>À la recherche d'un ami pour la fin du monde</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Vierge-de 40 ans</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Présentateur</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "364401_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364398_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364397_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364400_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364395_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "364403_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

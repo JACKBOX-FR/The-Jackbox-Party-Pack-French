@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "parapluies, barbes, bananes, crêpes, cintres, pulls à col en V, puzzles, harmonicas, ceintures, prothèses dentaires, tasses à café, avions, peignes, hot-dogs, balançoires, poneys, lapins, porte-chapeaux ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Hitchcock ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "oeufs ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un oeuf ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le célèbre réalisateur Alfred Hitchcock – le « Maître du suspense » – a déclaré : « J’ai peur de <BLANK>, pire que peur, ils me révoltent. » ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "340140_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "340143_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

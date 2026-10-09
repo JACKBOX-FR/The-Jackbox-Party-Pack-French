@@ -1,0 +1,53 @@
+{
+    "episodeid": 1212,
+    "questions": [
+        {
+            "id": 15609,
+            "category": "Poutine"
+        },
+        {
+            "id": 15792,
+            "category": "faire la fête"
+        },
+        {
+            "id": 16100,
+            "category": "têtards "
+        },
+        {
+            "id": 15816,
+            "category": "Stallone"
+        },
+        {
+            "id": 15726,
+            "category": "base-ball"
+        },
+        {
+            "id": 15587,
+            "category": "carte de crédit"
+        },
+        {
+            "id": 14712,
+            "category": "Fantaisie"
+        },
+        {
+            "id": 14363,
+            "category": "Mitsubishi "
+        },
+        {
+            "id": 15732,
+            "category": "salaires"
+        },
+        {
+            "id": 15620,
+            "category": "caca de chien "
+        },
+        {
+            "id": 15922,
+            "category": "Philippines "
+        },
+        {
+            "id": 15918,
+            "category": "rare"
+        }
+    ]
+}

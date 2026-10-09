@@ -1,0 +1,49 @@
+{
+  "fields": [
+    {
+      "v": "Épisode 23 : Magasin de fournitures de jardin envahi par la végétation ",
+      "t": "S",
+      "n": "tTitle"
+    },
+    {
+      "v": "1,1,1,2,1,1,1,1,1,1,3",
+      "t": "S",
+      "n": "tTypes"
+    },
+    {
+      "v": "16083,15833,16109,15823,16431,15471,16446,16254,13681,15806,15451",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "Épisode 23 : Magasin de fournitures de jardin envahi par la végétation ",
+      "t": "S",
+      "n": "tTitle"
+    },
+    {
+      "v": "1,1,1,2,1,1,1,1,1,1,3",
+      "t": "S",
+      "n": "tTypes"
+    },
+    {
+      "v": "16083,15833,16109,15823,16431,15471,16446,16254,13681,15806,15451",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "360544_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "360546_0f",
+      "t": "G",
+      "n": "gLogo"
+    },
+    {
+      "v": "360545_0",
+      "t": "A",
+      "n": "aSponsor"
+    }
+  ]
+}

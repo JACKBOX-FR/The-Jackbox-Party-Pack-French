@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un garçon aux bulles|le garçon aux bulles ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Garçon bulle ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

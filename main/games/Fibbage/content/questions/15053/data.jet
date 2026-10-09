@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "acteur, Tweeter, papa, boulanger, mémorisateur, libertaire, flosser, roller, nageur, végétalien, sortilège, joueur de Soduku, connaisseur de vin, homme à tout faire, mofo, joueur de Cranium, poète, chuchoteur de chevaux ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "mauvais ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "quilleur",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "TWEET DE CÉLÉBRITÉ ! 21h43 - 1er octobre 13 @MikeTyson a tweeté : \"Je suis un mauvais <VIERGE>.\" ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "333462_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "333465_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

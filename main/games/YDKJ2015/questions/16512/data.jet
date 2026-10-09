@@ -1,0 +1,215 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What instructions might the manager give the bouncer on his first day?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que l'American Kennel Club décide d'embaucher un videur pour éloigner toutes les races de chiens non reconnues par l'AKC. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Votre travail consiste à garder ces clowns de SAINT-BERNARD hors d'ici.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le spectacle snob de Westminster ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Si je vois que vous laissez entrer un BULLDOG AMÉRICAIN ici, vous êtes viré ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Faites tout ce que vous pouvez pour éloigner les BOSTON TERRIERS.\"",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Peu importe ce que vous faites, ne laissez entrer none BOXEUR.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6,50 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quelles instructions le manager peut-il donner au videur lors de son premier jour ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que l'American Kennel Club décide d'embaucher un videur pour éloigner toutes les races de chiens non reconnues par l'AKC. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Votre travail consiste à garder ces clowns de SAINT-BERNARD hors d'ici.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le spectacle snob de Westminster ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Si je vois que vous laissez entrer un BULLDOG AMÉRICAIN ici, vous êtes viré ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "“Do anything you can to keep the BOSTON TERRIERS away.”",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“No matter what you do, don’t let any BOXERS in.”",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.50",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "363182_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "363179_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "363178_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "363190_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "363189_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "363181_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "363186_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "363176_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "363194_0",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

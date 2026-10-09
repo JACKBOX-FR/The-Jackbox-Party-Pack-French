@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "où vont les chaussettes manquantes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Où vont les chaussettes manquantes. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

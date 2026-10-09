@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If instead of a Planet of the Apes, Charlton Heston crash-landed on a Planet of the APIARIES, what might you hear him exclaim while being taken prisoner?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Enlève de moi tes plumes puantes, sale sale perroquet ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tu es Heston, ma patience ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Enlève de moi tes mandibules puantes, sale sale abeille ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Enlève de moi tes tentacules puants, sale SQUID!\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Enlève de moi tes griffes puantes, sale sale GRIZZLY BEAR ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si au lieu d'une planète des singes, Charlton Heston s'écrasait sur une planète des ruchers, que pourriez-vous entendre s'exclamer alors qu'il était fait prisonnier ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Enlève de moi tes plumes puantes, espèce de sale perroquet ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tu es Heston, ma patience ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Enlève-moi tes mandibules puantes, sale sale abeille!\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Enlève de moi tes tentacules puants, sale calmar ! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Enlève de moi tes griffes puantes, sale sale GRIZZLY BEAR ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "362423_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "362420_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "362419_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "362422_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "362427_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "362417_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "362429_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

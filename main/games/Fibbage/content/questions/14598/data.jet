@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "anciens combattants, hommes d'affaires, femmes, redevances, vendeurs ambulants, Allemands, adolescents, journalistes, annonceurs, athlètes, vierges, musiciens, criminels, foi, policiers, scientifiques, chiens, alcooliques ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bière ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Canadiens ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "canadiens ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, l'agence de publicité Rethink a placé des réfrigérateurs à bière rouge dans toute l'Europe qui ne pouvaient être ouverts que par <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324025_3",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "324028_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

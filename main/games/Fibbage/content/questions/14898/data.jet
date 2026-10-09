@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Bœuf de Kobe, Foie gras, Xanex, jambon, champagne, soupe aux ailerons de requin, caviar, cocaïne, huîtres faw, mucus, sous-vêtements, crème glacée, thé, confettis, bonbons, haggus, dattes enveloppées de bacon, gomme ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "les porcs ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "marijuana ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Pot,mauvaises herbes,mariuana,marjuana ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bien que très peu conventionnel, le fermier William von Schneidau nourrit ses porcs <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "329967_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "329970_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une vente de matelas|une vente de matelas|une vente de matelas ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vente de matelas ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

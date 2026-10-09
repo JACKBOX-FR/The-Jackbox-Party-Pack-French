@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "homme mort, écureuil, sandwich, brique, monstre, bébé, lapin, préadolescent, coiffeur, escroc, fantôme, canadien, cheval, hot-dog, pizza, modèle nu, chanteur d'opéra, mime ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Hachage ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "chien ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "canin, un chien ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le maire de Rabbit Hash, KY, est un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "322708_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "322711_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

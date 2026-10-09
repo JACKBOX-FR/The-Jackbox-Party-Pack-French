@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "des abeilles, un tigre vivant, des serpents venimeux, des scorpions, un clown, de l'anthrax, du gaz moutarde, des moustiques, des chiens sauvages, du monoxyde de carbone, de mauvaises vibrations, des Roombas, d'anciens détenus, des singes enragés, une colombe blanche, des fantômes, des dizaines de ballons, des colibris ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "élèves de sixième année ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Spray corporel à la hache ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Pulvérisation de hache ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En octobre 2013, huit élèves de sixième année d'une école préparatoire à l'université de New York ont été hospitalisés après que quelqu'un ait libéré <BLANK> dans une salle de classe. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "358545_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "358548_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

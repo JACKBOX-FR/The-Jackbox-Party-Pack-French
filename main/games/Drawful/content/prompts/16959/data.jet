@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "beaucoup de guêpes|beaucoup de guêpes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Beaucoup de guêpes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

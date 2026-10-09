@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "voiturier gokart|voiturier kart à pédales ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Faire du karting avec voiturier ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

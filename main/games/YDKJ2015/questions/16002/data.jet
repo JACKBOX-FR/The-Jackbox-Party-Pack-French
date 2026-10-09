@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Considering what happens to Harry Morgan, what would be the more descriptive title for Ernest Hemingway’s <i>To Have and Have Not</i>?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Avoir et ne pas avoir... des jambes</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je veux vraiment pouvoir juger un livre par sa couverture ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Avoir et ne pas avoir... un bras</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Avoir et ne pas avoir... un visage</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Avoir et ne pas avoir... des testicules</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Compte tenu de ce qui arrive à Harry Morgan, quel serait le titre le plus descriptif pour <i>Avoir et ne pas avoir</i> d'Ernest Hemingway ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Avoir et ne pas avoir... des jambes</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je veux vraiment pouvoir juger un livre par sa couverture ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Avoir et ne pas avoir... un bras</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Avoir et ne pas avoir... un visage</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Avoir et ne pas avoir... des testicules</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "354044_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "354041_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "354040_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "354043_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "354048_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "354038_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "354050_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

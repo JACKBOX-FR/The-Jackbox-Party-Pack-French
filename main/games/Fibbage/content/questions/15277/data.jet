@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "igloo,ambulance,ascenseur,portes ouvertes,latrines,Arby's,volière,fauteuil,Applebees,bureau de l'optométriste,salle d'événements,IKEA,USI,audience sur la pension alimentaire,Apple store,litige sur la pension alimentaire,Outback Steakhouse,Olive Garden ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "blessé ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "galerie d'art ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Selon le Code international des maladies, le code Y92250 est le code « lorsqu'un patient est blessé dans un <VIERGE> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "337653_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "337656_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What team might they be cheering for?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "\"RA! RA! Sis boum bah!\" ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,3,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "les dieux de la guerre combattants ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Emmène-moi chez ta pom-pom girl ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "les dieux du soleil combattants ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "les dieux combattants de la fertilité ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+1,88 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "les dieux de l'amour qui se battent ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.58 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quelle équipe pourraient-ils encourager ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "\"RA! RA! Sis boum bah!\" ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,3,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "les dieux de la guerre combattants ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Emmène-moi chez ta pom-pom girl ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "les dieux du soleil combattants ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "the Fightin’ Fertility Gods",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+1.88",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "the Fightin’ Love Gods",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.58",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "364127_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "364122_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364124_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364123_0f",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364126_0f",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "364131_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364121_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "364133_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "364129_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What adorable rat-cessory would you NOT need to purchase?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que vous vouliez déguiser une bande de rats en membres du « Rat Pack ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Célébrités ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un petit nœud papillon pour un rat SAMMY DAVIS JR. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "C'est une infestation douce ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une petite pipe pour un rat BOB HOPE ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un petit verre de scotch pour un rat DEAN MARTIN ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une petite cigarette pour un rat JOEY BISHOP ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+3.72 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quel adorable accessoire pour rat n'auriez-vous PAS besoin d'acheter ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que vous vouliez déguiser une bande de rats en membres du « Rat Pack ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Célébrités ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un petit nœud papillon pour un rat SAMMY DAVIS JR. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "C'est une infestation douce ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une petite pipe pour un rat BOB HOPE ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "a tiny glass of scotch for a rat DEAN MARTIN",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "a tiny cigarette for a rat JOEY BISHOP",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+3.72",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "353535_2",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "353532_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "353531_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "353534_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "353529_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "353541_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

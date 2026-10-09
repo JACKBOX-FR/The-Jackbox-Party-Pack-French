@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "chips de maïs, bière, tube de dentifrice, boule de bowling, chaussette tube, lampe, miroir, machine à écrire, épouvantail, maison, roche, ampoule, piano, pinata, cacahuète, poubelle, statue, portrait ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Équateur ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "poudre pour les pieds ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "marque de poudre pour les pieds, médecine des pieds ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1967, une petite ville d’Équateur a élu un maire inanimé. Le maire élu était un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318324_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "318327_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

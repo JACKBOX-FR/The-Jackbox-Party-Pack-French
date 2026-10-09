@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "ballons, caca, plastique, poupées, arbres, peluches, chocolat, pain, gomme, poussière, foin, maïs, verre, pudding, oiseaux morts, crayons, jeans Wrangler, os ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Stonehenge ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "voitures ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un tas de voitures, d'automobiles, d'automobiles, de vieilles voitures ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "VOYAGE EN ROUTE ! Pendant votre séjour à Alliance, Nebraska, vous pouvez visiter la réplique de Stonehenge réalisée à partir de <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "320529_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "320532_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

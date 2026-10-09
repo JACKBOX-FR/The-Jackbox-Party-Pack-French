@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cacahuète, sac à barf, magazine SkyMall, bloc de fromage, mouchoir, béret, paille, souris d'ordinateur, sac de bretzels, cravate, jeu de clés, protège-poche, paire de lunettes de lecture, tampon, préservatif, chapeau de capitaine, montre, petit gobelet à boisson ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "égoutter ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "cintre ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "cintre, cintre métallique, cintre ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Lors d'un vol aérien en 1995, le Dr Angus Wallace et le Dr Tom Wong ont réussi à drainer la poitrine d'un passager à l'aide d'un tube en caoutchouc, de cognac et d'un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339013_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "339016_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

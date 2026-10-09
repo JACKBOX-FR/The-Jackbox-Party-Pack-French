@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If Robin Thicke makes love to two sexy ladies “round-robin” style, how many total rounds of lovemaking will there be?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Sport ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "DEUX tours ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ici, nous faisons le tour du Manberry Bush ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "TROIS tours ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "UN tour ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "QUATRE tours ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si Robin Thicke fait l'amour avec deux femmes sexy à la manière d'un « round-robin », combien de tours d'amour y aura-t-il au total ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Sport ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "DEUX tours ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ici, nous faisons le tour du Manberry Bush ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "TROIS tours ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "UN tour ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "QUATRE tours ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "350778_2",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "350775_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "350774_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "350777_1",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "350782_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "350772_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "350780_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

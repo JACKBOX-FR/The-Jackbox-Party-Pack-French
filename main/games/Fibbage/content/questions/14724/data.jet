@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "uriner, dire « O-ello ! », dormir, tousser, hoqueter, chanter, danser, péter, jurer, applaudir, ramper, serrer les fesses, claquer, pleurer, frapper, haleter, dire « C'est ce qu'elle a dit. », s'éparpiller. ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "hanche ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "rire ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "rire ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Souffrant d'un effet secondaire extrêmement rare après avoir subi une opération à la hanche en 2010, un Néerlandais s'est aliéné sa famille parce qu'il ne pouvait pas arrêter <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "326610_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

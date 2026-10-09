@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Imitateur de Mussolini, mannequin fasciste, ventriloque, vendeur de porte à porte, pilleur de tombes, clown, mannequin nu, pêcheur, médium pour chiens, critique de théâtre, nageur synchronisé, pilote de course, coiffeur, vendeur de voitures, pompier, professeur de maternelle, dessinateur, mime ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Mussolini ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "musicien de jazz ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "joueur de jazz, musicien ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Romano Mussolini, fils du dictateur fasciste Benito Mussolini, n’a pas suivi les traces de son père. Au lieu de cela, il gagnait sa vie en tant que <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339726_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "transfusion sanguine, marathon de l'Académie de police, renifler un chat, coup de poing au visage, un smoothie aux sauterelles, sorcier, poumon robotisé, circoncision, une crise cardiaque provoquée, une balade à poney, une photo de Jésus, de la cire sur tout le corps, du Viagra, une conversation sévère, un journal de rêves, une fessée, une bonne gifle, un régime de bonbons ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "le hoquet ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "massage rectal ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "massage du rectum,massage anal,massage de l'anus,massage du rectum,massage de l'anus,un massage du rectum,un massage rectal,un massage anal,un massage de l'anus ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le remède infaillible du Dr Francis M. Fesmire pour arrêter votre hoquet. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "351570_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "351573_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

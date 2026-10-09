@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "se tortiller|se tortiller|se tortiller ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Se tortiller ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "50 nuances de gris|cinquante nuances de gris|cinquante nuances de gris ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "50 nuances de Grey ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

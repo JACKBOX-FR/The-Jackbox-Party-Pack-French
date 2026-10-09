@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Merde, Max, Mégots, Gaylord, Imus, Facteur, Visage, Smalls, Dame, Bouton, Garçon, Shampoing, Flush, Horsetitties, Flash, Cabbageface, Urine, Térébenthine ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "inventeur ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Baiser ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'inventeur du laxatif Ex-Lax porte le nom inhabituel de Max <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324452_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "324455_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "tricycle, cochon, voiturette de golf, vélo tandem, panier, chèvre, planche à roulettes, vache, brouette, scooter, traîneau, hoverboard, bulldozer, chameau, gros chien, camion poubelle, chariot, montgolfière ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Conduite en état d'ébriété ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "tondeuse à gazon",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "tondeuse à gazon ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un homme de l’ouest de la Pennsylvanie a été condamné pour avoir bu une canette de bière ouverte alors qu’il conduisait un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318425_0f",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

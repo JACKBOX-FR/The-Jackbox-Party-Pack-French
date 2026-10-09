@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If Coco Chanel’s first perfume had set a precedent for what the first of anything should be called, what would be true?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Mode ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Votre premier enfant serait votre dix-neuvième enfant ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Vous n'oublierez jamais votre premier reniflement ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Rocky serait Rocky V ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Le 1er janvier serait le 3 janvier ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Le pape François serait le pape François VII ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si le premier parfum de Coco Chanel avait créé un précédent quant à ce que l’on devrait appeler le premier de tous les genres, qu’est-ce qui serait vrai ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Mode ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Votre premier enfant serait votre dix-neuvième enfant ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Vous n'oublierez jamais votre premier reniflement ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Rocky serait Rocky V ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Le 1er janvier serait le 3 janvier ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Le pape François serait le pape François VII ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "360328_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "360325_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "360324_2",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "360327_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "360322_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "360334_1",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

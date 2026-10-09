@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Hé mec, ne sois pas triste à propos du trafic ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370244_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

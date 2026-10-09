@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un cambrioleur de dinde ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Cambrioleur de Turquie ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

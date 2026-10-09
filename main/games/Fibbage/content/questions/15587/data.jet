@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Le plaignant, Weirdo, Poopy Pants, Mange des crottes de nez, Cry Baby, La Vierge, Bozo, Faible QI, Aime Chachi, Le vif d'or, Totalement chaud, Dork, \"Butt Smeller\", Halitose, Lisa et Cult Jam, Fart Face, \"The Town Ho\", Veux-tu m'épouser ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "carte de crédit ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Est une salope ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2014, Lisa McIntire a reçu une offre de carte de crédit de la Bank of America, mais la lettre l'appelait étonnamment « Lisa <BLANK> McIntire ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "344801_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "344804_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

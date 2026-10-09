@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Puissance, Poignée de main, Muscles, Amusement, Rire, Licorne, Yeux, Fraternité, Enjouement, Pizza, Odeur, Funk, Force, Doom, Colère, Trucs, Esprit, Sorcier ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Invincible ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Amour ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L’un des nombreux titres de Kim Jong Il était « Général invincible et toujours triomphant et plus haute incarnation du camarade révolutionnaire <BLANK>». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "345528_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "345531_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

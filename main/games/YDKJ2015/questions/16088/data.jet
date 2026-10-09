@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What are you most likely to see Tarzan scrambling to buy at the last second on Mother’s Day?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un bouquet de bananes pour Koko ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ta mère sent la jungle ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "bonbons à la banane pour Kala ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "parfum banane pour Chim-Chim ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un calendrier de photos de bananes pour Abu ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qu'est-ce que vous êtes le plus susceptible de voir Tarzan se précipiter pour acheter à la dernière seconde le jour de la fête des mères ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un bouquet de bananes pour Koko ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ta mère sent la jungle ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "bonbons à la banane pour Kala ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "parfum banane pour Chim-Chim ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un calendrier de photos de bananes pour Abu ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "355898_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "355895_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "355894_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "355897_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "355892_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "355904_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "355900_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

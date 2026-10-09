@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cabinets médicaux, café, sandwichs, vêtements, nettoyage à sec, location de films, laissez-passer de bus, vin, meubles, tarif de taxi, loyer, garderie, frais de justice, dettes de carte de crédit, nourriture pour chiens, femmes de ménage, couches, licences de mariage ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "New Hampshire ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "parcomètres ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "frais de parcomètre,frais de stationnement,tarifs de stationnement,tarifs de parcomètre,compteurs ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un groupe connu sous le nom de « Robin Hooders » à Keene, dans le New Hampshire, paie pour le <BLANK> des autres. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318347_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

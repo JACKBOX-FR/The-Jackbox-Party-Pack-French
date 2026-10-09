@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un loup avec un aimant géant|loup avec un aimant géant|loup avec manget géant ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Loup avec aimant géant ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

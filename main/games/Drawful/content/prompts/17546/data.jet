@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "hamster mange un gratte-ciel|un hamster mange un gratte-ciel ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "hamster mangeant un gratte-ciel ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370218_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

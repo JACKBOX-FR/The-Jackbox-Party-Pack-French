@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "radios, camions monstres, cartes de baseball, dominos, robots, avions, serviteurs, anguilles, toupies, sifflets coulissants, cuillères, statues de Bouddha, tasses à café, chapeaux de cowboy, magnétoscopes, sandales, télescopes, miroirs ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "55 000 ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "bisons ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "bisons ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En possédant 55 000 exemplaires, Ted Turner possède la plus grande collection privée de <BLANK> au monde. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "330174_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "330177_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "dinosaure, dents, chien, mitrailleuse, voiture, extraterrestre, lèvres, prostituée, sacs à dos, pénis, chambre, loup-garou, toilettes, comptable, vampire, transgenre, président, lézard ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cire ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "bébé ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2006, le musée de cire Madame Tussaud’s à New York a présenté sa première cire <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "321318_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "321321_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

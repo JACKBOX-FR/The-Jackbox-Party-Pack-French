@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What might my carton of one percent milk say about how one percent of itself came to control all the milk fat?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Nourriture ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Cela a nécessité des années de travail acharné et d'EXTRACTION CHIMIQUE des graisses.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Occupez la rue Moo ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"J'ai utilisé ma puissance cérébrale et j'ai VISÉ le surplus de graisse.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"J'ai comploté et comploté, puis j'ai congelé la graisse dont je ne voulais pas.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Je me suis levé et j'ai fait bouillir l'excès de graisse.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Que pourrait dire mon carton de lait à 1 pour cent sur la façon dont un pour cent de lui-même est parvenu à contrôler toute la matière grasse du lait ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Nourriture ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Cela a nécessité des années de travail acharné et d'EXTRACTION CHIMIQUE des graisses.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Occupez la rue Moo ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"J'ai utilisé ma puissance cérébrale et j'ai VISÉ le surplus de graisse.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"J'ai comploté et comploté, puis j'ai congelé la graisse dont je ne voulais pas.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Je me suis levé et j'ai fait bouillir l'excès de graisse.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "358995_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "358990_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "358992_4",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "358991_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "358994_1",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "358999_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "358989_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

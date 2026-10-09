@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "dango, Cube-O, blarg, boucle loopy, tampons, scalpers, boule de cage, piste de table, extase, boîtes, huzzah, espaces, téléavertisseurs, commun, XO, criez-le, carrés, cartes aléatoires ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bingo ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "beano ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "haricot-o, beeno, haricot o ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Aux États-Unis, nom original du jeu de bingo. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334937_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

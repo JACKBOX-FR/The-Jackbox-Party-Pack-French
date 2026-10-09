@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these sext messages would a sexting “sexton” be most likely to send to his significant other?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Vocabulaire ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Mon pénis commence à ressembler à un gratte-ciel que j'avais conçu autrefois. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Parlons de sexto ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Ce cimetière d'église m'excite tellement en ce moment ! ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Je porte mon chapeau de chantier... et rien d'autre. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Préparez-vous. Je vous envoie une photo de mon parc à ferraille. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Lequel de ces messages sextos un « sexton » serait-il le plus susceptible d'envoyer à son partenaire ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Vocabulaire ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Mon pénis commence à ressembler à un gratte-ciel que j'avais conçu autrefois. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Parlons de sexto ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Ce cimetière d'église m'excite tellement en ce moment ! ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Je porte mon chapeau de chantier... et rien d'autre. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Préparez-vous. Je vous envoie une photo de mon parc à ferraille. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "344338_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "344335_0f",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "344334_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "344337_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "344342_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "344332_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "344340_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

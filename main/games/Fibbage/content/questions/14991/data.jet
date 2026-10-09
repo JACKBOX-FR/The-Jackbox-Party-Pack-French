@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Hokey Packy, Hokey Smokey, Hanky Tosser, Danky Wanky, Hokey Tokey, The Slide, The Snog, Jig, Bladder-Bonky, Mistake, Flapin' Fanny, Purée de pommes de terre, The Bung Whopper, Slappy Wappy, The Pokester, Noooky Wooky, The Scrummy, Wankerdoodle ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Pokey ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Hokey Cokey",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "hoky coky, hokey coky, hoky cokey, le hokey cokey, le hoky coky, le hokey coky, le hoky cokey, le hokey-cokey, hokey-cokey ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ce que les Britanniques appellent la danse que les Américains appellent le « Hokey Pokey ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "332045_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

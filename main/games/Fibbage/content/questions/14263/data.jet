@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "lesbiennes, racistes, professeurs, voleurs, millionnaires, libertaires, nageurs, souris, prêtres, strip-teaseuses, gardiens de zoo, marionnettistes, kickboxeurs, gardiens de prison, mimes, chanteurs d'opéra, joueurs de fléchettes, fantômes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Kickstarter ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "athées ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un athée, athée ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une campagne Kickstarter a atteint son objectif de 30 000 $ le 7 avril 2012 pour ses chaussures conçues pour <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317185_3",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "317188_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

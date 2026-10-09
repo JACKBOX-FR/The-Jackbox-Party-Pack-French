@@ -1,0 +1,302 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "“Frog lawn mower”",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "“Haha”",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "“hello july”",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "“Hi”",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "And I Was Like Pithy, Pithy, Pithy, Oh!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+4.75",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0,87 ",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aInstr$cIncorrect"
+    },
+    {
+      "v": "a reçu moins de 50 000 favoris ",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "S+8.48 ",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "0,0,1,1,0,1,0 ",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "« AFRIQUE » ",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "\"long vol\" ",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "« Super soirée » ",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "a reçu plus de 50 000 favoris ",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "MOINS DE 50 000 FAVORIS ",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "PLUS DE 50 000 FAVORIS ",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S+0,83 ",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "\"Tondeuse à gazon grenouille\" ",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "« Haha » ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "\"Bonjour juillet\" ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "\"Salut\" ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "And I Was Like Pithy, Pithy, Pithy, Oh!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+4.75",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.87",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cIncorrect"
+    },
+    {
+      "v": "received fewer than 50,000 favorites",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "S+8.48",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "0,0,1,1,0,1,0",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "“AFRICA”",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "“long flight”",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "“Great night”",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "received more than 50,000 favorites",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "LESS THAN 50,000 FAVORITES",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "MORE THAN 50,000 FAVORITES",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S+0.83",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "368232_0",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "368220_0",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "368219_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "368231_0",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "368228_0",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "v": "368230_0",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "368229_0",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    },
+    {
+      "v": "368221_0",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "368222_0",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "368233_0",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "368223_0",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "368224_0",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "368225_0",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "368226_0",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "368227_0",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "368234_0",
+      "t": "A",
+      "n": "aDat"
+    }
+  ]
+}

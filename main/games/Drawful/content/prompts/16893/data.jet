@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "nickels de bois|nickel de bois|nickel de bois ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Nickels en bois ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

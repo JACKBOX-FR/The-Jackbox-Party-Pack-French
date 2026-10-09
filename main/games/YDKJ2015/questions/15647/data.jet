@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What if the singers of “Timber” had no timbre?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Musique ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Les voix de Kesha et Pitbull seraient à peine audibles. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Pitbull n'est pas dangereux, il est juste incompris ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Les voix de Kesha et Pitbull seraient INDISTINGUABLES. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Les voix de Kesha et Pitbull seraient BEAUCOUP TROP FORTES. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Les voix de Kesha et Pitbull seraient COMPLÈTEMENT FAUSSES. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Et si les chanteurs de « Timber » n’avaient pas de timbre ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Musique ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Les voix de Kesha et Pitbull seraient à peine audibles. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Pitbull n'est pas dangereux, il est juste incompris ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Les voix de Kesha et Pitbull seraient INDISTINGUABLES. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Les voix de Kesha et Pitbull seraient BEAUCOUP TROP FORTES. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Les voix de Kesha et Pitbull seraient COMPLÈTEMENT FAUSSES. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "346191_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "346188_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "346187_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "346190_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "346185_1",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

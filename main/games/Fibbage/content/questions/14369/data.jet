@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "caca, lire, chanter, prier, peindre, se déshabiller, yodel, roter, méditer, avouer ses péchés, jongler, pleurer, cuire, câlin, coudre, se baigner, lire, boire ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Alexandre le Grand ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "se raser ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "se raser le visage, se raser la barbe, se raser les poils du visage, se raser, se raser, se faire raser ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Alexandre le Grand a rendu ses hommes <VIDE> avant une bataille. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "319399_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

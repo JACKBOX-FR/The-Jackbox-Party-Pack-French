@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If Tampax were a company that was always in the red, what would be true?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Tampax atteint tout juste le seuil de rentabilité. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La question du mois ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Tampax perd de l'argent. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Tampax N'EST PAS ENCORE UNE ENTREPRISE. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Tampax est RENTABLE. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si Tampax était une entreprise toujours dans le rouge, qu’est-ce qui serait vrai ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Tampax atteint tout juste le seuil de rentabilité. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La question du mois ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Tampax perd de l'argent. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Tampax N'EST PAS ENCORE UNE ENTREPRISE. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Tampax est RENTABLE. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "346986_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "346983_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "346982_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "346985_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "346980_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "346992_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "spectacle à la mi-temps|un spectacle à la mi-temps|un spectacle à la mi-temps ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Spectacle de mi-temps ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

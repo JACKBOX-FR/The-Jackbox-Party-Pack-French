@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these dolls would be most closely related to a Cabbage Patch Kid?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un enfant de la ferme de betterave ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ils grandissent si vite par miracle ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un enfant du jardin BROCOLI ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un enfant des champs de LAITUE ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un enfant des champs de MAÏS ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Laquelle de ces poupées serait la plus étroitement liée à un Cabbage Patch Kid ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un enfant de la ferme de betterave ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ils grandissent si vite par miracle ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un enfant du jardin BROCOLI ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un enfant des champs de LAITUE ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un enfant des champs de MAÏS ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "363219_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "363216_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "363215_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "363218_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "363223_0f",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "363213_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "363221_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If the leading cause of death in the <i>Game of Thrones</i> universe were the same as the leading cause of death in the modern world, what spoilerish comment would you MOST LIKELY read on the internet?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Hé, saviez-vous qu'Arya est morte du PALUDISME ? » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tous les hommes doivent mourir... quelque part autour de l'épisode neuf ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Devinez quoi ? Tyrion finit par mourir d'une MALADIE CARDIAQUE !\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Jon Snow est tué dans un ACCIDENT DE VOITURE. Pour de vrai !\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Ouais, Daenerys a juste un AVC et meurt.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si la principale cause de décès dans l'univers <i>Game of Thrones</i> était la même que la principale cause de décès dans le monde moderne, quel commentaire spoiler liriez-vous LE PLUS PROBABLEMENT sur Internet ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Hé, saviez-vous qu'Arya est morte du PALUDISME ? » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tous les hommes doivent mourir... quelque part autour de l'épisode neuf ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Devinez quoi ? Tyrion finit par mourir d'une MALADIE CARDIAQUE !\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Jon Snow est tué dans un ACCIDENT DE VOITURE. Pour de vrai !\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Ouais, Daenerys a juste un AVC et meurt.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "360789_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "360786_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "360785_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "360788_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "360783_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "360791_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

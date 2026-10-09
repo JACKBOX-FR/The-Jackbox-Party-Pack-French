@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cerveaux de chat, héroïne, sueur humaine, globes oculaires, langue, dents de bébé, poulet séparé mécaniquement, crachat de sorcière, saucisse de foie, œil de triton, boue, cheveux humains, gravier, ongles de pieds, sang vierge, arseni, œufs pourris, cocaïne ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Inde ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "urine de vache ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pipi de vache, pisse de vache ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En Inde, vous pouvez acheter un cola nommé Gau Jal qui contient l'ingrédient bizarre <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338090_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "338093_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

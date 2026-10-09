@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "WHAT DO LOUD OBNOXIOUS “SOUND WAVES,” LIKE THE ONES COMING FROM MY CLEANING LADY’S VACUUM, TRAVEL THROUGH THE FASTEST?!",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Sciences ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "GAZ !! ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "IL EST TEMPS POUR UNE AUTRE QUESTION !!! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "SOLIDES !! ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "LIQUIDES !! ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "LES ONDES SONORES VOYAGENT TOUJOURS À LA MÊME VITESSE !! ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "QU'EST-CE QUE LES « ONDES SONORES » FORTES ET OBNOXIEUSES, COMME CELLES PROVENANT DE L'ASPIRATEUR DE MA FEMME DE NETTOYAGE, VOYAGENT LE PLUS RAPIDEMENT ?! ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Sciences ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "GAZ!! ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "IL EST TEMPS POUR UNE AUTRE QUESTION !!! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "SOLIDES !! ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "LIQUIDES !! ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "LES ONDES SONORES VOYAGENT TOUJOURS À LA MÊME VITESSE !! ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "350449_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "350444_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "350446_0f",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "350445_0f",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "350448_0f",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "350443_0f",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "350455_0f",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

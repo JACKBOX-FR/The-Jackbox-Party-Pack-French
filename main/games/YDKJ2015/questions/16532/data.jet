@@ -1,0 +1,302 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "“I can’t pretend to be somebody who makes $25,000 a year.”",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "“When you don’t have anything, then you have everything.”",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "“I would rather die than let my kid eat Cup-a-Soup.”",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "“I’d rather smoke crack than eat cheese from a tin.”",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "And You Thought Hal Was Shallow",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+3.89",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0,92 ",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aInstr$cIncorrect"
+    },
+    {
+      "v": "une citation de Mère Teresa ",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "S+7.02 ",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "0,0,1,0,0,1,0 ",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "\"Quand je passe devant un plant de courgette en fleurs, mon cœur s'emballe.\" ",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "« Les paroles qui ne donnent pas la lumière du Christ augmentent les ténèbres. » ",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "\"J'aime tout ce qui vient dans un pain à hot-dog... sauf les hot-dogs.\" ",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "une citation de Gwyneth Paltrow ",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "MÈRE TÉRESA ",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "GWYNETH PALTROW ",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S+0,84 ",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "\"Je ne peux pas prétendre être quelqu'un qui gagne 25 000 $ par an.\" ",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "\"Quand tu n'as rien, alors tu as tout.\" ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "\"Je préférerais mourir plutôt que de laisser mon enfant manger une tasse de soupe.\" ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "\"Je préfère fumer du crack plutôt que de manger du fromage en boîte.\" ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "And You Thought Hal Was Shallow",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+3.89",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.92",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cIncorrect"
+    },
+    {
+      "v": "a quote from Mother Teresa",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "S+7.02",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "0,0,1,0,0,1,0",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "“When I pass a flowering zucchini plant, my heart skips a beat.”",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "“Words which do not give the light of Christ increase the darkness.”",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "“I love anything that comes in a hot dog bun... except hot dogs.”",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "a quote from Gwyneth Paltrow",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "MOTHER TERESA",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "GWYNETH PALTROW",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S+0.84",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "363593_0",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "363581_0",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "363580_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "363592_0",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "363589_0",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "v": "363591_0",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "363590_0",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    },
+    {
+      "v": "363582_0",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "363583_0",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "363594_0",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "363584_0",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "363585_0",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "363586_0",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "363587_0",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "363588_0",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "363595_0",
+      "t": "A",
+      "n": "aDat"
+    }
+  ]
+}

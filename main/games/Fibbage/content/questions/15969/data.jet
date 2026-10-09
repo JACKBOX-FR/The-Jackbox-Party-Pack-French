@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "fil, pénis d'ours, dynamite, poisson, dents de cheval, explosifs, bubble-gum, cartilage, ciment, crottes de chien séchées, uranium, mucus, os humains, cheveux humains, tapis, séquoia en voie de disparition, sourcils, sirop de maïs à haute teneur en fructose ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "pêche ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "carottes ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'entreprise de pêche E21 fabrique une canne à pêche très particulière composée à 70 % de <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "353275_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "353278_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

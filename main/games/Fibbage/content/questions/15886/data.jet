@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "crier, faire l'amour, se déshabiller, à un jeu de balle, se masturber, regarder \"Wheel of Fortune\", boire du café, faire de la plongée avec tuba, péter, voler, rire, jouer au Monopoly, dormir, chanter, manger, dans un ascenseur, pleurer, courir ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "phénomène ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "dans une librairie",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "dans une librairie,debout dans une librairie,dans une librairie,debout dans une librairie,dans une librairie ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vous vivez le phénomène Mariko Aoki lorsque vous avez envie de faire caca pendant que <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "351532_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "351535_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

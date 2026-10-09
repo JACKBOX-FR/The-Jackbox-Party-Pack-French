@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "en arrière, moins fou, invisible, rames, chiots, vagins, vert, plus grand, manquant, digne de confiance, dents, baies, lasers, célibataire, à l'écoute, mes tuteurs légaux, plus convivial, ailes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "oreilles ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "caméras ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "TWEET DE CÉLÉBRITÉ ! 14h44 - 10 mai 11 @THEGaryBusey a tweeté : \"J'aurais aimé que mes oreilles soient <VIDES>.\" ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "333623_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

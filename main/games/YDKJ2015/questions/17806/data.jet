@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If you were only permitted to pin NON-POINTY pins on Pinterest, what pins could you pin?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "épinglettes ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Copains d'épingles ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "épingles à cheveux ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "épingles de sûreté ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "punaises ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si vous étiez uniquement autorisé à épingler des épingles NON POINTÉES sur Pinterest, quelles épingles pourriez-vous épingler ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "épinglettes ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Copains d'épingles ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "épingles à cheveux ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "épingles de sûreté ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "punaises ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "371944_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "371941_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "371940_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "371943_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "371948_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "371938_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

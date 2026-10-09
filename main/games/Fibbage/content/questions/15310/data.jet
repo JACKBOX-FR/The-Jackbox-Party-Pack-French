@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "marteaux, chapeaux de cowboy, cravates, pantalons de survêtement, brouettes, télécommandes, verres à vin, lunettes de soleil, oreillers, talkies-walkies, poupées en peluche, boîtes de soupe, tapis, tapis de Pilates, écouteurs, tasses à café, poulets, prostituées ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cadeau ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "pommes de terre ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "patates, pommes de terre ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le 13 janvier 2014, le secrétaire d'État américain John Kerry a offert au ministre russe des Affaires étrangères Sergueï Lavrov un étrange cadeau : deux très grands <VIERGES>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338415_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

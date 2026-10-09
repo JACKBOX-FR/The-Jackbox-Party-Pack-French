@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Mort, Regret, Silence absolu, Vomissement au lit, Fesses, Brunch nu, Gerbille malade, Nombril, Trois tétons, Dakota du Nord, Turd King, Meurtre, Dormir dans un tonneau, Crotte de nez, Embrasse ton frère, Lait maternel, Nuit, Rick Moranis ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "retour à la maison ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Clochard ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Depuis 1912, la semaine des retrouvailles de l’Université d’État du Dakota du Sud culmine avec une célébration étrangement nommée <BLANK> Day. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "355997_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "356000_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

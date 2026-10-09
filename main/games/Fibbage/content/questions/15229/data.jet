@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Orphelin, Déprimant, Sale, Gouttière, Sac triste, Personne, Mal-aimé, Qui s'en soucie, Oursin des rues, Jerk, Poppins, A été, Soleil, Col bleu, Classe moyenne, Hobo, Pauper, Commoner ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "pleurer ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Pas de nom",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "sans nom ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1965, Hasbro a fabriqué une poupée triste et en pleurs, vêtue de haillons en lambeaux, appelée Little Miss <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "336522_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

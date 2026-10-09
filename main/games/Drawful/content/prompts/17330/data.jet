@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une pierre tombale de minotaure|tombe de minotaure|une tombe de minotaure ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pierre tombale du Minotaure ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

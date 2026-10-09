@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "préposé aux toilettes, mannequin ventriloque, agent des services secrets, reconstitueur de la guerre civile, mime, perroquet centenaire, requin, jeu de palets professionnel, groupe de tambours en acier, grand enfant, équipe de bobsleigh, bande de dauphins, Harlem Globetrotter, palmier gonflable, sculpteur sur glace, quatuor de salon de coiffure, magicien chanteur, gars habillé comme un pirate ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "rééducation ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Imitateur de Trace Adkins ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Sosie de Trace Adkins, sosie de lui-même, imitateur de lui-même ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La chanteuse country Trace Adkins est entrée en cure de désintoxication après avoir combattu un <BLANK> lors d'une croisière en Jamaïque. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "344648_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "344651_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

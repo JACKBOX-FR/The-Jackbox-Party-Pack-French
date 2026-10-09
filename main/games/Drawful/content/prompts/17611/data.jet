@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "ninja gueule de bois|ninja gueule de bois|un ninja gueule de bois ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ninja qui a la gueule de bois ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370617_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

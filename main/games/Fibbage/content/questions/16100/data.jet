@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "marcher, voler, lire, changer de couleur, siffler, faire des mathématiques, roter, exploser, cuisiner, sentir la peur, devenir invisible, manger leur propre langue, imiter la parole humaine, lire dans les pensées, rire, ressusciter, pleurer, léviter ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "têtards ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "crier ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "crier ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les têtards de grenouilles cornues d'Argentine ont la capacité inhabituelle de <VIER>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "356164_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "356167_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "trenchcoat|fake ears|giant teeth|hockey mask|Trojan horse|Richard Nixon mask|fake beard|magic spell|little black dress",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "grandfather’s clothes|Christmas tree|mustache|cat suit|tuxedo t-shirt|witch’s hat",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "red cape|reindeer antlers|latex mask|hologram|Tom Hanks mask|flying monkey wings",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "glasses|grandmother’s clothes|Santa outfit|wig|dad’s armor|women’s clothes|guard uniforms",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Disguise The Limit",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Clark Kent|Red Riding Hood’s wolf|the Grinch|Hannah Montana|Mulan|<i>Bosom Buddies</i>|Scarecrow, Tin Man, & Lion",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "trenchcoat|fake ears|giant teeth|hockey mask|Trojan horse|Richard Nixon mask|fake beard|magic spell|little black dress",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "grandfather’s clothes|Christmas tree|mustache|cat suit|tuxedo t-shirt|witch’s hat",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "cape rouge|bois de renne|masque en latex|hologramme|masque de Tom Hanks|ailes de singe volantes ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "lunettes|vêtements de grand-mère|Tenue du Père Noël|perruque|armure de papa|vêtements pour femmes|uniformes de garde ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Déguiser la limite ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Clark Kent|Le loup du Chaperon rouge|le Grinch|Hannah Montana|Mulan|<i>Bosom Buddies</i>|Épouvantail, Tin Man et Lion ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "356403_0f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "356358_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "356359_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

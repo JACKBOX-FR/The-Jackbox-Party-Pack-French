@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "BS, à l'envers, perdant, laid-cul, odieux, humper, Dieu est mort, Wayne Gretzky, homicide, mamelon douloureux, surfait, fantôme orphelin, grincheux, Oo La La, couche, gros stupide, stupide, va-t'en ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Pic ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Inutile ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "VOYAGE EN ROUTE ! Lorsque vous vous trouvez dans les montagnes de la Côte-Nord, près de Vancouver, en Colombie-Britannique, assurez-vous de gravir le sommet au nom inhabituel appelé <BLANK> Mountain. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "351761_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "351764_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

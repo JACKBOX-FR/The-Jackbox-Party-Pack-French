@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Années 80, années 80|années 80|années 80 ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les années 80 ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

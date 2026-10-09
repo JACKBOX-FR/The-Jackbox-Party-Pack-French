@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un joueur de baseball frappant un gong ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Joueur de baseball frappant un gong ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

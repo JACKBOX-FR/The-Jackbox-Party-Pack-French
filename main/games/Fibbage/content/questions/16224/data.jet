@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cupcakes, grand-mère, cheveux brûlés, Cheez Whiz, une prison, houmous, œufs pourris, whisky, poisson mort, chaussures, fleurs fraîches, odeur corporelle, soufre, une mouffette, eau des tourbières, pets, sauce buffalo, réglisse ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "rappel ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "urine de chat ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pipi de chat, urine féline, pipi félin, pisse de chat, pisse féline ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, Dell a émis un rappel après que des clients se soient plaints que leurs ordinateurs portables sentaient <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "359125_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "salami, couche, chauve-souris, marionnette, chaussure, pneu, magazine, poisson, cuillère, cloche, pichet de bière, conserve, chou, tortue, baguette, rat, livre, boule de bowling ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Portugal ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "marteau ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Au festival de Sao Joao au Portugal, vous avez frappé les gens à la tête avec un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "320837_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "320840_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

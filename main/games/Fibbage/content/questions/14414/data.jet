@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Aquaman, arcs-en-ciel, Big Foot, gobelins, Poséidon, Atlantide, herpès, cochons volants, mauvais sorts, pluie de boulettes de viande, mauvaises critiques, accidents de jeu de palets, frappes de bazooka, jets, Armageddon, Barbe Noire, flet, le Titanic ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Croisières ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "le monstre du Loch Ness ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "nessie, nessie le monstre du loch nes, nessie, le monstre du loch ness, nessy, nessy le monstre du loch ness, nessy, le monstre du loch ness, le monstre de verrouillage, le monstre du lochness, le monstre de verrouillage, monstre du lochness ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Jacobite Cruises a souscrit une assurance inhabituelle pour la protéger des dommages causés par <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "320364_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

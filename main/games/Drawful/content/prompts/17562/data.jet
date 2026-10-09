@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un bonhomme allumette avec de vraies mains ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Figurine avec de vraies mains ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370250_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

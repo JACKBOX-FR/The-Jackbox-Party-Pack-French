@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which Kelly Clarkson song would philosopher Friedrich Nietzsche probably sing at karaoke, because he said pretty much the same thing?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« M. Je sais tout » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La pop est morte ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Plus fort (ce qui ne vous tue pas)\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "«Lève-toi (un hymne des cowboys)» ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Depuis que tu es parti\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quelle chanson de Kelly Clarkson le philosophe Friedrich Nietzsche chanterait-il probablement au karaoké, car il dit à peu près la même chose ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« M. Je sais tout » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La pop est morte ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Plus fort (ce qui ne vous tue pas)\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "«Lève-toi (un hymne des cowboys)» ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Depuis que tu es parti\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "364183_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364180_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364179_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364182_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "364187_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364177_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "364189_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

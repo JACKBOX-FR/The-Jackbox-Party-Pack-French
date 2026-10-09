@@ -1,0 +1,195 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What might you see on a television show called <i>The “Balking” Dead</i>?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "une horde de zombies qui tournent en rond ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Les zombies ne vieillissent jamais ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une légion de zombies refusant de marcher du tout ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un essaim de zombies marchant sur la pointe des pieds ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une armée de zombies marchant à reculons ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Que pourriez-vous voir dans une émission de télévision intitulée <i>The « Balking » Dead</i> ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "une horde de zombies qui tournent en rond ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Les zombies ne vieillissent jamais ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une légion de zombies refusant de marcher du tout ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un essaim de zombies marchant sur la pointe des pieds ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une armée de zombies marchant à reculons ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "359096_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "359093_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "359092_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "359265_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "359264_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "359095_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "359090_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "359102_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "359266_0f",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

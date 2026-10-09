@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If I wanted to tell somebody who’s whining about THEIR problems “Oh look, I’m participating in the world’s smallest STRING QUARTET!” how many tiny violins would I need to pretend to play?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Musique ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "QUATRE petits violons ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Yo-Yo Ma en a tellement marre de tes râles ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "DEUX petits violons ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "UN petit violon ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "TROIS petits violons ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si je voulais dire à quelqu’un qui se plaint de SES problèmes : « Oh regarde, je participe au plus petit QUATUOR À CORDES du monde ! de combien de petits violons aurais-je besoin pour faire semblant de jouer ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Musique ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "QUATRE petits violons ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Yo-Yo Ma en a tellement marre de tes râles ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "DEUX petits violons ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "UN petit violon ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "TROIS petits violons ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "347220_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "347215_1",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "347217_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "347216_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "347219_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "347214_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "347226_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "347222_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

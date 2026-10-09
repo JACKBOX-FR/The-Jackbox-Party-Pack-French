@@ -1,0 +1,195 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these museum art pieces features a rude person who is NOT taking off his hat while inside the museum?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Art ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Le <i>gothique américain</i> de Wood ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "L'esprit avant les manières ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Le Fils de l'Homme</i> de Magritte ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>La Naissance de Vénus</i> de Botticelli ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Le <i>David</i> de Michel-Ange ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Laquelle de ces œuvres d'art de musée représente une personne grossière qui n'enlève PAS son chapeau à l'intérieur du musée ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Art ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Le <i>gothique américain</i> de Wood ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "L'esprit avant les manières ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Le Fils de l'Homme</i> de Magritte ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>La Naissance de Vénus</i> de Botticelli ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Le <i>David</i> de Michel-Ange ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "358660_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "358657_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "358656_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "358668_1f",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "358667_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "358659_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "358664_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "358654_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "358671_0f",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

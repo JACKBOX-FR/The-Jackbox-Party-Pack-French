@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Barf, Gus, Princesse, Spencer, Splat, Blumer, Yikes, Jody, Beautiful, Arnie, Hork, Gisele, Chuck, Levithian, Bœuf, Beurk, Visage de rat, Dysenterie ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Chien ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Mugly ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le nom du chien qui a remporté le concours du chien le plus laid du monde 2012. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "323869_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "323872_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

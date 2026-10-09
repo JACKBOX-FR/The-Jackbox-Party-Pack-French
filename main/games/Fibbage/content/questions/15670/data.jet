@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "punaises, œufs pourris, lait maternel, pudding, briques, bonbons, charbons ardents, dents de chien, poignards, raisins, dés, diamants, feux d'artifice, pièces d'or, coupures d'ongles, os de poulet, couches, verre brisé ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "chiffons ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "fourmis de feu ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pompiers ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "VOYAGE EN ROUTE ! À Laza, en Espagne, n'oubliez pas d'assister au festival annuel où les participants se jettent des chiffons boueux remplis de <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "346691_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "346694_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

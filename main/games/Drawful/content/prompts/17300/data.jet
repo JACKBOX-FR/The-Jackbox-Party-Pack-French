@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un pique-nique cyclope ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pique-nique des Cyclopes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

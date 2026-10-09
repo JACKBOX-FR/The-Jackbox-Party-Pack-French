@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une chambre de science-fiction | chambre de science-fiction ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Chambre de science-fiction ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

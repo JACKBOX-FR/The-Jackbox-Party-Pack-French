@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What’s the best way to tell people the name of your curling team?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,1,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "«Ice Wide Shut est mon TRAM de curling.» ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Curlez-le comme celui qui est le David Beckham du curling ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "«Total Ice Holes est ma PATINOIRE de curling.» ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Ice Guys termine dernier, c'est mon KLEEG de curling. » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "«Ice Ice Babies est mon PANEL de curling.» ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quelle est la meilleure façon de dire aux gens le nom de votre équipe de curling ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,1,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "«Ice Wide Shut est mon TRAM de curling.» ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Curlez-le comme celui qui est le David Beckham du curling ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "«Total Ice Holes est ma PATINOIRE de curling.» ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Ice Guys termine dernier, c'est mon KLEEG de curling. » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "«Ice Ice Babies est mon PANEL de curling.» ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "353041_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "353038_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "353037_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "353040_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "353045_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "353035_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "353043_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

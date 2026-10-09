@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "wishing star|Fountain of Youth|genie|plastic surgery|time machine|wrinkle cream|deal with the devil|zombie virus|live forever pill",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "peach pit|true love|adamantium skeleton|Horcrux|fairy dust|you chose poorly",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Everlasting Gobstoppers|a plot hole|radioactive wolverine|Chamber of Secrets|magic clock|Ark of the Covenant",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "cursed treasure|magic spring|vampire bite|genetic mutation|Philosopher’s Stone|Neverland|Holy Grail",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "You Only Live Forever Once",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Captain Barbossa|<i>Tuck Everlasting</i> family|Edward Cullen|Wolverine|Nicolas Flamel|Peter Pan|knight in <i>The Last Crusade</i>",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "wishing star|Fountain of Youth|genie|plastic surgery|time machine|wrinkle cream|deal with the devil|zombie virus|live forever pill",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "peach pit|true love|adamantium skeleton|Horcrux|fairy dust|you chose poorly",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Gobstoppers éternels|un trou dans l'intrigue|carcajou radioactif|Chambre des secrets|horloge magique|Arche d'Alliance ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "trésor maudit | source magique | morsure de vampire | mutation génétique | Pierre philosophale | Pays imaginaire | Saint Graal ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "On ne vit qu'une fois pour toujours ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Capitaine Barbossa|Famille <i>Tuck Everstanding</i>|Edward Cullen|Wolverine|Nicolas Flamel|Peter Pan|chevalier dans <i>La Dernière Croisade</i> ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "355653_2 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "355608_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "355609_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

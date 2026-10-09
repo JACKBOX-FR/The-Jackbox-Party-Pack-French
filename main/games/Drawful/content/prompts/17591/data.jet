@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Des enfants dans une comédie musicale ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Des enfants dans une comédie musicale ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370557_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

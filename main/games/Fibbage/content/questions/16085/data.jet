@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "rire, épeler des mots, jongler, faire des présentations PowerPoint, faire du vélo, compter jusqu'à pi, faire des impressions, faire de l'origami, jouer du piano, déclarer les impôts, parler anglais, comprendre la poésie, sauter, faire repousser sa queue, jouer au basket, tirer la chasse d'eau, accoucher, aboyer des chansons ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "beagle ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "briller dans le noir ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "brille dans le noir ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ruppy le beagle est un chien très inhabituel car il peut <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "355824_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "355827_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

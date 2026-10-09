@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "voiture, partenaire, chapeau, genoux, pistolet, entrejambe, femme, épaule, fils, maison, chien, bâton de nuit, visage, lunettes de soleil, fesses, moustache, casque, café ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "police ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "cheval ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "son cheval ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un jour de juin 2013, à 2 h 45, un homme à Orlando, en Floride, a été arrêté pour s'être approché d'un policier et lui avoir frappé <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "325411_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

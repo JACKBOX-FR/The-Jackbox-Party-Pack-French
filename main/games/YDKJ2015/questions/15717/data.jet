@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What might happen to Pinocchio?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons qu'au lieu de souhaiter une étoile, Geppetto fasse un vœu en utilisant « La patte du singe » de la célèbre nouvelle. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Il prendrait vie, puis Geppetto recevrait six autres vœux. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Quand tu fais un vœu sur une main morte et ratatinée ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Il reviendrait à la vie, mais les conséquences seraient terribles. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Il ne prendrait pas vie du tout. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Il revenait à la vie pendant 24 heures, puis redevenait une marionnette. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.28 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Que pourrait-il arriver à Pinocchio ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons qu'au lieu de souhaiter une étoile, Geppetto fasse un vœu en utilisant « La patte du singe » de la célèbre nouvelle. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Il prendrait vie, puis Geppetto recevrait six autres vœux. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Quand tu fais un vœu sur une main morte et ratatinée ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Il reviendrait à la vie, mais les conséquences seraient terribles. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "He would not come to life at all.",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "He’d come to life for 24 hours, then revert back to a puppet.",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.28",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "347730_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "347727_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "347726_1",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "347729_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "347734_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "347724_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "347732_2",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

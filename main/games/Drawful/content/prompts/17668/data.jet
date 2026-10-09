@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Un talk-show de fin de soirée animé par une femme|un talk-show de fin de soirée animé par une femme|un talk-show de fin de soirée animé par une femme|un talk-show de fin de soirée animé par une femme ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un talk-show de fin de soirée animé par une femme ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

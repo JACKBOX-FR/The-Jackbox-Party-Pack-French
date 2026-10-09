@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Princess Aurora|Mr. Magoo|Dagwood Bumstead|Eeyore|Robert Byrd|Droopy Dog|Little Nemo|the Somnambulist|Sir Snore-A-Lot",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Jon Arbuckle|Narcoleptic Bear|the March Hare|Pikasnooze|Deadbeat Smurf|Ichabod Crane",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Nermal|Hibernating Bear|the Cheshire Cat|Bulbasnore|Gargamel|Rip Van Winkle",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Sleepy|Garfield|Bedtime Bear|the Dormouse|Snorlax|Lazy Smurf|Prince Valium",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Catching Some Z’s",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Snow White & the Seven Dwarfs</i>|<i>Garfield</i>|<i>The Care Bears</i>|<i>Alice In Wonderland</i>|<i>Pokemon</i>|<i>The Smurfs</i>|<i>Spaceballs</i>",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "Princess Aurora|Mr. Magoo|Dagwood Bumstead|Eeyore|Robert Byrd|Droopy Dog|Little Nemo|the Somnambulist|Sir Snore-A-Lot",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Jon Arbuckle|Narcoleptic Bear|the March Hare|Pikasnooze|Deadbeat Smurf|Ichabod Crane",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Nermal|Ours en hibernation|le chat du Cheshire|Bulbasnore|Gargamel|Rip Van Winkle ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Somnolent | Garfield | Ours au coucher | le Loir | Ronflex | Schtroumpf paresseux | Prince Valium ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Attraper quelques Z ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Blanche Neige et les Sept Nains</i>|<i>Garfield</i>|<i>Les Bisounours</i>|<i>Alice au pays des merveilles</i>|<i>Pokémon</i>|<i>Les Schtroumpfs</i>|<i>Boules spatiales</i> ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "363790_0f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "363745_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "363746_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

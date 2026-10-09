@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If Pinocchio went back inside the sperm whale to steal its AMBERGRIS, who would he sell it to?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un forgeron ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Un crime génial ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un parfumeur ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un boucher ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un mercier ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si Pinocchio retournait à l'intérieur du cachalot pour voler son AMBERGRIS, à qui le vendrait-il ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un forgeron ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Un crime génial ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un parfumeur ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un boucher ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un mercier ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "367999_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "367996_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "367995_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "367998_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "367993_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "368001_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "docteur flic|dr. flic|doc flic ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dr Cop ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

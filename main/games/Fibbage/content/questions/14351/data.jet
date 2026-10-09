@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Seins, Lit, Regard, Regret, Culpabilité, Sens, Souffle, Frère, Soufflet, Secret, Slip, Estomac, Éruction, Rêve, Classe, Règle, Menton, Humour ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Nonne ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Péter ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Pets ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les Français ont une pâtisserie appelée « Nun's <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "319013_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "319016_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

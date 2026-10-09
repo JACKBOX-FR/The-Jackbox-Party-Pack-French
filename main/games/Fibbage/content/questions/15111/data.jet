@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Mamelon du diable, Coup de poing mortel, Anarchie, Faiseur de veuves, Souffle de dragon, Chesthair, Juggernaut, Nous mourons tous seuls, Pixie Dust, Angry Wolverine, Demon Rage, Suicide, Térébenthine, Élixir de papa, Le cauchemar de Satan, Peur épique, Pissenlit, Sally ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Maître brasseur ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Armaguédon ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Armaguédon ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Avec 65 % d’alcool par volume, Brewmeister brasse la bière la plus forte du monde, qui porte ce nom. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334799_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334802_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

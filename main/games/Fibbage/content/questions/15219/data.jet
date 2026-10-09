@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "L'église, le bal seul, Harvard, l'hôpital, la prison, Burning Man, l'enfer, l'espace, Hollywood, Narnia, la salle de bain, le Vietnam, la Russie, l'école de réparation de réfrigération, la détention, les extrêmes, l'Antarctique, le paradis ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Stallone ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "La chaise électrique ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "chaise électrique, la chaise ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "À l'école, Sylvester Stallone a été élu par ses professeurs comme le plus susceptible d'aller à <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "336291_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "igloo, fort d'oreillers, vaisseau spatial Lego, squelette de vache, dos d'escargot, maison de verre, coin de fromage, voiture de montagnes russes, statue d'eux-mêmes, machine à laver, baleine morte, champ de citrouille, nichoir à oiseaux, téléviseur évidé, château flottant, enveloppe, bulle de savon, boule à neige ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "orbite ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "roue de hamster ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "roue de hamster, roue de souris, roue de gerbille ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L’œuvre d’art « In Orbit » de Ward Shelley et Alex Schweder, exposée dans une galerie à New York, mettait en scène deux hommes vivant dans un <BLANK> géant pendant 10 jours. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "350608_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "350611_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

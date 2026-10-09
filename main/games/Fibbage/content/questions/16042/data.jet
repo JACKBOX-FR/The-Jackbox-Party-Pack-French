@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "sueur, poison, salive de chèvre, vodka, vomi, estomac de mouton, coffre d'une voiture, bière, acide de batterie, Velveeta, graisse humaine, larmes, excréments de buffles d'eau, votre propre sang, lave, chocolat, eau du spa, eaux usées ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "oeufs ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "urine de jeune garçon ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "l'urine des jeunes garçons,l'urine d'un jeune garçon,l'urine d'un garçon,l'urine d'un garçon,l'urine d'un garçon,l'urine d'un jeune garçon,l'urine d'un petit garçon,l'urine d'un petit garçon,l'urine d'un petit garçon ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "ROADTRIP! Lors d'un voyage de vacances de printemps à Dongyang, en Chine, assurez-vous d'essayer leurs œufs cuits dans <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354864_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "354867_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

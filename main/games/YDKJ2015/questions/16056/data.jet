@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What kind of chart should I use to find the movies where he both sneers AND grunts?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons que tous les films de Vin Diesel peuvent être classés en deux catégories : ceux où son jeu repose sur des grognements ou ceux où son jeu repose sur le ricanement. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Mathématiques ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un diagramme Vin Diesel VYNN ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Autant en emporte le vin ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un diagramme VENN Vin Diesel ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un diagramme VANN Vin Diesel ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un diagramme Vin Diesel VINN ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+9.18 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quel genre de tableau dois-je utiliser pour trouver les films où il ricane ET grogne à la fois ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons que tous les films de Vin Diesel peuvent être classés en deux catégories : ceux où son jeu repose sur des grognements ou ceux où son jeu repose sur le ricanement. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Mathématiques ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un diagramme Vin Diesel VYNN ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Autant en emporte le vin ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un diagramme VENN Vin Diesel ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "a Vin Diesel VANN Diagram",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "a Vin Diesel VINN Diagram",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+9.18",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "355161_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "355158_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "355157_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "355160_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "355155_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "355163_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

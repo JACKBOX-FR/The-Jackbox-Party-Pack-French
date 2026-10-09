@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these How To Host A Murder party games would NOT be based on a real-life murder?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Bum Rap : Le meurtre de Notorious B.I.G.</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Comment organiser une Death Party ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Une mort à la mode : le meurtre de Giorgio Armani</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Gorilles à la morgue : le meurtre de Dian Fossey</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>La guérison sexuelle n’aidera pas : le meurtre de Marvin Gaye </i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Lequel de ces jeux de société Comment organiser un meurtre ne serait PAS basé sur un meurtre réel ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Bum Rap : Le meurtre de Notorious B.I.G.</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Comment organiser une Death Party ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Une mort à la mode : le meurtre de Giorgio Armani</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Gorilles à la morgue : le meurtre de Dian Fossey</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>La guérison sexuelle n’aidera pas : le meurtre de Marvin Gaye </i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "362931_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "362926_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "362928_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "362927_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "362930_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "362925_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

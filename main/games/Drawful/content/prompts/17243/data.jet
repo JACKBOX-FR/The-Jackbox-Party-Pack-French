@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Je m'étouffe | Je m'étouffe | Je m'étouffe !!! ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Je m'étouffe !!!1 ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369590_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "égout, centre commercial, silo, panneau d'affichage, benne à ordures, entrepôt, club de strip-tease, bain turc, bus scolaire, prison, bordel, phare, bureau de poste, moulin à vent, arrêt de camion, fort, hôpital, fourgon de queue ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Reines ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "cimetière ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "cimetière, cimetière, cimetière ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Depuis 2000, un couple du Queens, à New York, vit gratuitement dans un <BLANK> en échange d'en prendre soin. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "328811_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "328814_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

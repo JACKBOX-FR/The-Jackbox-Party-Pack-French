@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which existing Disney character could they pull out of retirement to play the animal that finally eats the Gingerbread Man?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que Disney décide de faire une adaptation sur grand écran du conte populaire <i>Le bonhomme en pain d'épice</i>. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Baloo ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Comment manger un gingembre ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Robin des Bois ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Sven",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Moufasa ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.84 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quel personnage Disney existant pourraient-ils sortir de leur retraite pour incarner l'animal qui finalement mange le bonhomme en pain d'épice ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que Disney décide de faire une adaptation sur grand écran du conte populaire <i>Le bonhomme en pain d'épice</i>. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Baloo ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Comment manger un gingembre ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Robin des Bois ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Sven",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Mufasa",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.84",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "353456_1",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "353453_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "353452_1",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "353455_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "353460_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "353450_2",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

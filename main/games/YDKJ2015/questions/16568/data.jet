@@ -1,0 +1,183 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Considering what food does appear on the Olive Garden sign, the signmaker probably heard the boss yell, “You idiot! It’s OLIVE Garden, not...”",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "“... Jardin de PÂTES !!!” ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Minuit dans le Jardin des Oliviers du Bien et du Mal ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "“...Jardin de raisin !!!” ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "“... Jardin de gressins !!!” ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“... Jardin de FROMAGE !!!” ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Compte tenu de la nourriture qui apparaît sur l'enseigne d'Olive Garden, l'enseigne a probablement entendu le patron crier : \"Espèce d'idiot ! C'est OLIVE Garden, pas...\" ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "“... Jardin de PÂTES !!!” ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Minuit dans le Jardin des Oliviers du Bien et du Mal ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "“...Jardin de raisin !!!” ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "“... Jardin de gressins !!!” ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“... Jardin de FROMAGE !!!” ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "364339_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "364334_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364336_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364335_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364338_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "364343_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364333_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "364345_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "364341_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

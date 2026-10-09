@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "racistes, chefs, enseignants, étudiants en théâtre musical, républicains, amoureux des animaux, criminels, personnes sur le point de mourir, consommateurs de marijuana, divorcés, tricheurs, propriétaires d'armes à feu, enfants du milieu, politiciens, catholiques, une personne d'un groupe de jumeaux, travailleurs de la restauration rapide, fumeurs ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "foule ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Mormons ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un mormon, n'importe quel mormon, n'importe quel mormon, tous les mormons ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une étude menée à l’Université Tufts par Nicholas Rule, étudiant diplômé en psychologie, a révélé que les gens ont la capacité de désigner <BLANK> dans une foule. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "353931_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

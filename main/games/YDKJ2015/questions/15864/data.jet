@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What might you hear Fat Albert say while consuming a tub of “lard”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Hé hé hé ! C'est de la délicieuse GRAISSE DE MOUTON !\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Obésité du personnage d'enfance bien-aimé ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Hé hé hé ! C'est de la délicieuse GRAISSE DE PORC !\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Hé hé hé ! C'est de la bonne GRAISSE DE VACHE !\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Hé hé hé ! C'est une délicieuse graisse de poulet\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qu’entendez-vous dire Gros Albert en consommant un pot de « saindoux » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Hé hé hé ! C'est de la délicieuse GRAISSE DE MOUTON !\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Obésité du personnage d'enfance bien-aimé ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Hé hé hé ! C'est de la délicieuse GRAISSE DE PORC !\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Hé hé hé ! C'est de la bonne GRAISSE DE VACHE !\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Hé hé hé ! C'est une délicieuse graisse de poulet\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "351035_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "351030_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "351032_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "351031_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "351034_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "351029_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "351041_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "351037_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

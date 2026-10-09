@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Bruce Wayne|Anne of Green Gables|Mr. Drummond|Count Olaf|Felonius Gru|Adele Stackhouse|the Earnshaw family|Henry Warnimont|Bunny Colvin",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "General Zod|Uncle Voldemort|Gene Parmesan|David Gale|Miss Trunchbull|Fagin",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "The Legal Guardians of the Galaxy|Ron Weasley|Victor Hugo|Uncle Ralph|The Starks|Mr. Serial Killer",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Daddy Warbucks|Ma and Pa Kent|the Dursleys|Jean Valjean|Aunt Em|Miss Honey|Harry Morgan",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "I Love You Like a Legal Guardian",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Little Orphan Annie|Superman|Harry Potter|Cosette|Dorothy Gale|Matilda|Dexter",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "Bruce Wayne|Anne of Green Gables|Mr. Drummond|Count Olaf|Felonius Gru|Adele Stackhouse|the Earnshaw family|Henry Warnimont|Bunny Colvin",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "General Zod|Uncle Voldemort|Gene Parmesan|David Gale|Miss Trunchbull|Fagin",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Les gardiens légaux de la Galaxie|Ron Weasley|Victor Hugo|Oncle Ralph|Les Starks|M. Tueur en série ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Papa Warbucks|Ma et Pa Kent|les Dursley|Jean Valjean|Tante Em|Miss Honey|Harry Morgan ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Je t'aime comme un tuteur légal ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Petite orpheline Annie|Superman|Harry Potter|Cosette|Dorothy Gale|Matilda|Dexter ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "341256_0 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "341211_1 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "341212_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

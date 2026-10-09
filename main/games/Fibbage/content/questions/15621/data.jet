@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "homme en traînée,autoradio,meurtre,short,couteau,baiser français,douche,motel,soutien-gorge,bébé triste,micro-onde,patch âme,femme morte,juda,cadavre,téléphone,paire de collants,téton ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Psycho ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "chasse d'eau ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "chasse d'eau, chasse d'eau, chasse d'eau, chasse d'eau, chasse d'eau, chasse d'eau ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "<i>Psycho</i> a été le premier film américain à montrer un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "345600_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

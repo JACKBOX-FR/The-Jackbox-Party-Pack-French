@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "casino, stand de tir, magasin de cigares, combat de coqs, laboratoire de méthamphétamine, prison, bordel, grotte, usine abandonnée, usine de bière, repaire de crack, cimetière, course de dragsters, bar mitzvah, spectacle de ménestrels, spectacle d'armes à feu, opération de changement de sexe, Lowe's ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "excursion ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "club de strip-tease ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "club de strip-tease, bar nu, bar nu ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un professeur de chimie de l'Indiana a été licencié en 2013 après avoir prétendument emmené plusieurs de ses élèves lors d'une excursion non autorisée dans un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "328027_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "328030_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

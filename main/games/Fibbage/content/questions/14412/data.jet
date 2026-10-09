@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "pénis, camion monstre, fût, diable, femme nue, bang, mitrailleuse, croix gammée, chauve-souris, singe, loup-garou, bazooka, majeur, explosion nucléaire, paire de seins, piscine, fesses, crotte ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "pierre tombale ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "canapé",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un canapé,un canapé,un canapé ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une femme de l’Indiana a poursuivi un cimetière religieux parce que celui-ci avait refusé d’installer la pierre tombale de son défunt mari en forme de <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "320318_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "320321_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "noix de coco, B.O., sauce, plantain, ranch, cacahuète, viande, chocolat, bonbons, mouffette, chien, réglisse, riz, orange, truite, café, coléoptère, fer ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Philippines ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "banane ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un condiment populaire aux Philippines est le ketchup aromatisé <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "352323_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

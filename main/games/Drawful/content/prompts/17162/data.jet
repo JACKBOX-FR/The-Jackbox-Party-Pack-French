@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "le groupe le plus ennuyeux de tous les temps ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le groupe le plus ennuyeux de tous les temps ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

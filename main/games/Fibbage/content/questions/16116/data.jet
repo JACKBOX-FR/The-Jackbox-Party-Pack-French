@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "professeur, tueur en série, lapin, voyageur temporel, cheval, moine, garçon de piscine, clochard, sénateur, Slim Jim, mulet, statue, roi, dauphin, grand-père d'un ami, cactus, chien, président ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Lucie ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "fantôme ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dans une interview accordée à <i>US Weekly</i> en 1999, l'actrice Lucy Liu a révélé qu'elle avait déjà eu des relations sexuelles avec un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "356553_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

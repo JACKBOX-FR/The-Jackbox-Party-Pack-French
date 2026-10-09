@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "fûts, cercueils, voitures, bureaux, brouettes, pastèques, mannequins, grills, caddies, trampolines, toilettes, autobus scolaires, baignoires, tables, woks, canapés, maisons de poupées, poubelles ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bateaux ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "citrouilles ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "une citrouille ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les habitants de Damariscotta, dans le Maine, organisent une course annuelle au cours de laquelle ils utilisent <BLANK> comme bateaux. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "320199_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "320202_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

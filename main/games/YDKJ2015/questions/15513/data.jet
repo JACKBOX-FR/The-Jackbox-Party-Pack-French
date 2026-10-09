@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these hipster bones is so hip it hangs out at the hip joint?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un humérus portant un bandeau ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Cet endroit est une véritable articulation de la hanche ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un fémur achetant de la cire à moustache ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "une clavicule achetant des vinyles vintage ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une fibule buvant un PBR ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Lequel de ces os hipster est si branché qu'il dépasse au niveau de l'articulation de la hanche ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un humérus portant un bandeau ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Cet endroit est une véritable articulation de la hanche ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un fémur achetant de la cire à moustache ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "une clavicule achetant des vinyles vintage ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une fibule buvant un PBR ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "343177_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "343174_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "343173_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "343176_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "343181_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "343171_1",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "343183_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

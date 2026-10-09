@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "jongler, lancer un missile, un programme informatique, résoudre un Rubik's Cube, patiner sur glace, appliquer l'acupuncture, parler klingon, piloter un hélicoptère, breakdance, jouer au basket-ball, souder, écorcher un cochon, compter les cartes, allumer un feu de camp, conduire un 18 roues, utiliser des radios amateur, lutter, chasser ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "enseignants ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "jouer de l'accordéon ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "jouer de l'accordéon, jouer de l'accordéon, jouer de l'accordéon, jouer de l'accordéon, jouer de l'accordéon ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Au cours des années 1990, les enseignants de Corée du Nord devaient, curieusement, savoir comment <VIER>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349536_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "349539_3",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "DVD, jeux vidéo, tacos, bagues, Groupons, câlins, cigares, moutons, rendez-vous, lap dance, massages, ShamWows, hamburgers, billets de train, balles de baseball, fedoras, futons, chaussures à talons hauts ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "citoyenneté ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "nems",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "nems,eggrolls,eggrolls ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, un agent des douanes et de la protection des frontières des États-Unis a été reconnu coupable d'avoir accordé la citoyenneté en échange de 200 <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "323299_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "323302_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

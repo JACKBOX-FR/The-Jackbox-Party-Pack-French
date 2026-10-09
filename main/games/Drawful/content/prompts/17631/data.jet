@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Gros pouce ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Des pouces grossiers ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370797_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

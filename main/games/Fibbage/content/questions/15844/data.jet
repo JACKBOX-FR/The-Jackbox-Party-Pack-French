@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "vodka, médicaments, se plaindre, jouer à des jeux vidéo, Twitter, poser nue, regarder des nuages, margaritas, faire une sieste, bacon, faire la fête, faire du shopping, Matchbox Twenty, oxygène, faire du vélo, Twizzlers, fredonner, ne pas dormir ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Lohan ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "travailler ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "travailler, faire du travail, aller travailler ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "TWEET DE CÉLÉBRITÉ ! 16h32 - 22 mai 2012 @lindsaylohan a tweeté : « <BLANK> est le meilleur médicament. » ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "350570_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "350573_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

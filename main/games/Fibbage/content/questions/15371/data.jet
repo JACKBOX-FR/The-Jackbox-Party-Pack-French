@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "voiture, bateau, millions de dollars, câlin, rendez-vous avec le propriétaire, boîte de biscuits, note de remerciement, dîner raffiné, études universitaires, chat, dîner de tacos, jet privé, cheval, nouvelle robe, maison de deux chambres, stylo décoratif, nouveau four de cuisson, ensemble de couteaux à steak ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "pépite de chocolat ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "approvisionnement à vie en chocolat ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "approvisionnement à vie en chocolat, approvisionnement à vie en chocolat, approvisionnement à vie en barres de chocolat, approvisionnement à vie en barres de chocolat, approvisionnement à vie en barres de chocolat, approvisionnement à vie en chocolat, approvisionnement à vie en chocolat, approvisionnement à vie en chocolats, approvisionnement à vie en chocolats, approvisionnement à vie en chocolats, tout un tas de chocolat, des chocolats à gogo, un tas de chocolat, un tas de chocolats, tout un tas de chocolats, une tonne de chocolat, une tonne de chocolats, une tonne de barres de chocolat, tout un tas de chocolat barres, tas de barres de chocolat ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'inventeur du cookie aux pépites de chocolat a échangé sa recette à Nestlé en échange d'un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339818_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "339821_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

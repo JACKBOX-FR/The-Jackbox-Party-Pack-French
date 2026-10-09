@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un sac avec des dents effrayantes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sac avec des dents effrayantes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une chanson d'amour|chansons d'amour ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Chanson d'amour ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

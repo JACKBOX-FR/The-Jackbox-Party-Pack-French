@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If Jay-Z is in an Ottoman Empire state of mind, what might he be thinking about?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "assis au bord du terrain avec LES AZTÈQUES ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Otto-Tuning ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "en disant \"Quoi de neuf ?\" aux TURCS ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Je navigue dans la rue avec LES MONGOLS ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "siroter la vie avec désinvolture avec THE HUNS ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si Jay-Z est dans un état d’esprit d’Empire Ottoman, à quoi pourrait-il penser ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "assis au bord du terrain avec LES AZTÈQUES ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Otto-Tuning ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "en disant \"Quoi de neuf ?\" aux TURCS ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Je navigue dans la rue avec LES MONGOLS ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "siroter la vie avec désinvolture avec THE HUNS ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366914_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366911_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366910_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366913_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "366918_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366908_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "366920_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

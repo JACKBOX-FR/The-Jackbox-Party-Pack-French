@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would be included in a Buzzfeed article “12 PEOPLE WHO ARE TOTALLY NAMED BUZZ?”",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un GIF de la troisième personne à marcher sur la lune ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Buzzkillfeed ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un GIF de la deuxième personne à avoir marché sur la lune ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un GIF de la première personne à avoir marché sur la lune ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un GIF de la dernière personne à avoir marché sur la lune ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qu'est-ce qui serait inclus dans un article Buzzfeed « 12 PERSONNES QUI SONT TOTALEMENT NOMMÉES BUZZ ? »",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un GIF de la troisième personne à marcher sur la lune ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Buzzkillfeed ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un GIF de la deuxième personne à avoir marché sur la lune ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un GIF de la première personne à avoir marché sur la lune ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un GIF de la dernière personne à avoir marché sur la lune ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "347092_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "347089_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "347088_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "347091_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "347086_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "347098_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

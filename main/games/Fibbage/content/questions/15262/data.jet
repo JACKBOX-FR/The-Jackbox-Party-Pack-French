@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "soupe, la crème glacée du futur, purée de pommes de terre, sautés, crème de maïs, spam, beignets, chips et salsa, barres granola, fromage à la crème, bonbons, Slim Jims, gigot d'agneau, macaroni au fromage, houmous, Doritos, choucroute, wraps de poulet piquants ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "espace ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "compote de pommes ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La première chose mangée dans l’espace était <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "337308_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "337311_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

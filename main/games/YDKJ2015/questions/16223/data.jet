@@ -1,0 +1,202 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "For which of these characters is this advice too late?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "\"IL EST MIEUX D'AVOIR UN FLACON DEVANT MOI QU'UNE LOBOTOMIE FRONTALE\" ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Alex de <i>Orange mécanique</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Préparons-nous à nous effondrer ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "McMurphy de <i>Un survol d'un nid de coucou</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Holden de <i>The Catcher In The Rye</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Un tramway nommé Désiré</i>'s Blanche ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.60 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Pour lequel de ces personnages ce conseil est-il trop tard ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "\"IL EST MIEUX D'AVOIR UN FLACON DEVANT MOI QU'UNE LOBOTOMIE FRONTALE\" ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Alex de <i>Orange mécanique</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Préparons-nous à nous effondrer ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "McMurphy de <i>Un survol d'un nid de coucou</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>The Catcher In The Rye</i>’s Holden",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>A Streetcar Named Desire</i>’s Blanche",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.60",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "359111_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "359106_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "359108_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "359107_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "359110_1",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "359115_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "359105_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "359120_1f",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

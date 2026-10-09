@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "lire le braille, soulever des poids, mettre une table, peindre ses ongles, jouer à Candy Crush, résoudre un Rubik's cube, nettoyer, tirer du lait, rouler un joint, manger des spaghettis, nettoyer un pistolet, jouer de la guitare, se baigner, uriner, tondre, parler, jongler, faire du yoga ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "nez ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "tapez ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Mohammed Khurshid Hussain est dans le <i>Livre Guinness des records du monde</i> parce qu'il est capable de <VIER> très rapidement avec son nez. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "350904_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "350907_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Sieste, préparation des déclarations de revenus, ratisser, lire, curling, dessiner, s'asseoir, peindre, applaudir, utiliser la soie dentaire, bowling, se baigner, nettoyer, flotter, tomber, antiquité, danse carrée, caresser ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "fondateur ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Repassage ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Phil Shaw est le fondateur d'un sport bizarre appelé Extreme <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "333232_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "333235_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

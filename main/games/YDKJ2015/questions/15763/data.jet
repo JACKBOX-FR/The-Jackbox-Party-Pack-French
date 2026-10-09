@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these titles would tell the story of someone trying to get on a throne?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons qu’il existe une série de livres d’apprentissage de la propreté pour enfants basés sur les œuvres de William Shakespeare. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Théâtre ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Pendant que vous l'essuyez</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Pourquoi pétes-tu ? ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Antoine et Pipi-opatra</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Osmello</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Roméo et Poo-liet</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.47 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Lequel de ces titres raconterait l’histoire de quelqu’un essayant de monter sur un trône ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons qu’il existe une série de livres d’apprentissage de la propreté pour enfants basés sur les œuvres de William Shakespeare. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Théâtre ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Pendant que vous l'essuyez</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Pourquoi pétes-tu ? ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Antoine et Pipi-opatra</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Osmello</i>",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Romeo and Poo-liet</i>",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.47",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "348772_1",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "348769_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "348768_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "348771_1",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "348776_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "348766_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "348778_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

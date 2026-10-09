@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "dormir, faim, excité, bien membré, tu es chatouilleux, crédule, canadien, entre deux boulots, boire, célibataire, conduire, mormon, déjà énorme, dégoûté, gueule de bois, émotionnellement indisponible, moins de 40 ans, laid ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "supplément ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "enceinte ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "vous êtes enceinte,vous êtes enceinte,vous êtes enceinte,vous attendez,vous attendez,vous attendez,vous attendez ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Extrait de l'étiquette d'avertissement sur le supplément d'amélioration pour hommes Extenze : « Ne pas utiliser si <VIERGE>. » ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "330597_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "330600_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

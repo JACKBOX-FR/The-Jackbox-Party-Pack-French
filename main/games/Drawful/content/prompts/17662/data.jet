@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "je ne trouve pas le bébé|je ne trouve pas le bébé ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Je ne trouve pas le bébé ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

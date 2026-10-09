@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Dixie, Montagne, Salut, Scully, Shaggy, Lucy, Sexy, Lady, Whoopsy, Girly, Missy, Diane, Shelly, Slappy, Sandy, Loopy, Skimpy, Fou ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Doo ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Rubis ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La sœur de Scooby-Doo, <BLANK>-Doo, est la mère de Scrappy-Doo. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "331240_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "331243_2",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

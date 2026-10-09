@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If a Chinese version of <i>Sex and the City</i> were filmed in Hong Kong, what new name would better describe its location?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Le sexe et le capital exécutif</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La Grande Muraille de Chine ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Le sexe et la région administrative spéciale</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Le sexe et le territoire capitaliste sanctionné</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Le sexe et la province autonome du privilège</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si une version chinoise de <i>Sex and the City</i> était tournée à Hong Kong, quel nouveau nom décrirait mieux son lieu ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "<i>Le sexe et le capital exécutif</i> ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La Grande Muraille de Chine ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>Le sexe et la région administrative spéciale</i> ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "<i>Le sexe et le territoire capitaliste sanctionné</i> ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "<i>Le sexe et la province autonome du privilège</i> ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "368082_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "368079_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "368078_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "368081_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "368086_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "368076_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

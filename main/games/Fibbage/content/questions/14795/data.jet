@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "200 furets, Playstation 2, pyjama, gant de cuisine, bang, collection VHS, bois de chauffage, maîtresse, pâtes, chaussettes en laine, viande de bœuf séchée, tasses à café, lunettes de soleil, lampe à lave, parapluie, lanternes citrouilles, bonbons d'Halloween, affiche de John Belushi ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "brûlant ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "bière ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "verres de bière, verre de bière, canette de bière, canette de bière, bières ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le 24 octobre 2013, un homme de Columbus, en Géorgie, s'est précipité dans sa maison en feu pour sauver son <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "327972_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

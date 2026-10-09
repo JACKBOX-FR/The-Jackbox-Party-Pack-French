@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "ruban adhésif, cire, rideaux, herbe, draps, feuilles, oreillers, reçus, poubelles, courrier, sacs poubelles, plumes, serviettes, gants de cuisine, sacs en plastique, agrafes, foulards, chaussettes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "robes ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "papier toilette ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "t.p. ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Cheap Chic Weddings est un concours annuel dans lequel les participants confectionnent des robes de mariée à partir de <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "325209_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "325212_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would a Matryoshka Barbie doll look like?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "une Barbie avec une tête qui bouge ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ken a une super voiture mais pas d'organes génitaux ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une Barbie dans une plus grande Barbie dans une plus grande Barbie ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "une Barbie à fourrure ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une Barbie gonflable grandeur nature ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "À quoi ressemblerait une poupée Barbie Matriochka ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "une Barbie avec une tête qui bouge ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ken a une super voiture mais pas d'organes génitaux ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une Barbie dans une plus grande Barbie dans une plus grande Barbie ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "une Barbie à fourrure ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une Barbie gonflable grandeur nature ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "343414_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "343411_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "343410_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "343413_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "343418_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "343408_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "343416_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

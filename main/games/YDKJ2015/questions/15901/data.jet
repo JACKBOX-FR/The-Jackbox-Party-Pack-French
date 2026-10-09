@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If Bill Nye the Science Guy learned “nigh” everything there was to know about science, what would be true of him?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Il saurait EXACTEMENT TOUT sur la science. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Cookie Masterson le gars du vocabulaire ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Il saurait PRESQUE TOUT sur la science. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Il connaîtrait TRÈS PEU de choses sur la science. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Il ne connaîtrait RIEN en science. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si Bill Nye, le scientifique, apprenait « à peu près » tout ce qu’il y a à savoir sur la science, que serait-il vrai de lui ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Il saurait EXACTEMENT TOUT sur la science. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Cookie Masterson le gars du vocabulaire ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Il saurait PRESQUE TOUT sur la science. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Il connaîtrait TRÈS PEU de choses sur la science. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Il ne connaîtrait RIEN en science. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "351853_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "351850_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "351849_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "351852_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "351857_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "351847_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "351855_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

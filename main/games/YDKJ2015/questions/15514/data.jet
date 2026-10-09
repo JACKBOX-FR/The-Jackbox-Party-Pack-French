@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If military combat drones served the same purpose as honey bee drones, what would happen during a drone strike?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "des drones vomissent sur les combattants ennemis ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Avertissement... et sortie ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "des drones ayant des relations sexuelles avec des combattants ennemis ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "des drones piquent les combattants ennemis ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "des drones fabriquent du miel pour les combattants ennemis ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si les drones de combat militaires avaient le même objectif que les drones abeilles, que se passerait-il lors d’une frappe de drone ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "des drones vomissent sur les combattants ennemis ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Avertissement... et sortie ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "des drones ayant des relations sexuelles avec des combattants ennemis ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "des drones piquent les combattants ennemis ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "des drones fabriquent du miel pour les combattants ennemis ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "343205_1",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "343202_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "343201_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "343204_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "343199_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "343211_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "343207_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

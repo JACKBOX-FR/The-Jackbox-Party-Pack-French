@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "serpents, distributeurs automatiques, mayonnaise, pistolets, uranium, marijuana médicale, lentilles de contact, bébés, gags de balle, poules, pistolets à t-shirt, oignons, rôtis, colliers de chien, claviers, masques de clown, thon vivant, pissenlits ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Distributeur automatique ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "porno ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "magazines porno, magazines pron, pornographie, magazines pornographiques, matériel pornographique, matériel porno, vidéos porno, vidéos porno, vidéos pornographiques, vidéos pornographiques, vidéos pornographiques, vidéos pornographiques ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "À la gare Meitestu-Nagoya au Japon, il y a un étrange distributeur automatique qui vend <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "319592_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "319595_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

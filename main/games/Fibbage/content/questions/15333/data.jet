@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "journaliste, bébé, strip-teaseuse, mère enceinte, institutrice, homme sourd, maire, travailleur social, statue religieuse, colombe, pierre tombale, photo du pape, enfant, aveugle, exposition de musée, peinture de Van Gogh, lapin, ouvrier du bâtiment ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "vin ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "personne sans abri ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "clochard, gars sans-abri, femme sans-abri, sans-abri ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Peter Gloystein, un homme politique allemand, a démissionné en 2005 après avoir versé du vin sur un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338944_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

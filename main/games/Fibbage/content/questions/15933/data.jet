@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "speedo, étiquette nominative, serpent autour des épaules, cravate à clipser, cape violette, monocle, masque de Richard Nixon, fausse moustache, chemise I'm With Stupid, casquette chauve, soutien-gorge, bonnet d'hélicoptère, jock strap, main de Hulk, masque de canard, déguisement Frasier Crane, chaîne en or, béret coloré ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "psychiatres ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "chapeau de sorcier ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "chapeau de sorcier, chapeau de sorcier ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le sénateur de l'État du Nouveau-Mexique, Duncan Scott, a réussi à faire adopter un projet de loi au Sénat du Nouveau-Mexique exigeant que les psychiatres témoignant devant le tribunal portent un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "352542_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "352545_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

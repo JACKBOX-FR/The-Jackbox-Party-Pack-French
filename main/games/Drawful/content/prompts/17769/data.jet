@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "enfant sauvage|enfant sauvage|un enfant sauvage ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Enfant sauvage ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

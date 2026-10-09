@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Viva la France, Mange ma poussière, Deez Nuts, Je suis un monstre, Les suceurs plus tard, Vivre la vida loca, Mon ferry, je suis le roi du monde, Je ne peux pas toucher à ça, j'arrive maman, Mon mauvais, je suis sur un bateau, J'ai tiré sur Kennedy, Vous pouvez tous le sucer, Je suis invincible, Vitesse 2, Qui a laissé sortir les chiens, Je suis un dieu d'or ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "crier ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Je suis Jack Sparrow ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "je suis Jack Sparrow, je suis Jack Sparrow, je suis Jack Sparow, je suis Jack Sparow, je suis Jack Sparow ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une Britannique a été arrêtée pour avoir détourné un ferry britannique et crié « <VIDE> ! » ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "323800_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

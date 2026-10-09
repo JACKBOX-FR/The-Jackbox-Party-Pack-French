@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If it’s a traditional between-the-legs birth, in hockey terms, where is the doctor receiving that baby when he or she comes out?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons qu’une fière maman de hockey donne naissance à un futur gardien de but en ce moment même. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Sport ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "dans les QUATRE TROUS de la maman ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je ne peux pas masquer la douleur au hockey ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "dans le CINQ TROU de la maman ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "dans le UN TROU de la maman ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "dans les DEUX TROUS de la maman ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+7.32 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "S’il s’agit d’un accouchement traditionnel entre les jambes, en termes de hockey, où le médecin recevra-t-il ce bébé à sa sortie ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons qu’une fière maman de hockey donne naissance à un futur gardien de but en ce moment même. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Sport ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "dans les QUATRE TROUS de la maman ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je ne peux pas masquer la douleur au hockey ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "dans le CINQ TROU de la maman ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "in the mom’s ONE HOLE",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "in the mom’s TWO HOLE",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+7.32",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "355595_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "355592_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "355591_1",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "355594_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "355599_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "355589_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "355597_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

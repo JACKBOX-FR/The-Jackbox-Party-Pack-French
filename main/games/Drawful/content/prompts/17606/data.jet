@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "la moitié de la statue de la liberté ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Moitié inférieure de la statue de la liberté ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370602_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

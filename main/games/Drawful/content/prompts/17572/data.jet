@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une rue à trois voies|une rue à trois voies|une rue à trois voies ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Rue à trois voies ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370392_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cheveux, dents, bras, pieds, lames, vers, serpents, langues, seins, caca, singes, Schtroumpfs, arbres, grains de beauté, boutons, nombrils, vignes, œufs ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "gomme ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "oreilles ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Haribo vend un gummi en Allemagne qui représente un derrière humain avec <BLANK> qui en sort. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "326403_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "326406_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

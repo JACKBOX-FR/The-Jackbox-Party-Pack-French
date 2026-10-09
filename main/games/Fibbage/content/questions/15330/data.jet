@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "un trombone, des lasagnes, des ciseaux, un journal, des livres de bibliothèque, ses petits doigts, un iPhone, une pensée positive, des poils de nez, des crottes de rat, des clés, des semelles intérieures de chaussures, du dentifrice, des prothèses dentaires, un marteau, un dictionnaire, des lunettes de lecture, un coupe-ongles ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "prison italienne ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "fil dentaire ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "fil dentaire ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2000, un chef de la mafia dans une prison italienne s'est évadé de sa cellule en utilisant uniquement <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338875_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "338878_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

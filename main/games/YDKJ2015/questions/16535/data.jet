@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "When I count the “piggies” on Sir Oinkington’s pig feet, how far into “This Little Piggy” do I get?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Ce petit cochon est allé au marché.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La vache conduisait et le porc volait ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Ce petit cochon n'en avait pas.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Ce petit cochon est resté à la maison.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Ce petit cochon avait du rosbif.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quand je compte les « cochons » sur les pattes de cochon de Sir Oinkington, jusqu’où puis-je aller dans « Ce petit cochon » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Ce petit cochon est allé au marché.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La vache conduisait et le porc volait ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Ce petit cochon n'en avait pas.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Ce petit cochon est resté à la maison.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Ce petit cochon avait du rosbif.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "363654_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "363649_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "363651_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "363650_0f",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "363653_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "363648_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "363660_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "363656_0f",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

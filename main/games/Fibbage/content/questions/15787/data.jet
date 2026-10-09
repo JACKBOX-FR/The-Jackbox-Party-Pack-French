@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "adolescents, dresseurs de chiens, prêtres, sportifs, baby-sitters, plombiers, caricaturistes, chanteurs d'opéra, morts, ouvriers du carnaval, chauffeurs de camions de glaces, sans-abri, artistes du métro, chauffeurs de camion, bébés, millionnaires, cireurs de chaussures, mimes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Roumain ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "sorcières ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "diseurs de bonne aventure,leurs sorcières,sorcières,sorcière,astrologues,astrologues,diseurs de bonne aventure ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, le gouvernement roumain, confronté à des difficultés financières, a commencé à imposer un groupe de personnes qu’il n’avait jamais imposé auparavant. Ils ont commencé à taxer <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349327_0f",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "349330_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "scooter, wagon Red Flyer, cheval de carrousel, réfrigérateur, arbre de Noël, statue de Bill Clinton, planche de surf, banane géante, baignoire, cercueil, planche à roulettes, char de parade, réplique de Batmobile, requin, lit d'hôpital, toilettes, chariot à hot-dog, benne à ordures ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Minnesota ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Chaise La-Z-Boy ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "chaise garçon paresseux, garçon paresseux, la-z-boy, chaise lay-z-boy, lay-z-boy, chaise garçon la-zy, garçon la-zy, garçon la z, chaise garçon la z, garçon lay z, chaise garçon lay z ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un homme de Proctor, dans le Minnesota, a été arrêté pour avoir conduit un véhicule motorisé <VIERGE> alors qu'il était ivre. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "355475_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

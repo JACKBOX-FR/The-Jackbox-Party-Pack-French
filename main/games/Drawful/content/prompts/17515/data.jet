@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Et si l'alphabet était totalement différent ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370153_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

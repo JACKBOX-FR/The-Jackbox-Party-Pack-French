@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "petite bite|une petite horloge ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Petite horloge ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368655_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

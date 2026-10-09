@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "sexe, pleurs, asperges, baignade maigre, sandales, bateau à moteur, shorts, danse carrée, crème solaire, voix féminine, tacos, absinthe, basket-ball, manscaping, pantalons en cuir, planche à roulettes, rasage, karaoké ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Plutôt ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "héroïne ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "héroïne ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pour une histoire sur laquelle il faisait un reportage en 1955, Dan Rather a essayé <BLANK> pour la première fois. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338067_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "338070_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

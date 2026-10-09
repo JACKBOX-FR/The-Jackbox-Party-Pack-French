@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "souffleur de verre|un souffleur de verre|un souffleur de verre ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Souffleur de verre ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

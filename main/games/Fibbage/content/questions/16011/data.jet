@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Dick Cheney, Marilyn Monroe, Capitaine Hook, Abraham Lincoln, Walter Matthau, Satan, Batman, Ross Perot, un majeur, ALF, Pikachu, M. Potter, un porc-épic borgne, les seins de Dolly Parton, Le Bossu de Notre Dame, Freddy Kreuger, un clown, un cul ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "gargouille ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Dark Vador ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sur la tour nord-ouest de la cathédrale nationale de Washington, est suspendue une gargouille ressemblant à <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354223_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

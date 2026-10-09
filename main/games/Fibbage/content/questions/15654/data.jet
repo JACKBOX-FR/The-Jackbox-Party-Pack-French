@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "groupe de polka, valise, sorcier, python, visage heureux, OVNI, furet, sirène, fesses, ange, dragon, clochard, crabe, sandwich, bébé, billet d'un dollar, pistolet, seringue ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Toblerone ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "ours ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le logo de la montagne sur un emballage de chocolat Toblerone contient une image cachée d'un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "346335_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

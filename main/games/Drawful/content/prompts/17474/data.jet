@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un ticket de vestiaire|un ticket de vestiaire|un ticket de vestiaire ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Billet de vestiaire ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If a baseball pitcher threw as many consecutive strikes as there are consecutive strikes bowled in a perfect game of bowling, how many total batters would he strike out?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "six frappeurs ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Vous avez vu une balle, vous les avez vues toutes les deux ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "quatre frappeurs ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "trois frappeurs ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "cinq frappeurs ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si un lanceur de baseball lançait autant de strikes consécutifs qu'il y a de strikes consécutifs lancés dans une partie de bowling parfaite, combien de frappeurs au total retirerait-il ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "six frappeurs ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Vous avez vu une balle, vous les avez vues toutes les deux ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "quatre frappeurs ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "trois frappeurs ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "cinq frappeurs ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366741_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366738_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366737_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366740_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366735_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "366743_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "In color terms, what would increase his “value” the MOST?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons que Hugh Jackman voulait augmenter sa valeur en tant qu'acteur en modifiant sa « teinte ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "INTENSIFIER la teinte de ses yeux ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tu ne connais pas Jack... Mec ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "ÉCLAIRCISSANT la teinte de sa peau ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "assombrissant la teinte de ses cheveux ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "ajouter de NOUVELLES TEINTES à la teinte de sa garde-robe ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.41 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "En termes de couleur, qu’est-ce qui augmenterait LE PLUS sa « valeur » ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons que Hugh Jackman voulait augmenter sa valeur en tant qu'acteur en modifiant sa « teinte ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "INTENSIFIER la teinte de ses yeux ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tu ne connais pas Jack... Mec ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "ÉCLAIRCISSANT la teinte de sa peau ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "DARKENING the hue of his hair",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "adding NEW SHADES to the hue of his wardrobe",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.41",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "360283_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "360280_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "360279_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "360294_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "360293_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "360282_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "360287_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "360277_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "360295_0f",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

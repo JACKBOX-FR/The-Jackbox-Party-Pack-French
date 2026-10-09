@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "un cadavre,4 ans,une mamie,Vladimir Poutine,Jerry Seinfeld,un âne,un robot,un arbre animatronique,H. Atebeak,Bruce Willis,une momie,un mime,Vous,8 voix en une,un poisson jouet,un téléphone portable,un microphone,Andre Agassi ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "métal lourd ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "un perroquet ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le chanteur principal du groupe de heavy metal Hatebeak est <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338852_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

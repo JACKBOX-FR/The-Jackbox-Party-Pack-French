@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which contestant would you NOT see on the talent show <i>America’s Got TALONS</i>?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un FALCON qui jongle ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Birds of a Feather fait du hip-hop ensemble ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une GRUE qui siffle ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "une chouette dansante ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un CONDOR chantant ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel candidat ne verriez-vous PAS dans l'émission de talents <i>America's Got TALONS</i> ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un FALCON qui jongle ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Birds of a Feather fait du hip-hop ensemble ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une GRUE qui siffle ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "une chouette dansante ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un CONDOR chantant ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366983_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366980_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366979_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366982_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366977_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "366985_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

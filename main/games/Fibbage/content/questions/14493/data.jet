@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Joshers, Grobaniacs, Groban Heads, Grobers, Just Joshin', Grobashers, Grofans, Cheveux bouclés, Les élus, Cutie Pies, Triple Menaces, Les héros de Groban, Grobstoppers, Momma's Boys, Josh Addicts, Joshians, Changeurs de couleur, Groboholics ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Jos ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Grobanites ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "les grobanites ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les fans du musicien Josh Groban s'appellent <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "321867_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

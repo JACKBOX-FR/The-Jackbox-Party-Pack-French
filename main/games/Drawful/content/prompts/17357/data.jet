@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un chauffeur de camion avec un chapeau haut de forme ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Chauffeur de camion avec un chapeau haut de forme ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

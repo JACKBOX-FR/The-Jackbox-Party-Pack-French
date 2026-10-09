@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "tondeuse à gazon, torche, épée, couperet, couteau d'office, camion, marteau, hameçon, aiguille, chiot, perceuse, masse, scie, mélangeur, pelle, aiguillon pour bétail, râteau, thermomètre à viande ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "callosités ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "fusil de chasse ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pistolet, fusil de chasse ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une femme de Muncie, dans l'Indiana, a été hospitalisée après avoir tenté de retirer une callosité sur son pied avec un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "320713_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "320716_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

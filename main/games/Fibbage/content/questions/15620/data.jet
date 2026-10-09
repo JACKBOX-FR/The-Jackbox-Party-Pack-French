@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "brownies, crème solaire, nourriture pour chiens, bandes dessinées, bijoux, puzzles, DVD, fleurs, lunettes de soleil, billets de loterie, bonbons, musique, désinfectant pour les mains, eau, sacs pour chiens, harmonicas en plastique, bière, désodorisants ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "caca de chien ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Wi-Fi ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "wifi, service wifi, service wi-fi, connexions wifi, connexions wi-fi, connexion wifi, connexion wi-fi ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Il existe des poubelles high-tech dans les parcs de Mexico qui, lorsque vous les remplissez de crottes de chien, vous récompensent avec <BLANK> gratuit. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "345576_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "345579_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

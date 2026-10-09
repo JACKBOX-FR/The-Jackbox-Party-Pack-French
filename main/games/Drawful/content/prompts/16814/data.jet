@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "moustache cool|moustache cool|une moustache cool|une moustache cool ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Moustache cool ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

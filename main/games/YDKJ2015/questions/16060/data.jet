@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What do Seth Rogen and the game Trivial Pursuit have in common?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "ils ont tous deux été créés par accident ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Zack et Miri créent un jeu de société ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "ils ont tous deux été créés au Canada ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "ils ont tous deux été créés par une femme juive ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "ils ont tous deux été créés dans les années 70 ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qu'ont en commun Seth Rogen et le jeu Trivial Pursuit ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "ils ont tous deux été créés par accident ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Zack et Miri créent un jeu de société ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "ils ont tous deux été créés au Canada ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "ils ont tous deux été créés par une femme juive ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "ils ont tous deux été créés dans les années 70 ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "355233_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "355230_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "355229_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "355232_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "355227_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "355239_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

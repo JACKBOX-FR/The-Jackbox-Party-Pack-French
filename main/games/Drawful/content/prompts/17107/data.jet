@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "pistolet à t-shirt|un pistolet à t-shirt|un pistolet à t-shirt ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pistolet à t-shirt ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

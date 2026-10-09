@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What band should immediately follow the Queens of the Stone Age?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que vous assistiez à un festival de musique sur la chronologie géologique. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Les Princesses de l'ÂGE DU FER ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ye Heavy Metal Musique d'Olde ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Les Princes de l'ÂGE DU BRONZE ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Les rois de l'ÂGE DU FEU ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Les ducs de l'ÂGE DU QUARTZ ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.47 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quel groupe devrait suivre immédiatement les Queens of the Stone Age ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que vous assistiez à un festival de musique sur la chronologie géologique. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Les Princesses de l'ÂGE DU FER ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ye Heavy Metal Musique d'Olde ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Les Princes de l'ÂGE DU BRONZE ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "The Kings of the FIRE AGE",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "The Dukes of the QUARTZ AGE",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.47",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "367159_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "367156_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "367155_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "367158_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "367153_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "367165_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "367161_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

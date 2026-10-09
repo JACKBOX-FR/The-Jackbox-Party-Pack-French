@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "pièges à souris, cubes de sucre, dés à coudre, bûches Lincoln, punaises, billes, bâtonnets de bœuf, épis de maïs, poils, boutons, cornichons, pièces de damier, pois, serviettes, bouchons de bouteilles, attaches torsadées, fléchettes, carillons éoliens ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "San Francisco ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "cure-dents ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "cure-dents ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 35 ans, l'artiste Scott Weaver a construit une réplique de la ville de San Francisco en utilisant plus de 100 000 <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "327459_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "327462_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

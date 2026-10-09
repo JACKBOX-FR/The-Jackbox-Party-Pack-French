@@ -1,0 +1,196 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these is NOT a candy bear?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un ours solaire Sour Patch ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Des temps sauvages dans ma bouche ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un panda rouge réglisse rouge ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un grizzli gommeux ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un ours polaire Peeps ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Lequel de ceux-ci n’est PAS un ours en bonbons ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un ours solaire Sour Patch ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Des temps sauvages dans ma bouche ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un panda rouge réglisse rouge ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un grizzli gommeux ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un ours polaire Peeps ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "367105_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "367102_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "367101_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "367113_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "367112_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "367104_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "367109_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "367099_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "367107_0",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "367116_0",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

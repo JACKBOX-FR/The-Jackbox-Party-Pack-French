@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Big Wood, Bonelick, Bécasse, Tata, Pussywillow, Sein, Nunt, Mésange, Castor, Big Wind, Chub, Suckey, Dangle, Humide, Vierge, Grundle, Glory Hole, Bulger ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "sale ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Gloire du matin ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le conseil municipal de Lehi, dans l'Utah, a approuvé une demande visant à changer le nom de <BLANK> Road, car cela semblait plutôt sale. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "323708_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "323711_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

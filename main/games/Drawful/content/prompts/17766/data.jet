@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "jouer à 7 minutes au paradis|sept minutes au paradis|7 minutes au paradis ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Jouer sept minutes au paradis ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

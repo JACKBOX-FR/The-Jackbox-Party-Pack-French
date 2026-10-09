@@ -1,0 +1,215 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "According to a popular Grimm fairy tale, which of these stores has the best chance to be magically stocked overnight by hard-working elves?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons qu'à Noël, chaque article de votre centre commercial local est épuisé. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Contes de fées ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Victoria's Secret ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Achetez jusqu'à ce que tout le monde abandonne ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Casier à pied ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Cabane radio ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Fabricants de lentilles ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.07 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "D'après un conte de fées populaire de Grimm, lequel de ces magasins a les meilleures chances d'être approvisionné comme par magie du jour au lendemain par des elfes qui travaillent dur ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons qu'à Noël, chaque article de votre centre commercial local est épuisé. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Contes de fées ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Victoria's Secret ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Achetez jusqu'à ce que tout le monde abandonne ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Casier à pied ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Radio Shack",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Lens Crafters",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.07",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "358198_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "358195_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "358194_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "358206_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "358205_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "358197_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "358202_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "358192_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "358210_0f",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

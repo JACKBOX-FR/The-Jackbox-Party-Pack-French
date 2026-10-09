@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une soirée pyjama|une soirée pyjama|une soirée pyjama ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Soirée pyjama ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

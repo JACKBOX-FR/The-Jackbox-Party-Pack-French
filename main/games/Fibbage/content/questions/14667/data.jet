@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Façon, Ville, Gens, Espoir, Salle de bain, Excuse, Amusement, Duh, Point, Règles, Argent, Grammer, Poste vacant, Touristes, Mais, Bar, Monsieur, Démocratie ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "village ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Lieu",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Situé près de la ville de Stanley, il existe un petit village en Angleterre appelé No <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "325434_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "325437_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

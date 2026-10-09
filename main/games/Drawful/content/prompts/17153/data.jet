@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un cafard vivant dans une oreille ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Cafard vivant dans une oreille ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

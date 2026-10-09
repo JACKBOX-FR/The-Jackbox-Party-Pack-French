@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "enfant aux cheveux roux|enfant aux cheveux roux|un enfant aux cheveux roux ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Enfant aux cheveux roux ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

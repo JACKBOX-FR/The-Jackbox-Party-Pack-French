@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "règles, papier, ordinateurs, anglais, podiums, globes, calculatrices, gestes de la main, palettes, bureaux, chaises, clés de réponse, vidéos, lunettes, tableaux noirs, gommes, notes, les toilettes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Académie ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "stylos rouges ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "encre rouge, stylos à encre rouge, un stylo rouge, un stylo à encre rouge, tous les stylos rouges ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Objet que les enseignants de la Mounts Bay Academy en Angleterre n'ont pas eu le droit d'utiliser en 2014. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354946_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "354949_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

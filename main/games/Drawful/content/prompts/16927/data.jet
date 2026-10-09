@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Squelette de Burger King|Squelette de Burger Kings|le squelette de Burger King ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le squelette de Burger King ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

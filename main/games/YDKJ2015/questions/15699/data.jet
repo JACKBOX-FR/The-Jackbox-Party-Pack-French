@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Judging by his name, about how many Buzz Lightyears should fit inside of him?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que le prochain film <i>Toy Story</i> présente un nouveau personnage nommé Buzz \"Parsec\". ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Astronomie ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,3,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "environ 30 Buzz Lightyears ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "C’est une Loooooooooooong Toy Story ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "à propos de 3 Buzz l'Éclair ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "environ 3 millions de Buzz Lightyears ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "environ 300 Buzz Lightyears ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.98 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "À en juger par son nom, combien de Buzz Lightyears devrait-il contenir en lui ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que le prochain film <i>Toy Story</i> présente un nouveau personnage nommé Buzz \"Parsec\". ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Astronomie ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,3,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "environ 30 Buzz Lightyears ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "C’est une Loooooooooooong Toy Story ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "à propos de 3 Buzz l'Éclair ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "about 3 million Buzz Lightyears",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "about 300 Buzz Lightyears",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.98",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "347297_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "347294_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "347293_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "347296_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "347291_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "347303_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

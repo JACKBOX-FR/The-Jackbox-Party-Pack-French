@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "bonbons coincés dans le distributeur automatique ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Des bonbons coincés dans un distributeur automatique ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370872_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

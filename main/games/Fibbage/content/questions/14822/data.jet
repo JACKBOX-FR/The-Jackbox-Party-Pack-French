@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Bâtons, bonhommes de neige, perroquets, ordinateurs, paresseux, tables, kiwis, cactus, baignoires, pubes, scorbut, tasses, haltères, chemises Oxford, hommes blancs, Georgia O'Keeffes, serviettes en papier, crânes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Combats ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Artichauts",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les équipes sportives du Scottsdale Community College portent étrangement le nom de Fighting <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "328424_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

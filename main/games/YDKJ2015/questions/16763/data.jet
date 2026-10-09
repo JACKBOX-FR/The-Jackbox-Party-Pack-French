@@ -1,0 +1,197 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Where would dream Kate Upton be off to if our imaginary soccer-playing kids switched to playing RUGBY?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,3,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "déposer les enfants au GREEN ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Embrasse-moi, Kate Upton ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "déposer les enfants au PITCH ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "déposer les enfants à la PISCINE ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "déposer les enfants au DIAMOND ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Où irait Kate Upton si nos enfants imaginaires, joueurs de football, se mettaient au RUGBY ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,3,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "déposer les enfants au GREEN ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Embrasse-moi, Kate Upton ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "déposer les enfants au PITCH ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "déposer les enfants à la PISCINE ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "déposer les enfants au DIAMOND ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "368326_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "368321_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "368323_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "368322_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "368334_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "368333_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "368325_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "368330_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "368320_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "368328_0",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "368337_0",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

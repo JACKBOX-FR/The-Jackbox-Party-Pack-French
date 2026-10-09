@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these would be the closest thing to eating “pi” pieces of pie?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,3,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "manger 3,144 morceaux de tarte aux cerises ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "J'ai une circonférence malsaine ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "manger 3,142 morceaux de tarte aux pommes ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "manger 3,148 morceaux de tarte aux myrtilles ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "manger 3,146 morceaux de tarte à la crème de noix de coco ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Laquelle de ces choses serait la chose la plus proche de manger des morceaux de tarte « pi » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,3,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "manger 3,144 morceaux de tarte aux cerises ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "J'ai une circonférence malsaine ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "manger 3,142 morceaux de tarte aux pommes ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "manger 3,148 morceaux de tarte aux myrtilles ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "manger 3,146 morceaux de tarte à la crème de noix de coco ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "367405_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "367402_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "367401_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "367404_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "367409_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "367399_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

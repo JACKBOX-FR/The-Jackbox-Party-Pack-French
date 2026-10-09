@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "herpès, diabète, caries, oiseaux, abeilles, capacités améliorées, explosions, obésité, cancer, cheveux longs, blonds, champignons sauvages, mousse, caméras, champignons, sperme, gremlins, mousse, verrues ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "collège ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "asticots ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un collège du Rhode Island a découvert que certains élèves écrasaient des bonbons Smarties puis reniflaient la poussière. Ils ont donc envoyé un e-mail aux parents, les avertissant qu’un effet secondaire de cette activité pourrait être <VIERGE> dans le nez de leurs enfants. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "351825_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Serpents, Canadiens, vieux, insectes, germes, DJ, cerfs, zombies, racistes, PDG, poissons, personnes âgées, vampires sexy, baristas, féministes, cochons, russes, espions ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Tuer ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Hippies",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "hippies, hippie, hippie ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2007, Golden Laurel Entertainment a publié un jeu de société violent appelé Kill the <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "330128_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

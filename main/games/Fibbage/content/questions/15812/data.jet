@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "grain de riz, flocon de neige, trombone, pain à hot-dog, œuf, Skittle, feuille de séchage, Advil, perle anale, mouche morte, brin d'herbe, guimauve, marbre, pétale de rose, bâton de gomme, mèche de cheveux, tampon, pomme de pin ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "célibataire ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "flocon de maïs",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "cornflake, céréales de maïs, feuilletée de maïs, pop de maïs ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bill Bennett a fait l'actualité en 2004 lorsqu'il a réussi à vendre un seul <BLANK> ordinaire sur eBay. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349866_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "a giant tree|a prison fence|a staircase|a pile of bones|society|a giant guy|the pop charts|into bed|Jacob’s Ladder",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "The Chrysler Building|Eiffel Tower|tuffet|the Matterhorn|Mt. Dew|beer stands",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "The Sears Tower|Big Ben|waterfall|Snow White’s hair|Daisy|urinals",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "a beanstalk|The Empire State Building|Burj Khalifa|water spout|Rapunzel’s tower|Mt. Everest|outfield wall",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Climb Time",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Jack the Giant Slayer|King Kong|Tom Cruise in <i>MI4</i>|Itsy Bitsy Spider|<i>Tangled</i>’s Flynn|Sir Edmund Hillary|Wrigley Field ivy",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "a giant tree|a prison fence|a staircase|a pile of bones|society|a giant guy|the pop charts|into bed|Jacob’s Ladder",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "The Chrysler Building|Eiffel Tower|tuffet|the Matterhorn|Mt. Dew|beer stands",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "La tour Sears|Big Ben|cascade|Les cheveux de Blanche-Neige|Marguerite|urinoirs ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "un haricot magique|L'Empire State Building|Burj Khalifa|bec d'eau|La tour de Raiponce|Le mont. Everest|mur de champ extérieur ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Temps de montée ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Jack le chasseur de géants|King Kong|Tom Cruise dans <i>MI4</i>|Itsy Bitsy Spider|<i>Tangled</i>'s Flynn|Sir Edmund Hillary|Wrigley Field ivy ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "353912_1f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "353867_1 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "353868_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

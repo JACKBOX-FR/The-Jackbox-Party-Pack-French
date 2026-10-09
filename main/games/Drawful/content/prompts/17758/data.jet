@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Moitié infirmière, moitié cheval ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Mi-cheval mi-infirmière ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

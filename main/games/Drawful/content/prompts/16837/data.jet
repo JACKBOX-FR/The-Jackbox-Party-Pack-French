@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "mamelon poilu, mamelons Harry ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Mamelons poilus ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

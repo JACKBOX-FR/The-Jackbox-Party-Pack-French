@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What is the British Airways equivalent of joining the “mile high club”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "rejoindre le club des 1000 km d'altitude dans le Netty ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Turbulences chaudes et lourdes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "rejoindre le club des 1,6 km de haut dans les toilettes ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "rejoindre le club des 0,4 km de haut dans les toilettes ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "rejoindre le club des 3,8 km de haut en Championnat du Monde ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel est l'équivalent chez British Airways de rejoindre le « mile high club » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "rejoindre le club des 1000 km d'altitude dans le Netty ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Turbulences chaudes et lourdes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "rejoindre le club des 1,6 km de haut dans les toilettes ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "rejoindre le club des 0,4 km de haut dans les toilettes ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "rejoindre le club des 3,8 km de haut en Championnat du Monde ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366187_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366184_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366183_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366186_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "366191_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366181_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

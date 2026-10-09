@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "faire des impressions, hoqueter, se déshabiller, manger des bougies, applaudir, dire « nichons », se couper les cheveux, s'embrasser, chanter, rire, peindre, dormir, gifler les vaches, péter, aboyer, jouer au golf, jongler, pleurer ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "France ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "danser ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1518, des centaines de personnes à Strasbourg furent atteintes d'une maladie bizarre qui les rendait incapables de s'arrêter <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "350459_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

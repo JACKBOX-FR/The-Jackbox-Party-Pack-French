@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Des toilettes publiques|des toilettes publiques|des toilettes publiques ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Toilettes publiques ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

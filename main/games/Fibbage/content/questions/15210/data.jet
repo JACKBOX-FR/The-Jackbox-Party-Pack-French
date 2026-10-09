@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "coffre-fort, Jimmy Hoffa, boule de démolition, homard, bateau, train, horloge grand-père, table de salle à manger, baleine, bain d'oiseaux, lustre, œuf de Fabergé, panier de basket, camion U-Haul, bulldozer, boîte aux lettres, bain à remous, remise à outils ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "tas ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "piano ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Lorsque Paul Nelson et Andrew Hunter ont gravi la plus haute montagne de Grande-Bretagne en 2006, ils ont fait une découverte inhabituelle cachée derrière un tas de pierres. C'était un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "336090_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "336093_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

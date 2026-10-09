@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Telluride, Fitzgerald, Envy, Dennis, Princesse, Levithian, Dignitaire, Titani, Gothique, Destin, Exécutif, Prospecteur, Transcendant, Susan B. Anthony, Bébé, Mère, Four, Beagle ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "vaisseau spatial ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Yorktown",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "Aucun ",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Le Yorktown, Yorkton, Le Yorkton ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le nom du vaisseau <i>Star Trek</i> dans le scénario original du créateur Gene Roddenberry. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334960_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334963_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

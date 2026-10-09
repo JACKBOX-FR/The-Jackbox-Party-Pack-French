@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "utérus, animal mort, bébé qui pleure, professeur d'école, assiette de lasagnes, pompier, grand-père, lapin, foie de vache, ventre, requin pourri, nuage, visage d'un être cher, clown heureux, chauffeur de bus, ange gardien, famille de poissons de dessin animé, beignet parlant ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "solitude ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "les genoux d'une femme",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "tour de femme, tour de femme, tour de dame, tour de dame, tour de femme ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2004, Trane Corporation a vendu au Japon des oreillers conçus pour lutter contre la solitude. Ils avaient la forme d’un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "348109_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "348112_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

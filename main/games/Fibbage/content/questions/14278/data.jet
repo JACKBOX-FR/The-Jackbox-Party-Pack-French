@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Jus, médecine, malédiction, ami, arme, lait, fête, sirop, mule, thé, élixir, carburant, jubilé, potion, danse, esclave, amoureux, évasion ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "gin ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Ruine ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Au XVIe siècle, le gin était appelé le <BLANK> de la Mère. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317460_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "appel téléphonique d'un meurtrier|appel téléphonique d'un meurtrier ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Appel d'un meurtrier ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

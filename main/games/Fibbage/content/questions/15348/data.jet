@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "nerds, membres du Congrès, journalistes, clowns, mamans de banlieue, groupes de mariachis, athlètes professionnels, serveurs chanteurs, musiciens, artistes de rue, astronautes, candidats à des émissions de téléréalité, magiciens, mannequins, enseignants, sondeurs, Floridiens, dentistes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "ennuyeux ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "hipsters ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "hipsters, hipsters, tous les hipsters ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dans un sondage réalisé en 2013 par Public Policy Polling, 27 % des électeurs pensaient que <BLANK> devrait être soumis à une taxe spéciale pour être si ennuyeux. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339289_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

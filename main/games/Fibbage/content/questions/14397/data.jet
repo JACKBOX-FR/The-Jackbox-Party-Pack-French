@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "singe, canon, pistolet, fanfare, équipe de tournage, magicien, réservoir d'oxygène, lit, mannequin, cercueil, robot, prêtre, épée, raton laveur, girafe, lit de bronzage, faucon, dériveur ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Mercure ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "lama ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "lama ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Freddie Mercury s'est retiré d'un duo avec Michael Jackson parce que Jackson avait apporté un <BLANK> au studio d'enregistrement. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "320029_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "320032_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

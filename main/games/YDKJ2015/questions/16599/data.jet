@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "turns into baby|plays dead|sends you back in time|opens space portal|glass half-empty|explodes|plays music|creates tidal wave|becomes hyper-intelligent",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "pees on your carpet|turns into Mega-Gremlin|burns you to death|fall off|gets naked |transforms into sheep",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "releases toxic fumes|sings “Camptown Races”|banishes Smokey the Bear|break out in hives|loses her voice|changes color",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "melts|grows Chia plant|multiplies|gets extinguished|get wrinkly|turns back into mermaid|shrinks",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Just Add Water",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Wicked Witch of the West|Chia Pet|Gremlin|bonfire|fingers and toes|Daryl Hannah in <i>Splash</i>|wool sweater",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "turns into baby|plays dead|sends you back in time|opens space portal|glass half-empty|explodes|plays music|creates tidal wave|becomes hyper-intelligent",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "pees on your carpet|turns into Mega-Gremlin|burns you to death|fall off|gets naked |transforms into sheep",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "libère des vapeurs toxiques | chante « Camptown Races » | bannit Smokey l'ours | éclate en urticaire | perd sa voix | change de couleur ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "fond | fait pousser une plante de chia | se multiplie | s'éteint | se ride | se transforme en sirène | rétrécit ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Ajoutez simplement de l'eau ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Méchante sorcière de l'Ouest|Chia Pet|Gremlin|bonfire|doigts et orteils|Daryl Hannah dans <i>Splash</i>|pull en laine ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "365011_0f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "364966_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "364967_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

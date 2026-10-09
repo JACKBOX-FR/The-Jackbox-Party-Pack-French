@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "serpents, bandits, ratons laveurs, nerds, prisonniers, orphelins, ours, ninjas, cerfs-volants, robots, gangs de motos, papillons, nazis, carcajous, anguilles, lapins, modèles, tortues ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Japon ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "chats ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "une bande de chats, chats sauvages, chats sans abri, chats de gouttière, chats des rues ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Tashirojima est une île au large du Japon complètement envahie par <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317910_3",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

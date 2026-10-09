@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Reconnaissances de dette, bisous, high fives, nuggets de poulet, sel, fusils, timbres, vieux tickets de parking, montres, fish and chips, papier toilette, lampes anciennes, autocollants, araignées vivantes, poissons, cheveux, caca, coupons pour massages ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "stationnement ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "châtaignes ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "noix de poitrine ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "À l'automne 2013, une entreprise propriétaire de parkings en Angleterre a temporairement autorisé les conducteurs à payer leur stationnement non pas avec de l'argent, mais avec <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "319183_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Prêtre et la nonne, amant de Pie, poitrine haletante, péché, union sacrée, queue, pervers marié, sainteté du mariage, à trois, lit conjugal, méchanceté, déni de l'amour, nuit, bougies chaudes, mariage à deux, garçon et fille, montants de lit, nonne coquine ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Le pape Pie II ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Deux amants ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "2 amants ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Avant de devenir pape, le pape Pie II a écrit un roman érotique intitulé <i>Le Conte du <BLANK>.</i> ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339657_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

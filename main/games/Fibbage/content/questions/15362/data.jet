@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "pierre chaude, pet, oiseau, glaçon, gaffe, bougie allumée, tarentule, aliment pour bétail, scorpion, filet de porc, castor, couteau, pétard, serpent, bâton de dynamite, marbre, poisson, souris ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "pantalon ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "furet ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Reg Mellor est le champion en titre d'un sport qui consiste simplement à garder un <BLANK> dans votre pantalon. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339611_0f",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "339614_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

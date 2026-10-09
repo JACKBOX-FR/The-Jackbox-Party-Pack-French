@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "radiateur, ordinateur portable, dinde à l'intérieur, lance-flammes, couverture électrique, locomotive à vapeur, chauffe-mains, torche Tiki, radiateur, bougie, pistolet à canard, four facile à cuire, plaque chauffante, four grille-pain, canon, ampoule, moteur de voiture, allume-cigare ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "canard ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "sèche-cheveux",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "sèche-cheveux, sèche-cheveux, sèche-cheveux, sèche-cheveux, sèche-cheveux, sèche-cheveux, sèche-cheveux ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Marcella Hazan est la gourou culinaire qui a été la pionnière de la technique inhabituelle de cuisson du canard avec un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "337722_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "337725_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

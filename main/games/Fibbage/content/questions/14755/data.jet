@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Chou, épinards, brocoli, citron vert, menthe, absinthe, bain de bouche, herbe, pomme Grannysmith, laitue, envie, asperges, venin, avocat, pistache, martien, Noël, Godzilla. ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Pepsi ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Concombre ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Au cours de l'été 2007, Pepsi a vendu au Japon un cola teinté vert appelé Pepsi Ice <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "327239_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

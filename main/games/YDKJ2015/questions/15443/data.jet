@@ -1,0 +1,202 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "the actor from <i>The Hughleys</i>, the author of <i>Lady Chatterley’s Lover</i>, the mystery man who hijacked a 727 in 1971 and then escaped by parachute",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Mettez ces personnes dans l'ordre suivant : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "DL, DB, DH ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "O U SOB ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "DL, DH, DB ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "DB, DL, DH ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "DH, DB, DL ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+2.37 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "l'acteur de <i>The Hughleys</i>, l'auteur de <i>Lady Chatterley's Lover</i>, l'homme mystérieux qui a détourné un 727 en 1971 puis s'est échappé en parachute ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Mettez ces personnes dans l'ordre suivant : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "DL, DB, DH ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "O U SOB ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "DL, DH, DB ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "DB, DL, DH",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "DH, DB, DL",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+2.37",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "341597_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "341592_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "341594_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "341593_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "341596_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "341591_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "341606_0",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "341599_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

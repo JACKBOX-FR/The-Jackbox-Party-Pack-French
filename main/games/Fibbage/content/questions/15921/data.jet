@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "match d'échecs humains, concours de beauté, match de Quidditch, câlin, rouleau de sushi, backrub, jeu de risque, sieste, procès de sorcière, mille-pattes humain, chaises musicales, course en sac, festival Magic: the Gathering, chant sur feu de camp, flash mob nu, danse carrée, match de football tactile, cuisine au chili ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "6 084 ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "jeu de balle au prisonnier",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "jeu de ballon chasseur, match de ballon chasseur, jeu de balle chasseur, match de balle chasseur ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'UC Irvine a réuni 6 084 étudiants en 2012 pour battre le record mondial du plus grand <BLANK> jamais réalisé. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "352300_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

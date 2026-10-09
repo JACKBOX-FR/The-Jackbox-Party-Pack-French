@@ -1,0 +1,195 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which food slogan would NOT be an example of false advertising?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Boudin : à retrouver au rayon desserts ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Vous êtes ce que vous pensez manger ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Le lait de chamelle – bon sang, directement de la tétine du chameau ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Du ris de veau comme le fait votre boulanger ! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "«Le fromage de tête est le plus ringard!» ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel slogan alimentaire ne serait PAS un exemple de publicité mensongère ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Boudin : à retrouver au rayon desserts ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Vous êtes ce que vous pensez manger ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Le lait de chamelle – bon sang, directement de la tétine du chameau ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Du ris de veau comme le fait votre boulanger ! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "«Le fromage de tête est le plus ringard!» ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "367875_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "367872_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "367871_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "367883_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "367882_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "367874_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "367879_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "367869_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "367886_0",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

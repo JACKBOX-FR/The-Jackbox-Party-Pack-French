@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "feu,mouchoirs,caniche,eau,rendez-vous,chaise,quille,piano,épée,poisson,rat,voiture,chat,nu,bébé,sommeil,chaussure,lampe ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "enregistrer ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "tronçonneuse",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "scie à chaîne ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Avec 88 attrapés, le Canadien Aaron Gregg détient le record du monde Guinness pour la jonglerie <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "329494_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "329497_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

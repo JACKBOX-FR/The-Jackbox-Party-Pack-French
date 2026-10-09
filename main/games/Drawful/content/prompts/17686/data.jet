@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "saluer la place de parking | une excellente place de parking ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Super place de parking ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

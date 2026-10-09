@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Amis, Papier toilette, Plastique, Crottes de nez, Chats, Tapis, Préservatifs, Oxygène, Personnes, Coupures d'ongles, Nourriture, Eau du bain, Moutarde, Souvenirs, Balles, Brosses à dents, Voitures, Herbe ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Prix ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Tombes ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le prix Diagram 1995 du titre de livre le plus étrange de l'année a été décerné au livre <i>Reusing Old <BLANK></i>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "326495_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

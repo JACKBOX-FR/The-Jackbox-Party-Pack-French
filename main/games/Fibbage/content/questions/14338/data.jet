@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "se masturber, envoyer des sextos, s'éparpiller, éructer, péter, claquer, jubiler, renifler, tricoter, yodeler, sauter, envoyer des SMS, tailler, cuisiner, gargouillis, mâcher de la gomme, haleter, hoquet ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Illinois ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "bâiller ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "bâille, un bâillement ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un spectateur présent dans une salle d'audience de l'Illinois a été condamné à six mois de prison pour <BLANK> lors d'un procès. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318728_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "318731_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "emballage, mariage, virginité, blocage, naissances, fertilisation, pardon, saint, mystères résolus, social, rentrer, se lier d'amitié, fortunés, enroulement, adorables, derware, masquage, macho ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Joie ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "circoncision ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "circonscrire,circoncire ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Jim Begelow, Ph.D., a écrit un livre intitulé <i>The Joy of Un<BLANK> !</i>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "325696_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "325699_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

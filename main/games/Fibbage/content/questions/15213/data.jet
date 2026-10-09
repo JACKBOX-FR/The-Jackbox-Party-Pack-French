@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "criminel, délinquant sexuel, mineur, terroriste, raciste, sorcière, prêtre, millionnaire, républicain, créature des bois, tricheur, célébrité, espion, mauvais baiser, mauvais amant, personnage d'un soir, policier, cuisinier ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "prévient ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "relatif ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'application des Islandais est une application téléphonique qui vous avertit si la personne qui vous intéresse est un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "336150_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "336153_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

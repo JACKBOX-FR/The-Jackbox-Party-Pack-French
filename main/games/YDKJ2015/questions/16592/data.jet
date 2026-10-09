@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these is NOT a Ted talk?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "la star de <i>Cheers</i> qui parle d'énergie renouvelable ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Parlez doucement et générez une grande audience sur Internet ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "la star de <i>Fight Club</i> qui parle de photosynthèse ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "le chanteur de « Cat Scratch Fever » parle de matière noire ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "le fondateur de TBS parle de nanotechnologie ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Lequel de ces éléments n’est PAS une conférence de Ted ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "la star de <i>Cheers</i> qui parle d'énergie renouvelable ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Parlez doucement et générez une grande audience sur Internet ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "la star de <i>Fight Club</i> qui parle de photosynthèse ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "le chanteur de « Cat Scratch Fever » parle de matière noire ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "le fondateur de TBS parle de nanotechnologie ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "364836_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364833_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364832_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364835_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "364840_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364830_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "364842_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "364838_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

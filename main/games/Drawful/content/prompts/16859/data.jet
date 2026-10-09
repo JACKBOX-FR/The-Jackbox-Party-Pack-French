@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une crotte de nez avec des jambes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Crotte de nez avec pattes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368683_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

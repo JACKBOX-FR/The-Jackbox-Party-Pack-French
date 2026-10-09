@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Considering the states it’s touching, what justification would you probably NOT hear?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que le Texas devienne enfin son propre pays indépendant et construise une clôture autour de toute sa frontière. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Cela empêchera d’entrer ces durs NOUVEAUX MEXICAINS ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tous mes ex ont fait sécession avec le Texas ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Cela empêchera ces sournois KANSANS d'entrer!\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Ça va empêcher ces foutus LOUSIANANS d'entrer!\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Cela empêchera d’entrer ces OKLAHOMANS freeloadin ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.12 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Compte tenu des États concernés, quelle justification n’entendriez-vous probablement PAS ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que le Texas devienne enfin son propre pays indépendant et construise une clôture autour de toute sa frontière. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Cela empêchera d’entrer ces durs NOUVEAUX MEXICAINS ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tous mes ex ont fait sécession avec le Texas ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Cela empêchera ces sournois KANSANS d'entrer!\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "“It’ll keep out those dang LOUSIANANS!”",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“It’ll keep out those freeloadin’ OKLAHOMANS!”",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.12",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "363732_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "363729_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "363728_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "363731_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "363736_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "363726_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

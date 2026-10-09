@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Peau rouge, meurtre, apartheid, raciste, marijuana, coups de fesses, combats de chiens, F.U., haine, peine capitale, majeur, avortement, fétichisme des pieds, 1%, boules poilues, ville caucasienne, stupides, pet ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "village ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Croix gammée ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Situé dans les limites municipales de Kirkland Lake, en Ontario, se trouve le village au nom controversé de <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338921_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Baignoire, Van, Terrain, Grotte, Entrepôt, Denny's, Zoo, Magasin à un dollar, Boîte, Match de football, Grange, Champ de tir, Trou, Égout, Piscine, Cascade, Train, vieille vidéo à succès ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Calvaire ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Pub ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un pub ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Parrainé par l'Église luthérienne du Calvaire, les habitants de Fort Worth au Texas peuvent désormais assister à l'Église non conventionnelle en un-<BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "329604_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

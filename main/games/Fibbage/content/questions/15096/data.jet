@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Boisson Pixie, Yum Yum, Jus pour enfants, Powderz, Boisson colorée, Soda-esque, Smooches, Thé savoureux, Élixir de bonbons, Boisson de clown, Gulpers, Boisson Sunshine Happy, Trucs amusants, Délicieux, Désaltérants, Slappy Yappys, Arc-en-ciel motorisé, Cool Aide ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Kool-Aid ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Frappe aux fruits ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le nom de marque original de Kool-Aid. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334451_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un voleur de cornichons|un voleur de cornichons|un voleur de cornichons ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Voleur de cornichons ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

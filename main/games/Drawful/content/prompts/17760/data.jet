@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Seul avec tes pensées|seul avec tes pensées ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Seul avec mes pensées ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

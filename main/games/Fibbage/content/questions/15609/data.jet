@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Équitation, Danse de salon, Origami, Breakdance, Cuisine, Manscaping, Conte, Tricot, Féminisme, Littérature romane, Prise de parole en public, Fusion, Blague, Peinture de paysage, Boxe, Anglais, Comment sourire, HTML ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Poutine ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Judo ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le président russe Vladimir Poutine a sorti un DVD en 2008 intitulé <i>Apprenons <BLANK> avec Vladimir Poutine</i>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "345325_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "345328_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

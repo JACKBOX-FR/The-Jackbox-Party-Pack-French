@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Tu n'es pas mon père|Tu n'es pas mon père|Tu n'es pas mon père !|Tu n'es pas mon père|Tu n'es pas mon père ! ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Tu n'es pas mon père ! ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

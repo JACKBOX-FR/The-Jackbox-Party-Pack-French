@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "massages, critiques constructives, argent, lait, cocaïne, compte Facebook, stimulation anale, chapeaux amusants, intimité, fêtes d'anniversaire, tatouages, déodorant, hamburgers, compliments, mamelles supplémentaires, marijuana, RCR, lits à eau ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "5% de lait en plus ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "noms ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une étude publiée dans la revue <i>Anthrozoo</i> a révélé que les vaches produisent 5 % de lait en plus lorsqu'on leur donne <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "355521_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "355524_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

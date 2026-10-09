@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Vendeur de voitures barbu|un vendeur de voitures avec une barbe|un vendeur de voitures avec une barbe ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vendeur de voitures avec barbe ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

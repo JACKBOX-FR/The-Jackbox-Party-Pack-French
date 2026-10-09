@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Trolls de marionnettes, Doozer Rock, Voyage à l'acide, Mineurs idiots, Habitants des cavernes, Moopy et le Fun Gang, Blapper Trapper, Fanciful Fallacies, Love Town, Au coin de la rue, Sloopy Sticks, Dreamtown Express, Bob's Utopia, Les autres, Cercle d'amitié, Plaisir fantastique, Groggle Stone, Centre-ville ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Fraggler ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Monde Woozle ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Nom original de Jim Henson pour <i>Fraggle Rock</i>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334914_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

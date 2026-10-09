@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "neutre, course, club, s'habiller, frire, high five, baiser, jongler, insulter, imprégner, cracher dessus, se moquer de, peindre, se maquiller, se raser, adorer, se noyer, mettre le feu à ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "écureuils ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "compter ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "compter tout, additionner tout, l'inventaire ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La ville d'Olney, dans l'Illinois, organise un événement annuel afin de <VIER> les écureuils. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "356221_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "356224_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

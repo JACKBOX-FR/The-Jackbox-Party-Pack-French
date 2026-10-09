@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "half-life|<i>A Bug’s Life</i>|<i>A Year in the Life</i>|double life|<i>Hard Knock Life</i>|<i>Facts of Life</i>|shelf life|<i>How to Save a Life</i>|Miller High Life",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "California Life|<i>Homeland Life</i>|<i>It’s A Christmas Life</i>|<i>The Sweet Life...</i>|spooky life|<i>NPR Life</i>",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "The Game of Life|<i>My Show Called Life</i>|<i>It’s a Miracle Life</i>|<i>The Disney Life...</i>|Life cereal|<i>Boring Life</i>",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "“Semi-Charmed Life”|“Thug Life”|<i>My So-Called Life</i>|<i>It’s a Wonderful Life</i>|<i>The Suite Life...</i>|“A Hard Knock Life”|<i>This American Life</i>",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Get a Life!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Third Eye Blind|Tupac|Claire Danes|George Bailey|Zack and Cody|Annie|Ira Glass",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "half-life|<i>A Bug’s Life</i>|<i>A Year in the Life</i>|double life|<i>Hard Knock Life</i>|<i>Facts of Life</i>|shelf life|<i>How to Save a Life</i>|Miller High Life",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "California Life|<i>Homeland Life</i>|<i>It’s A Christmas Life</i>|<i>The Sweet Life...</i>|spooky life|<i>NPR Life</i>",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Le jeu de la vie|<i>Mon émission appelée Life</i>|<i>C'est une vie miracle</i>|<i>La vie Disney...</i>|Céréales de la vie|<i>La vie ennuyeuse</i> ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "\"Une vie semi-enchantée\"|\"Vie de voyou\"|<i>Ma soi-disant vie</i>|<i>C'est une vie merveilleuse</i>|<i>La vie de suite...</i>|\"Une vie dure\"|<i>Cette vie américaine</i> ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Obtenez une vie ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Aveugle du troisième œil|Tupac|Claire Danes|George Bailey|Zack et Cody|Annie|Ira Glass ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "366971_0f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "366926_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "366927_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

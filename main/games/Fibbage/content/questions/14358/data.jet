@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Muffin, Dark Meow, Gramps, Adolf, Sunshine, Heathcliff, Princesse, Santa Paws, Boo Boo, Gus, Boule de neige, Beatrix, Poot, Jermaine, Garfield, Mme. Mitaines, Thor, Gatsby ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Grincheux ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Sauce Tardar ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "sauce tardars, sauce tartare, sauce tartare, sauce plus tardive ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le vrai nom du célèbre Grumpy Cat sur Internet est <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "319160_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "319163_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

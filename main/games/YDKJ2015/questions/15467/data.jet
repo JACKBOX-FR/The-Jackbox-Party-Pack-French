@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Randy Rhoads |Randy Moore |Randy Bo Bandy |John Randy |R-r-r-r-andy!|Randy Jones |Randy Epstein |The Randy Warhols |Hornball",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Randy Wayne |Randy Harrison|Randy Patinkin|Randy Moss|Randy Taylor |Randy Foye",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Randy Cowell |Randy Orton |Randy Chase|Randy Johnson|Randy Tavis|Randy Fighter",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Randy Newman |Randy Jackson|Randy Savage |Randy Quaid |Randy Marsh|Randy Travis |Randy Couture",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Let’s Get Randy",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "“You’ve Got a Friend in Me”|<i>American Idol</i>|Slim Jim|National Lampoon’s <i>Vacation</i>|<i>South Park</i>|“Forever and Ever, Amen”|MMA",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "Randy Rhoads |Randy Moore |Randy Bo Bandy |John Randy |R-r-r-r-andy!|Randy Jones |Randy Epstein |The Randy Warhols |Hornball",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Randy Wayne |Randy Harrison|Randy Patinkin|Randy Moss|Randy Taylor |Randy Foye",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Randy Cowell | Randy Orton | Randy Chase | Randy Johnson | Randy Tavis | Randy Fighter ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Randy Newman | Randy Jackson | Randy Savage | Randy Quaid | Randy Marsh | Randy Travis | Randy Couture ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Allons Randy ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Tu as un ami en moi\"|<i>American Idol</i>|Slim Jim|Les <i>vacances</i> de National Lampoon|<i>South Park</i>|\"Pour toujours et à jamais, Amen\"|MMA ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "342174_0f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "342129_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "342130_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

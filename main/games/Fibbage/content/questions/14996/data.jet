@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "lutin, joueur de football, chien, fantôme, carotte, nuage, professeur, malédiction familiale, jeu vidéo, chanson de heavy metal, gobelin, fée, chauve-souris, chat qui parle, policier, avocat, machine à karaoké, monstre marin ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "poignardé ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Planche Ouija ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "planche ouiji, planche ouja, planche oija, ouija, ouiji ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2012, un adolescent de Weslaco, au Texas, a affirmé qu'il avait poignardé son ami parce qu'un <VIERGE> l'avait poussé à le faire. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "332160_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

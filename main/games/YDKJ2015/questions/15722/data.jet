@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Judas|Mary|John Constantine|Pat Robertson|Goliath|Mary Magdalene|Cain|Zacchaeus|plague of frogs",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "King Russel|Abraham|Jeebus|Mormon guy|Adam’s rib|Jesus’ lunch",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Noah’s second cousin|all three Wise Men|Count of Monte Cristo|a magic coat|Methuselah|The Gourd Samaritan",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Moses|Noah|God|Jesus|Joseph|Satan|Jonah",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "I Loved You as Nebuchadnezzar",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Charlton Heston|Russell Crowe|Morgan Freeman|Jim Caviezel|Donny Osmond|Al Pacino|Archibald Asparagas from <i>Veggie Tales</i>",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "Judas|Mary|John Constantine|Pat Robertson|Goliath|Mary Magdalene|Cain|Zacchaeus|plague of frogs",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "King Russel|Abraham|Jeebus|Mormon guy|Adam’s rib|Jesus’ lunch",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Le cousin germain de Noé|les trois mages|Comte de Monte-Cristo|un manteau magique|Mathusalem|Le Samaritain à la gourde ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Moïse|Noé|Dieu|Jésus|Joseph|Satan|Jonas ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Je t'aimais en tant que Nabuchodonosor ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Charlton Heston|Russell Crowe|Morgan Freeman|Jim Caviezel|Donny Osmond|Al Pacino|Archibald Asparagas de <i>Veggie Tales</i> ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "347890_1f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "347845_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "347846_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

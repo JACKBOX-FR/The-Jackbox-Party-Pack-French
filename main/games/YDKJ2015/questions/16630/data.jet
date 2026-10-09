@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Whose “ethnic” background would be 50% blue, 25% yellow, and 25% red?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "l'enfant amoureux de la Schtroumpfette et de Hellboy ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ascendance ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "l'enfant amoureux de la méchante sorcière et de Barney le dinosaure ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "l'enfant amoureux de Annoying Orange et Shrek ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "l'enfant amoureux de Mme Pac-Man et Cookie Monster ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quelle origine « ethnique » serait composée à 50 % de bleu, à 25 % de jaune et à 25 % de rouge ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "l'enfant amoureux de la Schtroumpfette et de Hellboy ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Ascendance ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "l'enfant amoureux de la méchante sorcière et de Barney le dinosaure ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "l'enfant amoureux de Annoying Orange et Shrek ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "l'enfant amoureux de Mme Pac-Man et Cookie Monster ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "365621_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "365616_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "365618_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "365617_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "365620_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "365625_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "365615_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

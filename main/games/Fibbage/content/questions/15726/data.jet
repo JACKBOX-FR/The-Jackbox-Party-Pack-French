@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "caca de dinosaure, œufs de poisson, ongles de Babe Ruth, poèmes de Walt Whitman, sang de mammouth séché, États-Unis visas de travail, photos de Gandhi, préservatifs, cartes au trésor, médiators, cendres de Joe DiMaggio, fortunes, Spud Webb, billets d'or, croquis de Léonard de Vinci, trèfles à quatre feuilles, dents de momie, billets de 100 $ ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "base-ball ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Les cheveux de George Washington ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "les cheveux de George Washington, les cheveux de Washington ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dans le cadre d'une promotion spéciale inhabituelle en 2007, le fabricant de cartes de baseball Topps a inséré <BLANK> dans trois paquets réguliers de cartes de baseball. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "347949_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

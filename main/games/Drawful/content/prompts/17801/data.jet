@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "tapis magique sale | tapis magique sale ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ce tapis magique est sale ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

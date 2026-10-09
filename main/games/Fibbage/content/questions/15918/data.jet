@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "pierres, acide de batterie, paillettes, polystyrène, or, électricité, caca, arsenic, diamants, encre, chocolat, toiles d'araignées, sandwichs au jambon, fossiles, huile, verre, petits humains, crottes de nez ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "rare ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "bière ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, un homme du Texas a reçu un diagnostic d'un syndrome rare qui transforme la nourriture qu'il mange en <VIDE> dans son estomac. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "352214_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "352217_2",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

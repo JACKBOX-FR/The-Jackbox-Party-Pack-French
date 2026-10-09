@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "tortue dans le coma|une tortue dans le coma ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Tortue dans le coma ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

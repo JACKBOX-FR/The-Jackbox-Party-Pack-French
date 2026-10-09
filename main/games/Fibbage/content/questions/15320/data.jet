@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Essuie-glace, Snack, Pooper, Hugger, Baker, Sass, Whistler, Farter, Napper, Yodeler, Pisser, Belcher, Nettoyant, Lave-vaisselle, Souffleur, Cire, Baigneur, Organisateur de CD ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Glastonbury ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Chatouilleur ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Entre le milieu et la fin des années 1990, la ville de Glastonbury était à la recherche d'un étrange intrus connu sous le nom de « <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338645_0f",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "338648_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

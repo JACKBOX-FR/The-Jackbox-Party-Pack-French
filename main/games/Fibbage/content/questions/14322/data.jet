@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "biscuits, pistolets, cartes de Saint-Valentin, oreillers, poèmes, roses, dynamite, signes de paix, masques de cochon, préservatifs, poulets, meubles IKEA, flacons de parfum, formule à bulles, livres, couteaux, pistolets, contenants de rouge à lèvres ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "suédois ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "ours en peluche ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "jouets ours en peluche, ours en peluche, ours en peluche ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Afin de protester contre l’État policier biélorusse, un groupe suédois a largué des centaines de <BLANK> depuis un avion. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318402_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

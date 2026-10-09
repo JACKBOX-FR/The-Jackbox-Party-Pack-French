@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Dame, bébé, Kissy, cire, flamboyant, grand-mère, âne, oncle Roy, Pucker, Hobo, méchant, grand garçon, gercé, succulent, malodorant, chaud, excité, fesses ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Lèvres ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "La pute ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pute, putes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La plante chinoise « pyschotria elata » est également connue sous le nom de « <BLANK> Lips ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "327110_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "327113_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

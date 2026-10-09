@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "éponges, tapis, oreillers, baguettes, sous-vêtements, chaussures, chaises, parapluies, lasers, poèmes, pistolets de paintball, gants, ours en peluche, boules de coton, bâtons de popsicle, serviettes en papier, plumes, insultes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "armes ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "oranges ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "une orange, un bouquet d'oranges ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Chaque année, les habitants d'Ivrée, en Italie, reconstituent une bataille historique de leur région et, au lieu de répliques d'armes, ils utilisent <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "322469_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

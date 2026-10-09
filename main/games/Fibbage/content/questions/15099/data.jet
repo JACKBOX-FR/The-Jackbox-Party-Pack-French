@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Serveur, majordome, dentiste, blogueur, enseignant, ouvrier du bâtiment, écrivain, chef, femme de ménage, avocat spécialisé en divorce, arbitre, pilotes, animateur de jeu télévisé, ingénieurs, directeur, directeurs, vice-président, biologistes marins ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "divorcer ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Danseuse ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "danseurs,danse,un danseur ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Profession avec le taux de divorce le plus élevé, selon le recensement américain de 2000. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334523_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334526_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bBoth"
+    },
+    {
+      "v": "“The Triangle Inequality”",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "“The Four Color Problem”",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "“The Parking Spot Escalation”",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "“The Vengeance Formulation”",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "The Either/Or Conundrum",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+3.74",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0,93 ",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aInstr$cIncorrect"
+    },
+    {
+      "v": "un épisode de <i>The Big Bang Theory</i> ",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "S+7h00 ",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "1,1,0,0,1,0,1 ",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "\"L'extrapolation de l'aine tirée\" ",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "\"Le théorème de l'amitié\" ",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "«L'équivalence salade aux œufs» ",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "un théorème mathématique célèbre ",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "<i>LA THÉORIE DU BIG BANG</i> ",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "THÉORÈME DE MATHÉMATIQUES ",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S+1.41 ",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "« L’inégalité triangulaire » ",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "« Le problème des quatre couleurs » ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "« L’escalade des places de stationnement » ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "\"La formule vengeance\" ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cCorrect"
+    },
+    {
+      "v": "The Either/Or Conundrum",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+3.74",
+      "t": "S",
+      "n": "$aSetup$cDis"
+    },
+    {
+      "v": "S+0.93",
+      "t": "S",
+      "n": "$aDis$cDisButton"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aTimer$cTimer"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aInstr$cIncorrect"
+    },
+    {
+      "v": "an episode of <i>The Big Bang Theory</i>",
+      "t": "S",
+      "n": "tDat"
+    },
+    {
+      "v": "S+7.00",
+      "t": "S",
+      "n": "$aSetup$cDat"
+    },
+    {
+      "v": "1,1,0,0,1,0,1",
+      "t": "S",
+      "n": "tAns"
+    },
+    {
+      "v": "“The Pulled Groin Extrapolation”",
+      "t": "S",
+      "n": "tQ7"
+    },
+    {
+      "v": "“The Friendship Theorem”",
+      "t": "S",
+      "n": "tQ6"
+    },
+    {
+      "v": "“The Egg Salad Equivalency”",
+      "t": "S",
+      "n": "tQ5"
+    },
+    {
+      "v": "a famous mathematical theorem",
+      "t": "S",
+      "n": "tDis"
+    },
+    {
+      "v": "<i>THE BIG BANG THEORY</i>",
+      "t": "S",
+      "n": "tDatButton"
+    },
+    {
+      "v": "MATH THEOREM",
+      "t": "S",
+      "n": "tDisButton"
+    },
+    {
+      "v": "S+1.41",
+      "t": "S",
+      "n": "$aDat$cDatButton"
+    },
+    {
+      "v": "350119_0f",
+      "t": "A",
+      "n": "aExit"
+    },
+    {
+      "v": "350107_0",
+      "t": "A",
+      "n": "aSetup"
+    },
+    {
+      "v": "350106_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "350118_0",
+      "t": "A",
+      "n": "aGenRocked"
+    },
+    {
+      "v": "350115_0",
+      "t": "A",
+      "n": "aGenAwful"
+    },
+    {
+      "t": "A",
+      "n": "aTimer"
+    },
+    {
+      "v": "350117_0",
+      "t": "A",
+      "n": "aGenDecent"
+    },
+    {
+      "v": "350116_0",
+      "t": "A",
+      "n": "aGenPoor"
+    },
+    {
+      "t": "A",
+      "n": "aInstr"
+    },
+    {
+      "v": "350108_0",
+      "t": "A",
+      "n": "aQ1"
+    },
+    {
+      "v": "350109_0",
+      "t": "A",
+      "n": "aQ2"
+    },
+    {
+      "v": "350120_0",
+      "t": "A",
+      "n": "aDis"
+    },
+    {
+      "v": "350110_0",
+      "t": "A",
+      "n": "aQ3"
+    },
+    {
+      "v": "350111_0",
+      "t": "A",
+      "n": "aQ4"
+    },
+    {
+      "v": "350112_0",
+      "t": "A",
+      "n": "aQ5"
+    },
+    {
+      "v": "350113_0",
+      "t": "A",
+      "n": "aQ6"
+    },
+    {
+      "v": "350114_0",
+      "t": "A",
+      "n": "aQ7"
+    },
+    {
+      "v": "350121_0",
+      "t": "A",
+      "n": "aDat"
+    }
+  ]
+}

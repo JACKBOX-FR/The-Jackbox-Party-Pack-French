@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Considering who it’s named for, what could Bob the producer scream while experiencing his tiny case of “Montezuma’s Revenge”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"MADUIS-VOUS. ROI DES INCAS !!!\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La vengeance est un plat qui s'administre mieux par voie rectale ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\" MERDE. ROI DES AZTÈQUES !!! \" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« MERDE À L'ENFER, ROI DES KICKAPOOS !!! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« BLAST YOU, ROI DES MAYAS !!! »",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Compte tenu de qui il porte le nom, que pourrait crier Bob le producteur alors qu’il expérimentait son petit cas de « Montezuma’s Revenge » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"MADUIS-VOUS. ROI DES INCAS !!!\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "La vengeance est un plat qui s'administre mieux par voie rectale ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\" MERDE. ROI DES AZTÈQUES !!! \" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« MERDE À L'ENFER, ROI DES KICKAPOOS !!! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« BLAST YOU, ROI DES MAYAS !!! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "353123_1f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "353118_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "353120_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "353119_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "353122_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "353117_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "353129_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "353125_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

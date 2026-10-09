@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "âne, ego, faible, libéral, clown, kangourou, seins, caca, idiot, balle sleaze, zombie, socialiste, bozo, BS, crétin, jerk, alcool, bidon ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Patton ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "viande ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'acteur de <i>Patton</i> George C. Scott a refusé d'accepter l'Oscar qu'il a remporté en 1971, affirmant que les Oscars étaient un \"défilé <BLANK> de deux heures\". ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "350789_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "350792_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

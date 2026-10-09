@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cadavre, fusil de chasse, chat malade, joint de marijuana, seau, coup de poing au visage, souche de grippe aviaire, affiche à croix gammée, bazooka, ligne de cocaïne, cercueil, bombe, main coupée, résident d'une maison de retraite, vacances en Amérique, vibrateur, poupée Ben Laden, prostituée ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "prix ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "bébé ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "enfant, gosse ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un jeu télévisé pakistanais de 2013 a provoqué une controverse lorsque leur grand prix était un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "322262_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "322265_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

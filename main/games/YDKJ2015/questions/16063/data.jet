@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What is he most likely to write about his SECOND destination?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que Dante revienne après son voyage dans la « Divine Comédie » et commence à publier des photos sur Facebook. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Me voici au paradis ! :-) » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Une escapade de trois jours dans la magnifique Valhalla ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Me voici au Purgatoire ! :-/ » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Me voici en enfer ! :-(\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Me voici à Tolède ! :-0 » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.76 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Qu’est-il le plus susceptible d’écrire sur sa DEUXIÈME destination ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que Dante revienne après son voyage dans la « Divine Comédie » et commence à publier des photos sur Facebook. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,1,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Me voici au paradis ! :-) » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Une escapade de trois jours dans la magnifique Valhalla ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Me voici au Purgatoire ! :-/ » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "“Here’s me in Hell! :-(”",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“Here’s me in Toledo! :-0”",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.76",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "355348_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "355345_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "355344_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "355347_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "355352_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "355342_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "355354_1f",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

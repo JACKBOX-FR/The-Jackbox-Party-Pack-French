@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If England put a true BLUE BLOOD on the throne, what might you hear at the coronation?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Salut à tous la reine OCTOPUS!\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Quel groupe de monarchie ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Salut à tous le roi HOMARD ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Salut à tous, Reine PINGOUIN ! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Salut à tous le roi KOALA ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si l'Angleterre mettait un vrai SANG BLEU sur le trône, que pourriez-vous entendre lors du couronnement ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Salut à tous la reine OCTOPUS!\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Quel groupe de monarchie ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Salut à tous le roi HOMARD ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Salut à tous, Reine PINGOUIN ! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Salut à tous le roi KOALA ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "363802_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "363799_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "363798_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "363801_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "363806_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "363796_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

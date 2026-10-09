@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What part of the film <i>The Sixth Sense</i> is its “denouement”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Le générique, après avoir appris IL ÉTAIT MORT TOUT LE TEMPS ! ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Alerte spoiler à quinze ans ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Quand tu découvres qu'IL ÉTAIT MORT TOUT LE TEMPS ! ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Quand on lui tire dessus, cela laisse entendre qu'IL SERAIT MORT TOUT LE TEMPS ! ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Il n'y en avait pas, mais... IL ÉTAIT MORT TOUT LE TEMPS ! ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quelle partie du film <i>Le Sixième Sens</i> est son « dénouement » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Le générique, après avoir appris IL ÉTAIT MORT TOUT LE TEMPS ! ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Alerte spoiler à quinze ans ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Quand tu découvres qu'IL ÉTAIT MORT TOUT LE TEMPS ! ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Quand on lui tire dessus, cela laisse entendre qu'IL SERAIT MORT TOUT LE TEMPS ! ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Il n'y en avait pas, mais... IL ÉTAIT MORT TOUT LE TEMPS ! ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "354296_2f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "354293_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "354292_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "354295_1",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "354300_1",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "354290_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

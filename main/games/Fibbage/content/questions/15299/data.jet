@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Navets, caddies, parpaings, barbes au cou, rideaux de douche, lunettes de soleil, chapeaux, sandales, radiateurs, statues, arbres, ballons, scooters, maillots de corps, sacs à main, cadres de porte, mouchoirs, perruques. ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Illinois ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Bretzels ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les équipes sportives de la Freeport High School dans l'Illinois portent étrangement le nom d'un objet inanimé. Les équipes sont appelées Freeport <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338159_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "338162_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

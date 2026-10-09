@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "trombone, crayon, mètre ruban, mouchoir, dessous de verre, parapluie, avocat, chapeau de fête, veste de pluie, agrafeuse, machine à coudre, préservatif en latex, hot dog, poulet, chiffon doo, globe, fermeture éclair, peigne ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "fête ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "ananas ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bien que courant aujourd'hui, le <BLANK> était un tel symbole de statut social dans l'Angleterre du XVIIIe siècle qu'on pouvait en louer un pour une nuit afin de le montrer lors d'une fête. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349430_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

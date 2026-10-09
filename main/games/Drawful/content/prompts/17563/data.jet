@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un cadavre dans un hamac|un mort dans un hamac|cadavre dans un hamac ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Cadavre dans un hamac ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370252_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

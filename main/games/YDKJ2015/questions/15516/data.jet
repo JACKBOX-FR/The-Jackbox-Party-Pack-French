@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "“David After Dentist,” “Double Rainbow,” “Dramatic Chipmunk”",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Classez ces célèbres vidéos virales YouTube du PLUS COURT au PLUS LONG : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« David », « Double », « Dramatique » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Lier mes YouTubes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Dramatique », « David », « Double » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Dramatique », « Double », « David » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Double », « Dramatique », « David » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.47 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "\"David After Dentist\", \"Double Rainbow\", \"Dramatic Chipmunk\" ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Classez ces célèbres vidéos virales YouTube du PLUS COURT au PLUS LONG : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« David », « Double », « Dramatique » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Lier mes YouTubes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Dramatique », « David », « Double » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "“Dramatic,” “Double,” “David”",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "“Double,”“Dramatic,” “David”",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.47",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "343241_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "343236_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "343238_0f",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "343237_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "343240_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "343235_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "343243_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

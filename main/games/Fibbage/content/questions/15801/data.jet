@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "tête de cochon, drapeau blanc, cactus, bac à sable, torche tiki, ballon dégonflé, tapis, lecteur VHS, poubelle, statue d'Hercule, brique, avis de retard, pagaie, fiole de larmes, casque, corbeille de fruits pourris, litière, DVD de « Rocky » ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Netflix ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "évier de cuisine ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "évier ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2004, le PDG de Blockbuster a envoyé un étrange colis à Reed Hastings, le PDG de Netflix. Il lui a envoyé un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349625_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

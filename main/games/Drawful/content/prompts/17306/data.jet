@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un couteau gelé ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Couteau congelé ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369716_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

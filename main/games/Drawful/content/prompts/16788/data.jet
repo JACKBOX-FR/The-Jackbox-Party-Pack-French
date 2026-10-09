@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une crotte de nez sophistiquée ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Crotte de nez fantaisie ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368540_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

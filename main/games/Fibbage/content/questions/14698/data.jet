@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Voyous, Pauses, Problèmes, Frissons, Copains, stylos, Traitements, boutons, Blessures, chapeaux, Croix, broyeurs, Assiettes, ers, Tables, Lampes, Poignards, Poupées ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Os ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Brosses à dents ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "brosses à dents ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Barbara E. Mattick a écrit le livre <i>Un guide sur les os <BLANK> du 19e et du début du 20e siècle.</i> ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "326063_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

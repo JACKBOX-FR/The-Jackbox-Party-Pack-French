@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "caviar, larmes de crocodile, excréments humains, mayonnaise, salive de renard, or fondu, foie gras, sperme d'éléphant, Botox, peau de triton, pétrole, vomi, morve de castor, fréon, poussière de lutin, saindoux, moutarde, queue de mouffette ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "soin du visage ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "merde d'oiseau ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "crottes d'oiseaux, merde d'oiseau, caca d'oiseau, doo d'oiseau ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pour 180 $, le salon de soins de la peau Shizuka New York propose un soin du visage japonais inhabituel mais traditionnel, composé en partie de son de riz et en partie <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "325907_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "325910_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

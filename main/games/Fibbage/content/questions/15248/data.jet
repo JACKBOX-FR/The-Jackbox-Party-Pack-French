@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "danseur, pickpocket, criminel, patineur sur glace, lecteur de cartes de tarot, jockey, croque-mort, moniteur d'auto-école, chanteur, traducteur, vendeur, auteur pour enfants, fossoyeur, surfeur, médium, fabricant de sandwich, lutteur, proxénète ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Alfred ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "dentiste ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La chaise électrique a été inventée par un professionnel <BLANK> nommé Alfred Southwick. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "336986_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "336989_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

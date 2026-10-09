@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un lavement au brocoli|lavement au brocoli|lavement au brocoli|lavement au brocoli ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "lavement au brocoli ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370169_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

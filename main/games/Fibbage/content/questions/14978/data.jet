@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "à moitié mangé, touché par des personnages célèbres, vomi, allongé, teint en bleu, dans des publicités, dans des magazines, peint, écrasé, dans des poubelles, disséqué, aspergé de poussière d'or, pourrissant, en Antarctique, identifié comme radioactif, gelé, dans des films, assis dessus ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "nourriture ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "brûlé ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Il existe un musée de nouveautés à Arlington, dans le Massachusetts, qui collectionne uniquement les aliments <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "331746_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

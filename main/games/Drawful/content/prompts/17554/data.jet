@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "monde sans week-end ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un monde sans week-end ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370234_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

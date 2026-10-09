@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which island is still holding its “V card”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Dweeby Trinidad ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le corail ne compte pas ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "geek Saint Thomas ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Chypre ringard ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Nouvelle-Guinée en sueur ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quelle île détient encore sa « carte V » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Dweeby Trinidad ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le corail ne compte pas ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "geek Saint Thomas ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Chypre ringard ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Nouvelle-Guinée en sueur ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "362405_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "362402_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "362401_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "362404_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "362409_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "362399_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

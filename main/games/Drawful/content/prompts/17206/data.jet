@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "mon téléavertisseur explose|mes téléavertisseurs explosent ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "mon téléavertisseur explose ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

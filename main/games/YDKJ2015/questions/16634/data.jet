@@ -1,0 +1,202 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What sandwich could you order there?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que les restaurants Subway en Allemagne donnent à leurs sous-marins le nom des sous-marins allemands de la Première et de la Seconde Guerre mondiale. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un MONITEUR de boulettes de viande ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Manger du frisch ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un U-BOAT au thon ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "une FRIGATE au jambon Forêt-Noire ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un SLOOP Steak & Fromage ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6,80 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quel sandwich pourrait-on y commander ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que les restaurants Subway en Allemagne donnent à leurs sous-marins le nom des sous-marins allemands de la Première et de la Seconde Guerre mondiale. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un MONITEUR de boulettes de viande ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Manger du frisch ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un U-BOAT au thon ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "a Black Forest Ham FRIGATE",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "a Steak & Cheese SLOOP",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.80",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "365694_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "365691_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "365690_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "365693_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "365698_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "365688_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "365700_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "365696_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

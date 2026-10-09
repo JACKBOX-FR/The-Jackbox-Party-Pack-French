@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "sang de kangourou, eau de toilette, antigel, urine, ketchup, sang, essence, thé glacé à la mangue, larmes humaines, café, eau très froide, Red Bull, Dr. Poivre, Spite, plus d'antigel, shampoing aux puces, bile, eau vitaminée ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "antigel ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "vodka ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Après avoir consommé de l'antigel, un terrier maltais en Australie a eu la vie sauve lorsque les vétérinaires lui ont ensuite donné <VIERGE> à boire. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "355544_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "355547_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

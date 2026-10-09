@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What might you hear from a “kingfisher” that’s fishing for compliments?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Animaux ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Alors, comment tout le monde aime-t-il mon nouveau tatouage GILL?\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Sac d'alimentation positif ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Est-ce que personne ne va parler de mon nouveau FEATHERdo ? ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Alors, est-ce que quelqu'un a remarqué que je venais de faire épiler ma BALANCE ? » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Alors, vous avez vu que je porte ma FOURRURE différemment ?\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Que pourriez-vous entendre d’un « martin-pêcheur » à la recherche de compliments ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Animaux ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Alors, comment tout le monde aime-t-il mon nouveau tatouage GILL?\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Sac d'alimentation positif ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Est-ce que personne ne va parler de mon nouveau FEATHERdo ? ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Alors, est-ce que quelqu'un a remarqué que je venais de faire épiler ma BALANCE ? » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Alors, vous avez vu que je porte ma FOURRURE différemment ?\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "354974_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "354971_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "354970_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "354973_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "354968_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "354976_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

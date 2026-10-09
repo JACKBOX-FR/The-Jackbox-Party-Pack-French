@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "se laver les mains, tirer la chasse d'eau deux fois, proposer à leur rendez-vous, essuyer le sol, chasser la chasse d'eau par courtoisie, sourire, se regarder vraiment dans le miroir, appeler leurs parents, faire caca en moins de 5 minutes, allumer une allumette, ne pas prendre de cocaïne, éteindre leur téléphone, ne pas manger les calamars, faire caca tranquillement, être doux avec le papier toilette, ne pas grogner, se coiffer, allumer une allumette ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "instruit ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "s'asseoir quand ils font pipi ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "s'asseoir quand ils font pipi, s'asseoir quand ils font pipi, faire pipi assis, faire pipi en étant assis, s'asseoir quand ils urinent, s'asseoir quand ils urinent, s'asseoir quand ils urinent, uriner assis, uriner en étant assis, s'asseoir quand ils urinent ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le personnel du restaurant Edible Canada a affiché une pancarte dans leur salle de bain demandant aux hommes de <VIER>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354485_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "354488_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

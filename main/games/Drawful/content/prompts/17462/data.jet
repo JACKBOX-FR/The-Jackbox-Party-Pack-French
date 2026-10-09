@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Gâteau de mariage pour les cafards ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Gâteau de mariage pour les cafards ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cire, chercheur, peigne, perruque, parapluie, tablier, gâteau, couverture, tondeuse, chauffage, décorateur, chariot, lumière, gomme, miroir, chapeau haut de forme, appareil photo, culotte ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "moustache ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "garde ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Breveté en 1890, le brevet américain US435748 concerne une moustache <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "330459_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

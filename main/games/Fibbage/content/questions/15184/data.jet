@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "essence, baies sauvages, barbe à papa, frites, BO, oranges, lavande, miel, lessive fraîche, une tempête de minuit, guimauves, contaminations, chili, urine de panthère, beignets, sauce pour pâtes, jambon, réglisse ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "urine ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "pop-corn beurré ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pop-corn, pop-corn au beurre ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Selon le livre de non-fiction <i>Les tigres mangeurs d'hommes des Sundarbans</i>, l'urine de tigre « sent un peu <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "335496_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

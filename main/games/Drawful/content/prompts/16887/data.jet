@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "problèmes de fesses | un problème de fesses ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Problème de fesses ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

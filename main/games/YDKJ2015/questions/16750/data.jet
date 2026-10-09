@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Diet Coke, Diet 7-Up, Diet Pepsi",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Classez ces sodas du PLUS ANCIEN au PLUS RÉCENT, en fonction de la date à laquelle ils ont été introduits pour la première fois : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Diet 7-Up, Coca Light, Pepsi Diet ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Que doit faire un gars pour commander un verre par ici ?!! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Pepsi diététique, Diet 7-Up, Coca light ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Coca light, Diet 7-Up, Pepsi light ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Coca light, Pepsi light, Diet 7-Up ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.40 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Coca light, Diet 7-Up, Pepsi light ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Classez ces sodas du PLUS ANCIEN au PLUS RÉCENT, en fonction de la date à laquelle ils ont été introduits pour la première fois : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Diet 7-Up, Coca Light, Pepsi Diet ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Que doit faire un gars pour commander un verre par ici ?!! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Pepsi diététique, Diet 7-Up, Coca light ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Diet Coke, Diet 7-Up, Diet Pepsi",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Diet Coke, Diet Pepsi, Diet 7-Up",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.40",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "368063_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "368058_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "368060_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "368059_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "368062_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "368057_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "368065_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

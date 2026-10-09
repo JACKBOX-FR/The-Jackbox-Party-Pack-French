@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What type of delivery restrictions should I expect from a pizza place called “Papua John’s”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Au service de toute l’AFRIQUE DE L’OUEST. » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Fade McNally ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "«Nous livrons uniquement dans le PACIFIQUE SUD.» ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Vous devez vivre en EUROPE DU NORD. » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Fièrement livrer dans les CARAÏBES ORIENTALES. » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "À quels types de restrictions de livraison dois-je m'attendre de la part d'une pizzeria appelée « Papua John's » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Au service de toute l’AFRIQUE DE L’OUEST. » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Fade McNally ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "«Nous livrons uniquement dans le PACIFIQUE SUD.» ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Vous devez vivre en EUROPE DU NORD. » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Fièrement livrer dans les CARAÏBES ORIENTALES. » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "365520_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "365517_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "365516_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "365519_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "365514_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

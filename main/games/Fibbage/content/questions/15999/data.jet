@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "ses cheveux, pâte à biscuits, chèvres, iPhones, paille, savon, bûches de bois, dents, méthamphétamine, barres granola, rats morts, poisson, dynamite, bière, argent, fromage, œufs, essence ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "prison ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "son caca ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "sa propre merde, sa merde, ses excréments, sa propre merde, ses propres excréments, caca, merde, excréments, excréments, ses excréments, excréments humains, son caca, caca ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un homme d'Enniskillen, en Irlande du Nord, a été condamné à trois mois de prison pour un incendie qu'il avait allumé alors qu'il tentait de transformer <BLANK> en or. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "353970_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "353973_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

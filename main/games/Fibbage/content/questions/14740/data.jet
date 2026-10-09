@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Adam Levine, des pommes de terre, Cee Lo, ma femme, Shakira, une ombre, des flics, Daft Punk, des fans, des chatons, un écureuil, mon père, la foule, des fourmis, un chat, une girafe, des zombies, des mormons ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Blake ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "une autruche",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "autruche, une autruche ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "TWEET DE CÉLÉBRITÉ ! 15h20 - 9 novembre 12 @blakeshelton, le chanteur country et juge sur <i>The Voice</i>, a tweeté : \"Je viens de tomber et je me suis ouvert la main en fuyant <BLANK>... Ne demandez pas.\" ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "326964_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

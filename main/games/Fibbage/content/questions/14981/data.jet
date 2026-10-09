@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "chauffeur de taxi, coiffeur, jongleur, cireur de chaussures, clown de rodéo, imitateur du pape Jean-Paul, danseur, toiletteur de chiens, lutteur, barista, boxeur, humble charpentier, mineur, mime, vendeur de voitures, animateur de jeu télévisé, chef, télégramme chantant ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Buenos Aires ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "videur ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "videur de bar ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En tant que jeune étudiant à Buenos Aires, le pape François a travaillé comme <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "331815_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "331818_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If the UVA students’ wave acts like the sun’s UVA waves, how will The Wave look?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que vous assistiez à un match de football de l’Université de Virginie (ou UVA) et que les étudiants commencent à jouer « The Wave ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "La foule fera des ondulations longues et courtes. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Il y a un mélanome sur cette peau de porc ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "La foule fera quelques ondulations plus longues. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "La foule fera de nombreuses courtes ondulations. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "La foule lèvera immédiatement la main, formant une ligne plate. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.42 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Si la vague des étudiants UVA agit comme les ondes UVA du soleil, à quoi ressemblera la vague ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que vous assistiez à un match de football de l’Université de Virginie (ou UVA) et que les étudiants commencent à jouer « The Wave ».",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "La foule fera des ondulations longues et courtes. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Il y a un mélanome sur cette peau de porc ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "La foule fera quelques ondulations plus longues. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "The crowd will make many short ripples.",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "The crowd will raise their hands at once, making a flat line.",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.42",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "359273_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "359270_2",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "359269_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "359272_1",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "359277_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "359267_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

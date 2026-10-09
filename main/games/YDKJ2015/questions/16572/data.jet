@@ -1,0 +1,243 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Whose terrifying trash is this?",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Une carte de correspondance sur laquelle on peut lire : \"J'ai battu Meryl\". ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Un os froid. ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Un tas de flèches. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "J'aime les dames trash ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+1,57 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Celui de Kat Dennings ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+4.51 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Celle d'Emma Watson ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+8.87 ",
+      "t": "S",
+      "n": "$aQuestion$cQ3"
+    },
+    {
+      "v": "S+12.63 ",
+      "t": "S",
+      "n": "$aQuestion$cQ4"
+    },
+    {
+      "v": "Celle de Selena Gomez ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "celle de Jennifer Lawrence ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "À qui appartiennent ces horribles déchets ? ",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Une carte de correspondance sur laquelle on peut lire : \"J'ai battu Meryl\". ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Un os froid. ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "A bunch of arrows.",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "I Love Trashy Ladies",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+1.57",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Kat Dennings’s",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+4.51",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Emma Watson’s",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+8.87",
+      "t": "S",
+      "n": "$aQuestion$cQ3"
+    },
+    {
+      "v": "S+12.63",
+      "t": "S",
+      "n": "$aQuestion$cQ4"
+    },
+    {
+      "v": "Selena Gomez’s",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Jennifer Lawrence’s",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "364419_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "364414_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364416_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364415_0f",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364418_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "364423_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364413_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "364428_0f",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "364421_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

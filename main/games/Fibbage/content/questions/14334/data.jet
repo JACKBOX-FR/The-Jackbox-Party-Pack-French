@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "lait, sel, viande, oeuf, café, miel, riz, beurre, citron, cannelle, crème sure, vinaigre balsamique, yaourt, zeste d'orange, parmesan, persil, jus de citron vert, safran ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Sécrétions anales ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "vanille ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "arôme vanille,arôme vanille,vanille,vannila,vanille ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les sécrétions anales d’un castor peuvent être utilisées comme substitut <VIERGE> dans certains aliments. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318650_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

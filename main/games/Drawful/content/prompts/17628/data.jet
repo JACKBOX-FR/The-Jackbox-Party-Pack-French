@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "faire un animal en ballon|faire un animal en ballon ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Fabriquer un animal en ballon ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

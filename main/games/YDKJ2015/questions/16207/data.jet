@@ -1,0 +1,196 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What kind of homeowners insurance would be most important to whoever owns the House of Usher from Edgar Allen Poe’s story?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Couverture « Meteor Destroying Neighbourhood » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Nous sommes trop Poe pour cette maison ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Couverture de « La maison s’effondre au hasard » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Couverture de « Le diable révèle que la maison est dans la dimension de l'enfer » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Couverture de « Infestation de rongeurs géants » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel type d’assurance habitation serait le plus important pour quiconque possède la Maison Usher d’après l’histoire d’Edgar Allen Poe ?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Couverture « Meteor Destroying Neighbourhood » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Nous sommes trop Poe pour cette maison ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Couverture de « La maison s’effondre au hasard » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Couverture de « Le diable révèle que la maison est dans la dimension de l'enfer » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Couverture de « Infestation de rongeurs géants » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "358779_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "358776_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "358775_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "358787_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "358786_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "358778_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "358783_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "358773_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "358781_0",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "358790_0f",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

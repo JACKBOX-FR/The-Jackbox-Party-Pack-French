@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "préservatifs, confiture, DVD « Die Hard », chaussettes, jeux vidéo, pulls, cupcakes, harmonicas, balles, appareils photo jetables, Playboys, Beanie Babies, crackers, G.I. Joes, crayons, bandanas, cigares, eau de Cologne ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Afghanistan ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Biscuits éclaireuses ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Biscuits des éclaireuses ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2002, Bruce Willis a envoyé 12 000 boîtes de <BLANK> aux soldats américains en Afghanistan. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334014_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334017_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

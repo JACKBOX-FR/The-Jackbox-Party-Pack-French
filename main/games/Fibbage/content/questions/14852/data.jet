@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Mal, Tabasco, Feu, Poisson, Gaz, Grand-père, Pomme de terre, Cheval, Amour, Moutarde, Acide, Huile moteur, Lui, Folie, Peinture, Sang, Castor, Écorce ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "shampoing ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Yaourt ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1979, Clairol a introduit puis a presque immédiatement abandonné le shampooing étrangement nommé « Touch of <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "329031_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

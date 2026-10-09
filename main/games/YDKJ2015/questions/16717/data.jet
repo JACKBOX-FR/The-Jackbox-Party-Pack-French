@@ -1,0 +1,202 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Skittles, Starburst, Smarties",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Classez ces bonbons du MOINS au PLUS de saveurs présentes dans leur produit habituel : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Quilles, Smarties, Starburst ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Une vie de bonbons durs ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Starburst, Quilles, Smarties ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Smarties, Starburst, Quilles ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Starburst, Smarties, Quilles ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.94 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quilles, Starburst, Smarties ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Classez ces bonbons du MOINS au PLUS de saveurs présentes dans leur produit habituel : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,1,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Quilles, Smarties, Starburst ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Une vie de bonbons durs ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Starburst, Quilles, Smarties ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Smarties, Starburst, Skittles",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Starburst, Smarties, Skittles",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.94",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "367386_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "367381_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "367383_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "367382_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "367385_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "367380_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "367392_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "367395_0",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

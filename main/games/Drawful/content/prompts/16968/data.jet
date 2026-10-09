@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "soutien-gorge push-up|soutien-gorge push-up|un soutien-gorge push-up|un soutien-gorge push-up ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Soutien-gorge push-up ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Considering the flying animal the town is known for, why might I want to cover my drink with a lid?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Imaginez que je bois un cappuccino à Capistrano. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,2,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Parce qu'un BAT pourrait y faire caca. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Mousse sur la cuisinière ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Parce qu'une Hirondelle pourrait y faire caca. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Parce qu'un CONDOR pourrait y faire caca. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Parce qu'un CORBEAU pourrait y faire caca. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+3h30 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Compte tenu de l’animal volant pour lequel la ville est connue, pourquoi aurais-je envie de couvrir ma boisson avec un couvercle ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Imaginez que je bois un cappuccino à Capistrano. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,2,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Parce qu'un BAT pourrait y faire caca. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Mousse sur la cuisinière ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Parce qu'une Hirondelle pourrait y faire caca. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Because a CONDOR might poop in it.",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Because a CROW might poop in it.",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+3.30",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "362649_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "362646_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "362645_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "362648_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "362653_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "362643_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

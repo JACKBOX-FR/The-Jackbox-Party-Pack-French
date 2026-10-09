@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "une écharpe, une photo de famille, un panier pique-nique, des bongos, une valise, un cerf-volant, un ballon, des fleurs, une baguette, des jouets, une laisse, un verre à martini, un livre, un Chapstick, un poids de bouilloire, un journal, un panier, un pistolet ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Marin ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "parapluie ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "des parapluies, un parapluie ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En vertu du code de réglementation des uniformes du Corps des Marines MCO P1020.34F, un marine de sexe masculin n'est pas autorisé à le porter lorsqu'il est en uniforme. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349912_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "349915_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

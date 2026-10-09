@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "musée de cire|musée de cire|musée de cire|un musée de cire ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Musée de cire ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

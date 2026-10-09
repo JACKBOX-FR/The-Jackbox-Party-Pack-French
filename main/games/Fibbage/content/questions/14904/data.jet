@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Tir, Fête du Cochon, Sieste, Viol, Autre jeu, Suicide, Divorce, Assassinat, Jalapeno Poppers, Combat d'oreillers, Tea Party, Sexe, Gnome Chase, Le plaisir est terminé, Pappy, Fauteuil roulant, Concours de restauration, Police ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Conseil ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Holocauste ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "holacauste,holocost,hollocost,hollocauste ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1977, Simulations Publications, Inc. a publié un jeu de société au nom étrange appelé After The <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "330105_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "330108_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

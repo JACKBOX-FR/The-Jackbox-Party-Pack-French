@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "oiseaux, Père Noël, le lapin de Pâques, Ronald McDonald, Stephen Hawking, le diable, les femmes, la fée des dents, le président Bush, Dora l'exploratrice, les elfes, Dark Vador, Bigfoot, Betty White, les Trolls, tous les criminels, Cupidon, Betty Boop ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Nébraska ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Dieu ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2007, pour faire valoir un point, le sénateur de l'État du Nebraska, Ernie Chambers, a intenté une action en justice frivole contre <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "325838_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

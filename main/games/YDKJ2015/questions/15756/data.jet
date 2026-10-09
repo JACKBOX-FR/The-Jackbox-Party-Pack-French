@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which of these people is Bi-curious?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Sciences ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "quelqu'un qui flirte avec BERYLLIUM ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "J'ai eu des pensées intimes sur Atom ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "quelqu'un qui fantasme sur BISMUTH ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "quelqu'un qui cherche à explorer avec BROMINE ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "quelqu'un intéressé à expérimenter sexuellement avec BARIUM ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Laquelle de ces personnes est bi-curieuse ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Sciences ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "quelqu'un qui flirte avec BERYLLIUM ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "J'ai eu des pensées intimes sur Atom ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "quelqu'un qui fantasme sur BISMUTH ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "quelqu'un qui cherche à explorer avec BROMINE ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "quelqu'un intéressé à expérimenter sexuellement avec BARIUM ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "348635_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "348632_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "348631_1",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "348634_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "348629_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

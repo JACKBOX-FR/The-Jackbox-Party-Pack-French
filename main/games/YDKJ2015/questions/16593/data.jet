@@ -1,0 +1,241 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Which city’s trash is this?",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Des millions d'ampoules rouges. ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Des milliers de canettes de bière Amstel. ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Des centaines de tickets pour la maison d'Anne Frank. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Traque des déchets ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+1.14 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "celui de New York ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+5,50 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Londres ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+8.78 ",
+      "t": "S",
+      "n": "$aQuestion$cQ3"
+    },
+    {
+      "v": "S+10.51 ",
+      "t": "S",
+      "n": "$aQuestion$cQ4"
+    },
+    {
+      "v": "Berlin ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "celle d'Amsterdam ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "C'est une poubelle de quelle ville ? ",
+      "t": "S",
+      "n": "tQ4"
+    },
+    {
+      "v": "Des millions d'ampoules rouges. ",
+      "t": "S",
+      "n": "tQ3"
+    },
+    {
+      "v": "Des milliers de canettes de bière Amstel. ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Hundreds of ticket stubs to the Anne Frank house.",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Trash Stalking",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "S+1.14",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "New York’s",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+5.50",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "London’s",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+8.78",
+      "t": "S",
+      "n": "$aQuestion$cQ3"
+    },
+    {
+      "v": "S+10.51",
+      "t": "S",
+      "n": "$aQuestion$cQ4"
+    },
+    {
+      "v": "Berlin’s",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Amsterdam’s",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "364854_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "364849_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364851_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364850_0f",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364853_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364848_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "364863_0f",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

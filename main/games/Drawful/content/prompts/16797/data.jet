@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "super fête | une super fête ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Super fête ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368559_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

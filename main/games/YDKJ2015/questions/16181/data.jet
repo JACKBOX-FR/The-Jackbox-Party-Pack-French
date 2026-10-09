@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Because of the animals it shares body parts with, which of these food brands definitely WOULD NOT appeal to a sphinx?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Graine Kaytee BIRD ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Pour résoudre cette énigme, vous devez être PetSmart ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Nourriture Purina pour CHIENS",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Nourriture pour chats Fancy Feast ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "La nourriture HUMAINE de McDonald's ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "En raison des animaux avec lesquels il partage des parties du corps, laquelle de ces marques alimentaires NE SERAIT certainement PAS attrayante pour un sphinx ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Graine Kaytee BIRD ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Pour résoudre cette énigme, vous devez être PetSmart ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Nourriture Purina pour CHIENS ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Nourriture pour chats Fancy Feast ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "La nourriture HUMAINE de McDonald's ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "358253_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "358250_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "358249_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "358252_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "358247_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "358255_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

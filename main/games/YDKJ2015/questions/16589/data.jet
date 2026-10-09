@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Who’s got an ass that goes on for days?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Pinson d'Atticus ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Prends une fissure ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Sancho Panza ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Holden Caulfield ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Tonton ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qui a un cul qui dure des jours ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Pinson d'Atticus ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Prends une fissure ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Sancho Panza ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Holden Caulfield ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Tonton ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "364775_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364772_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364771_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364774_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364769_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "364777_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

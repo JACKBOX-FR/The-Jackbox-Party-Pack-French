@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Je suis vraiment désolé | Je suis vraiment désolé | Je suis désolé | Je suis désolé ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "je suis vraiment désolé ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

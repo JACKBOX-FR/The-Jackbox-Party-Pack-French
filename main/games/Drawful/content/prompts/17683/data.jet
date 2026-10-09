@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une interview sur le tapis rouge ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Entretien sur le tapis rouge ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

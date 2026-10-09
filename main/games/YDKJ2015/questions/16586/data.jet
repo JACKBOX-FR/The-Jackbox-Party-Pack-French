@@ -1,0 +1,184 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "4",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If these flowers I gave Cookie cause hin to change like the nain character in “Flowers for Algernon,” what’s gonna hatten to this dunny?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Il restera un idiot, mais tout le monde pensera que c’est un génie. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Languissant ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Il fera un dunny, puis pas un dunny, puis encore un dunny. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Il commencera comme un dunny, puis finira PAS comme un dunny. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Il restera un idiot. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si ces fleurs que j'ai données à Cookie le font changer comme le personnage naïf de « Fleurs pour Algernon », qu'est-ce qui va lui plaire à ce dunny ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Il restera un idiot, mais tout le monde pensera que c’est un génie. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Languissant ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Il fera un dunny, puis pas un dunny, puis encore un dunny. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Il commencera comme un dunny, puis finira PAS comme un dunny. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Il restera un idiot. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "364706_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "364701_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "364703_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "364702_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "364705_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "364710_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "364700_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "364712_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "364715_0",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "364708_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

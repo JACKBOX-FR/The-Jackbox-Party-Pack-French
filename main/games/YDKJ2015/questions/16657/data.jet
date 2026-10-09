@@ -1,0 +1,202 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Where would you see a bunch of middle-class Americans traveling to buy their clothes?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Say The Gap décide de déménager tous ses magasins à Cumberland Gap. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un centre commercial dans les Montagnes Rocheuses ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Et à la République Bananière, qu’elle représente ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un centre commercial dans les Appalaches ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un magasin d'usine dans la Vallée de la Mort ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un centre commercial dans les Ozarks ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.12 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Où verriez-vous un groupe d’Américains de la classe moyenne voyager pour acheter leurs vêtements ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Say The Gap décide de déménager tous ses magasins à Cumberland Gap. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un centre commercial dans les Montagnes Rocheuses ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Et à la République Bananière, qu’elle représente ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un centre commercial dans les Appalaches ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "an outlet store in Death Valley",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "a mall in the Ozarks",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+4.12",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "366168_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366165_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366164_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366167_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "366172_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366162_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "366174_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "366170_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

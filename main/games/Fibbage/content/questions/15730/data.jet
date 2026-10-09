@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "chauve, personnes âgées, affaires, divorcé, ivre, célibataire, uriner, religieux, très grand, sans emploi, travesti, jeune marié, irlandais, lait, fantôme, courrier, zombie, poubelle ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "les somnambules ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "nu ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "nu, déshabillé, nekkid ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La chaîne d'hôtels économiques Travelodge a rapporté qu'entre 2006 et 2007, environ 95 % des somnambules trouvés dans leurs hôtels étaient des hommes <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "348027_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un problème d'alcool|mon problème d'alcool ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Problème d'alcool ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

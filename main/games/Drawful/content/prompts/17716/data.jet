@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "baleine cachée|baleine cachée|une baleine cachée|une baleine cachée|une baleine cachée|baleine cachée ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Cacher une baleine ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

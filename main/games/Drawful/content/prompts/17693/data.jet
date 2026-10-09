@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "accident de cuisine|acide de cuisine|un accident de cuisine ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Accident de cuisine ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

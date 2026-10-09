@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "épée, sac de colostomie, fusil de chasse, licorne en peluche, fût, manteau de fourrure, bébé, beignets, voiture, mojo, appareil photo, tapis roulant, dîner, lotion pour les mains, grand-mère, petit ami, batte de baseball, tondeuse à gazon ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bande ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "chat ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "chats, chatte, chatte, chatte ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un homme en Floride a été arrêté pour avoir appelé le 911 pour se plaindre qu'il n'était pas autorisé à apporter son <BLANK> dans un club de strip-tease. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "325650_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

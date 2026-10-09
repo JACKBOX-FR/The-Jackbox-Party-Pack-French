@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Britney Spears|Porky Pig|Little Orphan Annie|Wendy’s mascot|Anne of Green Gables|Piggly Wiggly logo|Lolita|Pygmalion|Patrick Stewart",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "The Pigtail Man|Elsa|Chucky|Sulley|Pugsley Addams|Pippi Shortstocking",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "The Scarecrow’s wife|Rapunzel|Rattigan|pigtail monster|Cousin It|Punky Brewster",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Cindy Brady|Dorothy|Anna|Angelica|Boo|Wednesday Addams|Pippi Longstocking",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Make My Hair Look Like a Pig’s Ass",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>The Brady Bunch</i>|<i>The Wizard of Oz</i>|<i>Frozen</i>|<i>Rugrats</i>|<i>Monsters, Inc.</i>|<i>The Addams Family</i>|<i>Pippi Longstocking</i>",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "Britney Spears|Porky Pig|Little Orphan Annie|Wendy’s mascot|Anne of Green Gables|Piggly Wiggly logo|Lolita|Pygmalion|Patrick Stewart",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "The Pigtail Man|Elsa|Chucky|Sulley|Pugsley Addams|Pippi Shortstocking",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "La femme de l'épouvantail | Raiponce | Rattigan | monstre en queue de cochon | Cousin It | Punky Brewster ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Cindy Brady|Dorothy|Anna|Angelica|Boo|Mercredi Addams|Pippi Longstocking ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Faire ressembler mes cheveux à un cul de cochon ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "<i>La Bande Brady</i>|<i>Le Magicien d'Oz</i>|<i>La Reine des Neiges</i>|<i>Les Razmoket</i>|<i>Monsters, Inc.</i>|<i>La Famille Addams</i>|<i>Pippi Brindacier</i> ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "356334_1 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "356289_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "356290_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

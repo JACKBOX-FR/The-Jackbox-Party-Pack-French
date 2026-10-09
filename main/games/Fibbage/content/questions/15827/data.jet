@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "couple d'enfants dans un pardessus, bande de gerbilles collées ensemble, cheval à poil long, lion américain, tapis à poils longs, sculpture sur glace, vache en robe, projection vidéo, douzaine de chats collés ensemble, épouvantail, cochon mort, miroir, découpe en carton, sac en toile de jute peint, homme en pyjama jaune, chat sous une loupe, grande femme blonde, porte-manteau de fourrure ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "lion ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "grand chien ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Chien, toutou, gros chien, énorme chien, chien géant ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, un zoo en Chine a tenté de faire passer un <BLANK> pour un lion d'Afrique. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "350188_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "350191_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

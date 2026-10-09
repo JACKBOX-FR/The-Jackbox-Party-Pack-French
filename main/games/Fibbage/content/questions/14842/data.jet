@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Sauce aux haricots, Mister Bean, Sir Beans, Beanster Kirk, Professeur Beans, Bush Brother, Barry Beans, Fruit magique, Beanie Weenie, Campus Bean, Fiber King, Beans the Cowboy, Saucy Beanie, Beansifer, Farto, Van Camp, Beanigan, Fruit magique ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "haricots ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Capitaine Beany ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Capitaine Beany,Cptn. Beany, Cpt. Bonnet ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un homme du Pays de Galles, au Royaume-Uni, est tellement obsédé par les fèves au lard qu'en 1991, il a légalement changé son nom en <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "328834_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "328837_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

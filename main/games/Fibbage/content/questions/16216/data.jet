@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Rhode Head, Thrustie, Tallywacker, Slick Willy, Capitaine. Dickie, Dan Dong, Taint the Tiger, Stiffy, The Sperm, Throbber, Strokey, Rod, Professeur Boner, Magnum, One-Eyed Kyle, P. Niss, Ding-A-Ling, Coq Cockburn ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "hockey ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Scrotie",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Scroty ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Nom de la mascotte de hockey en forme de pénis de la Rhode Island School of Design. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "358944_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "358947_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

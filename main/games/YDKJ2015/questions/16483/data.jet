@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "duck, turkey, chicken",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disposez ces choses de volaille dans un turducken par ordre du PLUS INTÉRIEUR au PLUS EXTÉRIEUR : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "canard, dinde, poulet ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "L'accent est mis sur l'étron ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "poulet, canard, dinde ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "dinde, canard, poulet ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "canard, poulet, dinde ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.62 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "canard, dinde, poulet ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disposez ces choses de volaille dans un turducken par ordre du PLUS INTÉRIEUR au PLUS EXTÉRIEUR : ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "canard, dinde, poulet ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "L'accent est mis sur l'étron ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "poulet, canard, dinde ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "turkey, duck, chicken",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "duck, chicken, turkey",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.62",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "362584_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "362579_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "362581_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "362580_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "362583_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "362588_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "362578_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

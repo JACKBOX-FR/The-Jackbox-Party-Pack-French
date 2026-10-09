@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "bains à remous, le vent, mélangeurs, esprits, arroseurs, pigeons, hamsters, répartiteurs de police, fourmis, nuages, châteaux de sable, fantômes, portails, portes de garage, chiens, selles, radios de douche, digitaire ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "contrôle ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "cafards ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "un cafard,des cafards,un cafard,des mouvements de cafards,un mouvement de cafard,un mouvement de cafard,un mouvement de cafard ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "La société Backyard Brains vend un appareil qui vous permet de contrôler <BLANK> avec votre téléphone portable. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354439_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "354442_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

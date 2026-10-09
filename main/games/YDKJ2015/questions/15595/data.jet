@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If my cats were like the cat in the fairy tale <i>Puss in Boots</i>, what would they do for me?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "aide-moi à tuer une sorcière ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Contrôle des chattes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "impressionnez mon patron et obtenez-moi une promotion ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "aide-moi à briser une ancienne malédiction ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "accorde-moi trois vœux ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si mes chats étaient comme le chat du conte de fées <i>Le Chat Botté</i>, que feraient-ils pour moi ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,3,0,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "aide-moi à tuer une sorcière ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Contrôle des chattes ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "impressionnez mon patron et obtenez-moi une promotion ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "aide-moi à briser une ancienne malédiction ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "accorde-moi trois vœux ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "345009_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "345004_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "345006_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "345005_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "345008_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "345013_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "345003_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "345011_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

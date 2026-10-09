@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "mayonnaise, billes de peinture, pouding, beurre, raisins, insectes, crânes, boutons, papier d'aluminium, salade de macaronis, flan, ballons d'eau, ballons de football NERF, pots à lait, grenades, ballons de volley, papier bulle, ours en peluche ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "E.T. ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Gelée",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "gelée, gélatine, gélatine jell-o, gélatine gelée ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le son d'E.T. la marche a été faite par quelqu’un écrasant <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "321890_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

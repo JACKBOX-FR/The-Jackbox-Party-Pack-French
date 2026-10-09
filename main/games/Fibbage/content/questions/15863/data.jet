@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Peticles, Je ne peux pas y croire Boules de contamination, Sacs tristes, Vas Dobermans, Nonads, Bow Wowz, Besties Testes, Danglerz, Boules de fourrure, Copains câlins, Les meilleurs testicules de l'homme, Testicules presque réels, PetSets, Rad Nads, Boules de bêtes, HangLowz, HairBalls, Ball Reunion ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "synthétique ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Neuticules ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Nom de marque des testicules synthétiques (brevetés) pour animaux de compagnie. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "351007_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "351010_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

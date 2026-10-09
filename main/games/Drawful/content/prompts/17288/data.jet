@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "je ne peux pas ouvrir le pdf | je ne peux pas ouvrir le pdf ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Impossible d'ouvrir le pdf ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

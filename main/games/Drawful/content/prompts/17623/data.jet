@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "nous n'aurions pas dû acheter cette maison | nous n'aurions pas dû acheter cette maison ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Nous n'aurions pas dû acheter cette maison ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

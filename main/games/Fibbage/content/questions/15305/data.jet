@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "petites churls, orteils de sable, petits icebergs, Joseph Staline, bargs de glace, bip bops, petites berglettes, bébés bergs, barattes de glace, bergs pour enfants, gobelets à neige, morceaux de papa, éclats d'eau, petites charges, minuscules cubebergs, bébés de glace, palettes de papa, fantaisies fraîches ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "grogneurs ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "morceaux bergés ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "bergybits ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Selon la National Oceanic and Atmospheric Association, les petits icebergs sont officiellement appelés « growlers ». Les icebergs de taille moyenne portent l'étrange nom composé de deux mots « <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338297_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

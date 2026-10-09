@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un poisson qui fait un clin d'œil ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Poisson clignotant ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370757_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

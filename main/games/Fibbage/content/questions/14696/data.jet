@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Cuillères, Edwins, orteils, dés, monocles, nez, Steves, comptables, Cleveland, litière pour chat, boue, sable, poils pubiens, os de souris, boîtes, violons, peluches, dessous de verre. ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "a écrit ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Dés à coudre ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "le dé à coudre ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Edwin E. Holmes, un homme aux intérêts très spécifiques, a écrit le livre de 254 pages « A History of <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "326017_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "326020_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

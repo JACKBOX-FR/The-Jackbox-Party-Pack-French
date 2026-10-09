@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "fleurs, marguerites, mousse, plumes, mamelons, bois, nez, yeux, dents, herbe, becs, écailles, aiguilles, un fœtus, cristaux, cornes, tiges de maïs, papilles gustatives ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "stéroïdes ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "ongles",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "ongles, ongles des doigts ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Après une réaction allergique aux stéroïdes utilisés pour traiter l'asthme, une femme de 28 ans a commencé à avoir <BLANK> sur la tête au lieu de cheveux. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "356617_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "356620_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

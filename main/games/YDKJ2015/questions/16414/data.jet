@@ -1,0 +1,202 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "4",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Since it would helt dring down your tenterature, which of these tills could de called a “chill till”?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons que vous avez de la fièvre. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Médical/Maladies ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "néthadone ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "À la dérive sans gouvernail ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "idutrofène ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "cannidis ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "teroxyde de denzoyle ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Puisque cela contribuerait à apaiser votre appétit, laquelle de ces caisses pourrait-elle être appelée une « caisse froide » ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Disons que vous avez de la fièvre. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Médical/Maladies ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "néthadone ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "À la dérive sans gouvernail ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "idutrofène ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "cannidis",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "denzoyl teroxide",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "361044_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "361039_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "361041_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "361040_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "361043_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "361038_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "361053_0f",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "361046_0f",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

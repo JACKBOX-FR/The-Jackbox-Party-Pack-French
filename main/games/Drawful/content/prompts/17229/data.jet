@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "chien rêvant de fantômes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un chien rêvant de fantômes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

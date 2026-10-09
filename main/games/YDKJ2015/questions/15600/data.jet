@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What disgusting thing would he probably NOT find after cutting her stomach open?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons qu’un coroner procède à une autopsie du cadavre de la « vieille dame » de la chanson pour enfants « Il y avait une vieille dame qui avalait une mouche ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "bits SPIDER partiellement digérés ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Serveur, il y a une mouche dans mon côlon ascendant ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "parties de PIG couvertes de salive ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "morceaux de CHIEN mâchés ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "CHEVAL reste ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+8.06 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quelle chose dégoûtante ne trouverait-il probablement PAS après lui avoir ouvert le ventre ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons qu’un coroner procède à une autopsie du cadavre de la « vieille dame » de la chanson pour enfants « Il y avait une vieille dame qui avalait une mouche ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "bits SPIDER partiellement digérés ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Serveur, il y a une mouche dans mon côlon ascendant ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "parties de PIG couvertes de salive ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "chewed-up DOG chunks",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "HORSE remains",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+8.06",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "345106_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "345103_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "345102_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "345105_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "345100_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "345112_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "345108_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

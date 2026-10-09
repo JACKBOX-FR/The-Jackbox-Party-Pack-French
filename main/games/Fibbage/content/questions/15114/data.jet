@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "avocats, Russes, comptables, personnes nommées « Henry », vendeurs, laitiers, truands, théoriciens du complot, non-croyants, pilotes, trafiquants de drogue, rois, pharmaciens, anges, journalistes, voleurs à l'étalage, sénateurs, critiques ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Houdini ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "médiums ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "médium ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Harry Houdini a un jour menacé de tirer sur tous ces gens. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "334868_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "334871_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

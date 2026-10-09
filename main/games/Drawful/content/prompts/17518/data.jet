@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "chauffeur de lutin|chauffeur de leprachan|chauffeur de leprechaun|chauffeur de lepracha|chauffeur de leprachan ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "chauffeur de lutin ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370159_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

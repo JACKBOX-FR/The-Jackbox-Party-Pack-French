@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un visage avec une flèche pointant vers le nez | un visage avec une flèche pointant vers le nez ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Visage avec une flèche pointant vers le nez ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368513_2",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

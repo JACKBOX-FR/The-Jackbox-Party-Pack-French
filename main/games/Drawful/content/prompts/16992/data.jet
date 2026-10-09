@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "cheval déguisé|un cheval déguisé|un cheval déguisé ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Cheval déguisé ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

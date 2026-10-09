@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "head|tongue|cheeks|wheels|teeth|hair|glow worm|spinal cord|urine",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "wings|horns|stinger|telephone|handle|pull-string",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "mandibles|cloven hooves|hairy feet|flying bike|AA batteries|To infinity and beyond!",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "nose|abdomen|eyes|blade|fingertip|bulb|space suit",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "You’re Positively Glowing!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Rudolph the Red-Nosed Reindeer|firefly|<i>Village of the Damned</i> children|Frodo’s sword|E.T. |flashlight|Buzz Lightyear",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "head|tongue|cheeks|wheels|teeth|hair|glow worm|spinal cord|urine",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "wings|horns|stinger|telephone|handle|pull-string",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "mandibules|sabots fendus|pieds poilus|vélo volant|piles AA|Vers l'infini et au-delà ! ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "nez|abdomen|yeux|lame|bout des doigts|ampoule|combinaison spatiale ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Vous rayonnez positivement ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Rudolph le renne au nez rouge|luciole|Enfants du <i>Village des Damnés</i>|Épée de Frodon|E.T. |lampe de poche|Buzz l'Éclair ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "365752_0 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "365707_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "365708_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

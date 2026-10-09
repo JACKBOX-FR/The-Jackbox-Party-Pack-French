@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Quentin, Townsend, Francis, O, Oatley, Colin, Horace, Jared, Edmund, Sampson, Wallace, Oat Henry, Caled, Léviathan, Horatio, Randy, Cyrus, Sebastian ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Avoine ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Larry ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le nom de l'homme sur l'étiquette de Quaker Oats. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "337515_2",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

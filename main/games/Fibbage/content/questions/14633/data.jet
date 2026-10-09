@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Mal, L'heure du coucher, Étranger, Contremaître, Monstre, Crime, Hors de forme, Drogues, Russie, Russie, Pousseur, Ignorance, Godzilla, Racisme, Sinistre, Slip, Satan, Président ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Bande ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Carie dentaire ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Cavité, Cavités ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1976, la légende de la boxe Muhammad Ali a sorti un album éducatif pour enfants intitulé « Ali and His Gang Vs. Mr. <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324722_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

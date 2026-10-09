@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Brian dans une boîte | un cerveau dans une boîte ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Un cerveau dans une boîte ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

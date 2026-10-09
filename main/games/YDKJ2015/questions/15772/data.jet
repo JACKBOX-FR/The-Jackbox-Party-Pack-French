@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Considering the respective sizes of their instruments, which of these male musicians is the LEAST likely to be accused of “compensating for something”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Musique",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un hautbois ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Vous savez ce qu’on dit sur la taille de la frette d’un homme ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un joueur de piccolo ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un clarinettiste ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un bassoniste ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Compte tenu de la taille respective de leurs instruments, lequel de ces musiciens masculins est le MOINS susceptible d’être accusé de « compenser quelque chose » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Musique ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un hautbois ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Vous savez ce qu’on dit sur la taille de la frette d’un homme ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un joueur de piccolo ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un clarinettiste ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un bassoniste ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "348964_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "348961_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "348960_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "348963_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "348968_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "348958_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "personne qui ne ramasse pas les crottes de chien ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une personne qui ne ramasse pas les crottes de son chien ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

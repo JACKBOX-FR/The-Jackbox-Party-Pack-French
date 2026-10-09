@@ -1,0 +1,196 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If the Cheesecake Factory went completely “green,” what would be the only sauce they’d offer?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "sauce béchamel ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Réduire, Réutiliser, Réchauffer ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "sauce chimichurri ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "sauce hollandaise ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "sauce taupe ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si la Cheesecake Factory devenait complètement « verte », quelle serait la seule sauce qu’elle proposerait ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,2,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "sauce béchamel ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Réduire, Réutiliser, Réchauffer ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "sauce chimichurri ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "sauce hollandaise ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "sauce taupe ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "358695_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "358690_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "358692_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "358691_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "358703_1",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "358702_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "358694_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "358699_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "358689_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "358706_0f",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

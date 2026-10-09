@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "mine, rhinocéros, lac gelé, volcan, geyser, poteau, canon, crocodile, falaise, bulldozer, cercueil, lion, clôture électrique, toit, boule de démolition, échelle, katana, taureau mécanique ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "sexe ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "voie ferrée ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "chemin de fer, voies ferrées, voie ferrée, voies ferrées, traverse de chemin de fer ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2008, un couple a été tué en Afrique du Sud alors qu'il avait des relations sexuelles sur un <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317405_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "317408_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

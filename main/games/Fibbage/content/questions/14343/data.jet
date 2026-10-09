@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "déféquer, fumer, rire, dormir, se battre, uriner, toux, critiquer, applaudir, mourir, cracher, pleurer, manger, marié, rouler des yeux, faux orgasmes, s'accroupir, se tenir debout ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Singe ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Crier",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le Centre allemand des primates a mené une étude intitulée « Pourquoi les singes femelles <BLANK> pendant les rapports sexuels ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318843_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "318846_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

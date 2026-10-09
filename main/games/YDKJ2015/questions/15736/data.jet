@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would be most appropriate for Julius Caesar to say after fighting and defeating the Invisible Man?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Vidi, Vici.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Et Tu, Couteau Mystérieusement Flottant ? ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Veni, Vici.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Veni, Vidi.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Veni, Vidi, Vici.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quelle serait la réponse la plus appropriée de la part de Jules César après avoir combattu et vaincu l’Homme invisible ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Vidi, Vici.\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Et Tu, Couteau Mystérieusement Flottant ? ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Veni, Vici.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Veni, Vidi.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Veni, Vidi, Vici.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "348155_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "348152_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "348151_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "348154_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "348149_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

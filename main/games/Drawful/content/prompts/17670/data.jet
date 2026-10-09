@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "le coin des mauvais garçons ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le coin des mauvais garçons ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

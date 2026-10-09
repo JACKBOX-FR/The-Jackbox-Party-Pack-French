@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "sac d'épicerie réutilisable|sac d'épicerie réutilisable|un sac d'épicerie réutilisable ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sac d'épicerie réutilisable ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

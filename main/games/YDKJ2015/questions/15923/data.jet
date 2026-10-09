@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If Dr. Seuss’ Horton the Elephant ended up stranded on Elephant Island, what might he say to put a positive spin on his situation?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Géographie ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Une île est une île, aussi souterraine soit-elle. » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le naufragé au chapeau ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Une île est une île, peu importe à quel point C-C-C-C-COLD\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Une île est une île, aussi RADIOACTIVE soit-elle. » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Une île est une île, aussi DÉVIDE D'AIR.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si Horton l’Éléphant du Dr Seuss se retrouvait bloqué sur l’Île Éléphant, que pourrait-il dire pour donner une tournure positive à sa situation ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Géographie ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Une île est une île, aussi souterraine soit-elle. » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Le naufragé au chapeau ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Une île est une île, peu importe à quel point C-C-C-C-COLD\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Une île est une île, aussi RADIOACTIVE soit-elle. » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Une île est une île, aussi DÉVIDE D'AIR.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "352351_1",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "352348_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "352347_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "352350_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "352355_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "352345_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

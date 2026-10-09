@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If while cleaning up the remains of Humpty Dumpty, all the king’s horses and all the king’s men got covered in his “albumen,” what might they later ask their dry cleaner?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Nourriture ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Pouvez-vous retirer la COQUILLE D'OEUF des bonnets à plumes ?\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Voici un œuf sur votre pantalon ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Pouvez-vous extraire des BLANCS D’ŒUFS de chemises en coton gonflées ? » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Pouvez-vous retirer du SANG du crin de cheval ? » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Pouvez-vous retirer du JAUNE D'OEUF des collants en soie?\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si, en nettoyant les restes de Humpty Dumpty, tous les chevaux du roi et tous les hommes du roi étaient recouverts de son « albumine », que pourraient-ils demander plus tard à leur pressing ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Nourriture ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "\"Pouvez-vous retirer la COQUILLE D'OEUF des bonnets à plumes ?\" ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Voici un œuf sur votre pantalon ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Pouvez-vous extraire des BLANCS D’ŒUFS de chemises en coton gonflées ? » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Pouvez-vous retirer du SANG du crin de cheval ? » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Pouvez-vous retirer du JAUNE D'OEUF des collants en soie?\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "350073_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "350070_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "350069_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "350072_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "350067_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "350079_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "350075_0f",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

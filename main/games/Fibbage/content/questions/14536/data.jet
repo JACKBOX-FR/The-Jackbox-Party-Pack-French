@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Fairbanks, Beatrix, Quincy, Thé, Snoopy, Démocratie, Spot, King George, Président, Zippo, Molly, Scooter, Monster, Scamp, George Washington, Nike, Obama, Booger ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Junon ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "satan ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Lorsqu'il était président des États-Unis, John Adams avait un chien nommé Juno et un chien nommé <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "322781_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "322784_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

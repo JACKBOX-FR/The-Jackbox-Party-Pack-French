@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "je suis sorti en pantalon de survêtement ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Sortir en pantalon de survêtement ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

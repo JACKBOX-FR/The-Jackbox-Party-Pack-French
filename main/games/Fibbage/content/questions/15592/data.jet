@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "cage à ours, fosse à cobra, stand de tir, anus de cheval, cuve à fromage nacho, fosse septique, ring de combat de coqs, baleine, grotte de guêpes, volcan, moteur à réaction, tour nucléaire, tornade, cercueil enterré, mélangeur géant, machine à laver, piste NASCAR, bétonnière ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "coincé ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "broyeur à bois",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "broyeur à bois ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Miraculeusement, un homme de Longview, dans l'État de Washington, a survécu à un événement déchirant en 2014 lorsqu'il est resté coincé dans un <VIERGE> pendant dix secondes. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "344938_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "344941_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

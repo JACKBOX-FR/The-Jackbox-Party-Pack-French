@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would be the penalty for people checking out your butt?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que le logo sur la poche arrière de votre jean Versace ait les mêmes capacités que la créature magique qu'il représente. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Mythologie ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Vos fesses raconteraient une énigme, puis les brûleraient vives. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Des jeans méchants ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Vos fesses les transformeraient immédiatement en pierre. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Vos fesses chanteraient magnifiquement, puis les mangeraient. ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Vos fesses déclencheraient un puissant tourbillon. ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.96 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quelle serait la pénalité si les gens vérifiaient vos fesses ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que le logo sur la poche arrière de votre jean Versace ait les mêmes capacités que la créature magique qu'il représente. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Mythologie ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,3,2,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Vos fesses raconteraient une énigme, puis les brûleraient vives. ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Des jeans méchants ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Vos fesses les transformeraient immédiatement en pierre. ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Your butt would sing beautifully, then eat them.",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Your butt would unleash a powerful whirlwind.",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+6.96",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "354186_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "354183_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "354182_4",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "354185_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "354190_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "354180_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

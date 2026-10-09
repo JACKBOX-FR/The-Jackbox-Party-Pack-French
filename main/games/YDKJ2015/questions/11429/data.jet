@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If the infamous “Hollywood Madam” got a wax statue in the Hollywood Madame Toussaud’s, what could you see there?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "une Deborah Jeane Palfrey aux yeux morts ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Cire, descendre ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une Heidi Fleiss dans une pose maladroite ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un faux brun divin ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une Ashley Dupre inhabituellement brillante ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si la tristement célèbre « Hollywood Madam » avait une statue de cire dans le Hollywood Madame Toussaud’s, que pourrait-on y voir ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "une Deborah Jeane Palfrey aux yeux morts ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Cire, descendre ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "une Heidi Fleiss dans une pose maladroite ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un faux brun divin ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "une Ashley Dupre inhabituellement brillante ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "258940_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "258935_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "258937_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "258936_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "258939_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "258934_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

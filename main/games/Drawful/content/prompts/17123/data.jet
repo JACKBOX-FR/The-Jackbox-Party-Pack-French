@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "les vraies femmes au foyer ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "De vraies femmes au foyer",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369247_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

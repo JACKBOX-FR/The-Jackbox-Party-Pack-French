@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "wild rice|Olivia Wilde|Wild Berry Skittles|<i>Wild Heart</i>|<i>Wildfire</i>|<i>Wild Kratts</i>|<i>Wild Wonka</i>|Wild Turkey|<i>Wild Arms</i>",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "basically porn|<i>Wild John Malkovich</i>|<i>Bedtime for Bonzo</i>|<i>Man of the Wild House</i>|<i>Wild Boys II</i>|<i>Girls Gone Insane</i>",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "<i>Wild Ones</i>|<i>Catwoman</i>|<i>The Jungle Book</i>|MORE POWER!!|<i>The Wild Prince of Bel-Air</i>|<i>Classy</i>",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "<i>Beasts of the Southern Wild</i>|<i>Wild Things</i>|<i>Where Wild Things Are</i>|<i>Born To Be Wild</i>|<i>Wild Hogs</i>|<i>Wild Wild West</i>|<i>Girls Gone Wild</i>",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Let’s Get Wild",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Quvenzhane Wallis|Denise Richards |Catherine Keener|orphan orangutan |Tim Allen|Will Smith|drunk girls flashing breasts",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "wild rice|Olivia Wilde|Wild Berry Skittles|<i>Wild Heart</i>|<i>Wildfire</i>|<i>Wild Kratts</i>|<i>Wild Wonka</i>|Wild Turkey|<i>Wild Arms</i>",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "basically porn|<i>Wild John Malkovich</i>|<i>Bedtime for Bonzo</i>|<i>Man of the Wild House</i>|<i>Wild Boys II</i>|<i>Girls Gone Insane</i>",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "<i>Les Sauvages</i>|<i>Catwoman</i>|<i>Le Livre de la Jungle</i>|PLUS DE PUISSANCE !!|<i>Le Prince Sauvage de Bel-Air</i>|<i>Classique</i> ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "<i>Les bêtes sauvages du sud</i>|<i>Les choses sauvages</i>|<i>Où sont les choses sauvages</i>|<i>Nées pour être sauvages</i>|<i>Les porcs sauvages</i>|<i>Le Far West sauvage</i>|<i>Les filles sont devenues sauvages</i> ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Soyons sauvages ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Quvenzhane Wallis|Denise Richards |Catherine Keener|orang-outan orphelin |Tim Allen|Will Smith|filles ivres exhibant leurs seins ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "364258_0f ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "364213_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "364214_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

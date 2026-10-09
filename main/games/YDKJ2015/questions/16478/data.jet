@@ -1,0 +1,203 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "1",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What skin condition should I make sure not to contract?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "« ESSAYEZ DE NE PAS LAISSER LES CHOSES SOUS VOTRE PEAU » ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "rosacée ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Embrasse le cookie ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "la gale ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "eczéma ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "psoriasis ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.48 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Quelle affection cutanée dois-je m’assurer de ne pas contracter ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "« ESSAYEZ DE NE PAS LAISSER LES CHOSES SOUS VOTRE PEAU » ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "rosacée ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Embrasse le cookie ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "la gale ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "eczema",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "psoriasis",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+5.48",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "362478_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "362473_0f",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "362475_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "362474_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "362477_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "362472_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "362484_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "v": "362487_0f",
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "362480_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

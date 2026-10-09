@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Amenez votre fille au travail le jour ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Emmenez votre fille au travail le jour ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

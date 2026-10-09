@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "homme de la Renaissance|un homme de la Renaissance ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Homme de Renaissance ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368869_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

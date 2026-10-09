@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "librairie, Planet Hollywood, pizzeria, stand de hot-dogs, musée, poste de péage, métro, caserne de pompiers, pont, hôtel, bain turc, TGI Fridays, bar, calèche, kiosque à journaux, distributeur automatique, fontaine, bodega ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Einstein ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "coffre-fort ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "coffre-fort, coffre-fort ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Curieusement, les globes oculaires d’Albert Einstein se trouvent dans un <BLANK> à New York. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339036_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "339039_1",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

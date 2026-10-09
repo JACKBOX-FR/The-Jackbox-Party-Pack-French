@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "respiration, prière, toilettage des chats, tailleur, yodel, jardinage, nettoyage, tonte de la laine, danse carrée, herbe, escargots, tortues, flatlines médicales, une caméra Wilford Brimley 24 heures sur 24, bingo, couples s'abstenant de sexe, passer l'aspirateur, faire du jogging ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Norvège ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "tricoter ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "comment tricoter, point à l'aiguille ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Dans le but de promouvoir la « télévision lente », la Norvège a consacré en 2013 un bloc de programmes de 12 heures à <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "329348_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Sûr, convivial, entièrement formé, fin heureuse, pas effrayant, ne vous tuera pas, professionnel, sucette, dentiste, primé, sans peur, génie, apaisant, meilleur dentiste, à pleines dents, libre, apaisant, mains aimantes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "dentaire ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Indolore ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "moins de douleur ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ce que le Dr Edgar Parker a légalement changé son prénom, afin d'aider son cabinet dentaire. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349407_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "349410_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

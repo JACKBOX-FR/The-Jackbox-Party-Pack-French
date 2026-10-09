@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "uriner, boire, manger, faire l'amour, danser, allaiter, transpirer, confus, conduire, se doucher, chanter l'hymne national, cuisiner, ovuler, se divertir, faire caca, passer des vacances, réfléchir, nager ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cheveux ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "dormir ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "tu dors, tu dors, tu dors, tu dors, tu dors, tu dors, tu dors ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Avertissement actuel sur le sèche-cheveux Vidal Sassoon : \"Ne pas utiliser pendant <VIDE>.\" ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "330574_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

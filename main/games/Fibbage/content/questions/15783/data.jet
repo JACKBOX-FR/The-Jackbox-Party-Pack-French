@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "nu, invisible, mort, laid, gonflé, Dieu, volant, chauve, fatigué, terrifié, en feu, à l'envers, plus attrayant, sous l'eau, couvert d'abeilles, le sexe opposé, réussi, un personnage de dessin animé ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "miroir ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "souriant ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, des chercheurs de l’Université de Tokyo ont développé le reflet incendiaire, un miroir qui donne l’impression que vous êtes <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349240_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

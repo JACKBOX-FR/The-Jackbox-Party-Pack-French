@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would be the best advice, considering who has the THIRD-LARGEST stockpile of nuclear weapons?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« N’énervez pas le Royaume-Uni. » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Après tout, le monde est incroyablement petit ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Ne faites pas chier la France.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Ne faites pas chier la Corée du Nord.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Ne faites pas chier la Chine.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Quel serait le meilleur conseil, compte tenu de qui possède le TROISIÈME PLUS GRAND stock d’armes nucléaires ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,0,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« N’énervez pas le Royaume-Uni. » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Après tout, le monde est incroyablement petit ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "\"Ne faites pas chier la France.\" ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "\"Ne faites pas chier la Corée du Nord.\" ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "\"Ne faites pas chier la Chine.\" ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366256_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "366251_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366253_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366252_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366255_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "366260_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366250_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

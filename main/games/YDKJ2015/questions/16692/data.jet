@@ -1,0 +1,180 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If I get my prostate exam in the PROSTRATE position, what would my doctor say?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Lève-toi et écarte ces joues ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je fais du bachotage pour mon examen rectal ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Ventre par terre et écarte les joues ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Mettez-vous à vos côtés et écartez ces joues ! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Retour au sol et écarte ces joues ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Si je passe mon examen de la prostate en position PROSTRATE, que dirait mon médecin ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "« Lève-toi et écarte ces joues ! » ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je fais du bachotage pour mon examen rectal ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Ventre par terre et écarte les joues ! » ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "« Mettez-vous à vos côtés et écartez ces joues ! » ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "« Retour au sol et écarte ces joues ! » ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366878_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366875_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366874_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366877_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "366882_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366872_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

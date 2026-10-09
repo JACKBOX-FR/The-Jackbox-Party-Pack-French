@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "file d'attente netflix|repère netflix|netflix q ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ma file d'attente Netflix ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

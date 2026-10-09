@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Il pleut des têtes|il pleut des têtes|il pleut des têtes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Il pleut des têtes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

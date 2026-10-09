@@ -1,0 +1,217 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "3",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Dot, dot, dot, dash, dash, dash, dot, dot, dot.",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "De quel album des Beatles je décris ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Route de l'abbaye ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Yoko n'a none remords ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Au secours ! ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Qu'il en soit ainsi ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Sous-marin jaune ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+2.29 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Point, point, point, tiret, tiret, tiret, point, point, point. ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "De quel album des Beatles je décris ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,2,3,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "Route de l'abbaye ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Yoko n'a none remords ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "Au secours ! ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Let It Be",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "Yellow Submarine",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+2.29",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "358450_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "358447_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "358446_0f",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "358458_0",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "358457_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "358449_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "358454_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "358444_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "358456_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "358452_0",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "358461_0f",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

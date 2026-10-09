@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "barbe d'abeille|une barbe d'abeilles ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Barbe d'abeilles ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

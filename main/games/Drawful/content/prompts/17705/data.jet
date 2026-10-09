@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "ces gars des publicités Sonic|les gars de la publicité Sonic|Commercial Sonic ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Ces gars dans la voiture de ces publicités Sonic ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

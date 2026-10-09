@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "le dessin animé new-yorkais|un dessin animé new-yorkais ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Caricature new-yorkaise ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "In the nursery rhyme “Wee Willie Winky,” what’s covering up Wee Willie Winky’s wee willie?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,2,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "la CHAUSSURE EN BOIS dans laquelle il navigue ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Les Britches de Londres tombent ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "la CHEMISE DE NUIT qu'il porte ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Rien... il est COMPLÈTEMENT NU ! ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "le COSTUME DE LOUP qu'il porte ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Dans la comptine « Wee Willie Winky », qu'est-ce qui cache le petit willie de Wee Willie Winky ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "0,2,3,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "la CHAUSSURE EN BOIS dans laquelle il navigue ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Les Britches de Londres tombent ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "la CHEMISE DE NUIT qu'il porte ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "Rien... il est COMPLÈTEMENT NU ! ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "le COSTUME DE LOUP qu'il porte ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "360805_3",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "360802_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "360801_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "360804_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "360799_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "360811_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "360807_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un combat de mimes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Combat de mimes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368591_0f",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

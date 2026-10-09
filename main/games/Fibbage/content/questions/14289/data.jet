@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Poopy, Bamba, Kitty Cat, Snooki, Chevilles, Snaggletooth, Short en jean, Dingleberry, Fleurs, Cranky, La, Soleil, Parfum, Bain, Soft Rock, Câlins, Draps de satin, Fergie ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cartel de la drogue ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Barbie ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "barbie ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Edgar Valdez Villarreal, un célèbre chef du cartel de la drogue mexicain, portait le surnom pas si effrayant de « La <BLANK> ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317699_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

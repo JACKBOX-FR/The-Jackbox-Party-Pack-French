@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "camion, dent, brosse à dents électrique, grille-pain, télévision, tasse, téléphone portable, lit, ordinateur portable, lampe, poupée, chaise, vase, plaque chauffante, plateau de service, clarinette, lustre, fenêtre ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "eBay ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "pointeur laser ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pointeur laser, pointeur lumineux laser, pointeur lumineux laser ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le premier objet répertorié sur eBay était un <BLANK> cassé. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "330275_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "330278_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

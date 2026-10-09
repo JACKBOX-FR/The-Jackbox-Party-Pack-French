@@ -1,0 +1,198 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "2",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Like my former intern Freddy, which of these <i>Alice in Wonderland</i> characters is most likely to have an obituary that reads: “Ate some bad oysters”?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "la reine de coeur ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tweedle Dee et Tweedle Morts ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "le morse et/ou le charpentier ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "la fausse tortue ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "le lièvre de mars ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Comme mon ancien stagiaire Freddy, lequel de ces personnages d'<i>Alice au Pays des Merveilles</i> est le plus susceptible d'avoir une nécrologie qui dit : « J'ai mangé de mauvaises huîtres » ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,2,1,0 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "la reine de coeur ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Tweedle Dee et Tweedle Morts ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "le morse et/ou le charpentier ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "la fausse tortue ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "le lièvre de mars ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "361306_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "361301_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "361303_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "361302_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "361314_2",
+      "t": "A",
+      "n": "aPrize"
+    },
+    {
+      "v": "361313_0",
+      "t": "A",
+      "n": "aPrizePre"
+    },
+    {
+      "v": "361305_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "v": "361310_0",
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "361300_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "361312_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "361308_0",
+      "t": "A",
+      "n": "aW1"
+    },
+    {
+      "v": "361317_0f",
+      "t": "G",
+      "n": "gPrize"
+    }
+  ]
+}

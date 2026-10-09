@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une cicatrice cool ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Cicatrice cool ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370627_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

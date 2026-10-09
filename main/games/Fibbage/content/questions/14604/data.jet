@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Freddy Krueger, Dracula, Aquaman, Homer Simpson, Ronald Reagan, Wonder Woman, une infirmière sexy, Vincent Price, Rainbow Brite, Hulk Hogan, Bill Clinton, Cher, M. T, Spiderman, un chat, Wayne Newton, Bob Costas, Marilyn Monroe ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Halloween ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "lui-même",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "George Bush, George H. W. Bush, George H. W. Bush, George HW Bush, George H W Bush, lui-même, le président Bush, le président George H. W. Bush, le président George H. w. Bush, président George HW Bush, président George H W Bush ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1988, George H. W. Bush a célébré Halloween en se déguisant en <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324135_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

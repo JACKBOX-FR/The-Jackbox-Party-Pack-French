@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Tireurs, Gratuit, Espions, vs. Coca-Cola, Zombies, Île, Clowns, Pepsi Pepsi, Raid, Croisière dans la jungle, Aventure, Monde, Punks, Manie, Attaque, Meurtre mystère, Fallout, Perd ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Coca Cola ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Envahisseurs ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Coca-Cola a commandé un jour à Atari un jeu vidéo appelé <i>Pepsi <BLANK></i>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "346204_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

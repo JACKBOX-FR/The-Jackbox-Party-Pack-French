@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Who would get the most use out of a Kindle Bindle?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un requin féru de technologie ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Prends deux comprimés et appelle-moi le matin ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un clochard féru de technologie ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un chevalier féru de technologie ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un fantôme féru de technologie ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qui tirerait le meilleur parti d’un Kindle Bindle ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,0,2,1 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "un requin féru de technologie ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Prends deux comprimés et appelle-moi le matin ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "un clochard féru de technologie ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "un chevalier féru de technologie ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "un fantôme féru de technologie",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "366412_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "366407_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "366409_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "366408_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "366411_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "366406_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "366414_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

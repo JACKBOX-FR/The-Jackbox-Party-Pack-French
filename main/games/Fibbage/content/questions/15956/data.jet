@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Oiseaux, sexting, feuilles, sculptures, dormir, hiboux, se masturber, cerfs-volants, hululements, combats, sifflements, amoureux, études, elfes, surf, banderoles, fantômes, dortoirs ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "arbres ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Hippies ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Calum Wright, alors qu'il était étudiant à l'UC Berkeley, a lancé une organisation nommée « Students Against <BLANK> in Trees ». ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "353013_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "353016_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

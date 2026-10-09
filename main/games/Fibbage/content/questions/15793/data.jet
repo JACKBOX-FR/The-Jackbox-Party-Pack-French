@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "épouvantails, canaris, robots, pandas, chats avec lasers, ninjas, enfants, gerbilles, cochons, médiums, signes de politesse, pièges à ours, feux confinés, cobras, le système d'honneur, abeilles tueuses, chèvres, mines terrestres ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "régions rurales ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "oies ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Au lieu d’avoir des chiens de garde, la police des zones rurales de la province chinoise du Xinjiang utilise <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "349453_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "349456_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

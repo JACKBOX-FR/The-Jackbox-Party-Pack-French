@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "il y a trois ans|il y a 3 ans|il y a 3 ans ? ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Il y a trois ans ? ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

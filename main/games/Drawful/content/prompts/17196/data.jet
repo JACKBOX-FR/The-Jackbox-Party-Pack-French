@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une tête de chat géante attaque une église ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Une tête de chat géante attaque une église ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "lézard fatigué, hamster excité, clown triste, Rango, grand bâton, ciseaux pour les mains, lécheur de chien, capitaine pirate, petit feu, celui qui joue Willy Wonka, ombre à paupières, acteur juste, actrice, perte de temps, homme gothique, ours sexy, cheveux longs, vagabond riche ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Johnny Depp ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "métamorphe ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "métamorphe ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Johnny Depp a été nommé membre honoraire de la nation Comanche et a reçu un nom descriptif Comanche. Son nom Comanche, Mah-Woo-Meh, signifie <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "350357_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "350360_4",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

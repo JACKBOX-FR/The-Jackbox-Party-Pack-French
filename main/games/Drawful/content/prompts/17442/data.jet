@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Vidéo de Beyoncé|une vidéo de Beyoncé ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Vidéo de Beyoncé ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "370007_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

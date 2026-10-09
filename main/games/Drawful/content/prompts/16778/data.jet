@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "affreux Noël|horrible Noël|un horrible Noël ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Noël horrible ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368519_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

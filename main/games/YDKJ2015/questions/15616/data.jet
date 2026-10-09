@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "If he wanted to use a “straw man” argument against her, what might he do?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que l'épouvantail du <i>Le Magicien d'Oz</i> affronte la méchante sorcière de l'Ouest lors d'un débat public. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Autre ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "prouver que la méchante sorcière a tort en utilisant des données statistiques ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Si seulement j'avais un Brain Trust ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "déformer la position de la méchante sorcière sur ces questions ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "attaquer le personnage de la méchante sorcière plutôt que les problèmes ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "interrompre la méchante sorcière avant qu'elle ait fini ses points ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "S’il voulait utiliser contre elle un argument d’« homme de paille », que pourrait-il faire ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que l'épouvantail du <i>Le Magicien d'Oz</i> affronte la méchante sorcière de l'Ouest lors d'un débat public. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Autre ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "1,0,3,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "prouver que la méchante sorcière a tort en utilisant des données statistiques",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Si seulement j'avais un Brain Trust ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "déformer la position de la méchante sorcière sur ces questions ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "attack the Wicked Witch’s character rather than the issues",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "interrupt the Wicked Witch before she finishes her points",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "345486_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "345483_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "345482_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "345485_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "345480_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "345492_1",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "345488_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

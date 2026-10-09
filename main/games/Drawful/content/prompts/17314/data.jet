@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "crémeux contre gros ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Crémeux ou épais ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369732_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "diamants, roches lunaires, grenouilles, lave, bonbons, tacos, billes, clous, têtards, balles de tennis, boutons, argent, boulettes de viande, sang, dés à coudre, CD ABBA, hommes, bière ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "il pleut ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "araignées ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Les choses inhabituelles qui seraient tombées du ciel sur la province de Salta, en Argentine, le 6 avril 2007. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354346_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "354349_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

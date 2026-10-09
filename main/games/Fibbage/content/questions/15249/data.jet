@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Tide, spackle, colle Elmer's, huile moteur, cacahuètes de cirque, Odor Eaters, lotion, filament, déodorant Old Spice, Axe Body Spray, fard à paupières, Q-Tips, levure chimique, spermicide, tampons, Nicorette, tapis, solution de contact ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cuillerée ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Vaseline ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Bien que dégoûtant, le chimiste Sir Robert Cheseborough a affirmé qu'il mangeait chaque jour une cuillerée de son invention, <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "337009_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "337012_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

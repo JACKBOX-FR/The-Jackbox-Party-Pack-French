@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "lapdance, dance-off, marathon, combat au couteau, concours de t-shirts mouillés, match de football, kegstand, service funéraire, cours de zumba, orthographe, slam poétique, course en fauteuil roulant, tour de skateboard, projection Twilight, concours de dégustation de tartes, saisie de drogue, course de taureaux, flash mob ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "107 ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "fusillade",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "fusillade, fusillade, fusillade ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Monroe Isadore, un homme de 107 ans originaire de l'Arkansas, est décédé lors d'un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "319569_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

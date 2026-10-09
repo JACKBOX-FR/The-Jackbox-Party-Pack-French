@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Xoyxy, Flaxquig, Wgpa, Pce, Kokokokokokokokokokoko, Arghhhhhhhhh, Falgrdowk, Pruc, Lplp, Xxx, Prce, Onomatopée, Kpelck, Qnq, Entrepreneuriat, Glpngr, Spknpg, Uyuyuyuy ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "télévendeurs ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Pppppppppprix ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "pppppppppprix,ppppppppprix,pppppppprix,ppppppprix,pppppprix,ppppprix ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Pour rendre la prononciation extrêmement difficile pour les télévendeurs, Tim Price a changé son nom en 2012 pour Tim <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "324553_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "324556_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

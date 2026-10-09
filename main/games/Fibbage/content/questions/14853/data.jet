@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "beignets, chips de pommes de terre, Snickers, oranges, tacos, Whoppers, oursons gummi, Tic Tacs, bananes, cacahuètes, Cheez-Its, gressins, ailes de poulet, cornichons, cupcakes, mini-carottes, tranches de pizza, bâtonnets de poisson ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Boulon ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "McNuggets ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "nuggets de poulet ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Parce qu'il trouvait la nourriture chinoise étrange, lors des Jeux olympiques de Pékin en 2008, le sprinter Usain Bolt a déclaré qu'il avait fini par en manger 1 000 <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "329054_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

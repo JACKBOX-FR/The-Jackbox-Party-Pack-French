@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "jouets en bois, dames nues, vie de boy-scout, accidents horribles, origami, scandales de célébrités, pêche, science-fiction, prêtrise, agriculture, ânes, golf, crime, actualité musicale, voitures, observation des oiseaux, mode féminine, canotage ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "vol ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "apiculture ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "apiculture,abeilles,apiculteurs,apiculteurs,l'abeille ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le premier reportage sur les vols des frères Wright n’est pas apparu dans un journal ou à la radio, mais dans un petit journal consacré au thème de <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "339841_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "339844_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

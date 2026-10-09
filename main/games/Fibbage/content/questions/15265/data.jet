@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Pepcid, Fizzo, Cola-Cola, Eau brune, Cola aux noix, Sourire, Docteur Pep, Friandise sucrée, Tonique d'été, Soleil, Eau amusante, Tastey Wow, Digestif du matin, Caca buvable, Jus de jambon, Papsi, 6-Up, America Cola ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Pepsi ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "La boisson de Brad ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Boisson Brads ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le nom original de Pepsi. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "337377_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "animaux de compagnie, cheveux, parents, appareils photo, conjoint, oreillers, ennemis, nourriture, bagages, famille adoptée, nounous, magazines, maîtresse, photos de famille, nains de jardin, employés, vêtements, voiture ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "vacances ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "animaux en peluche ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "animaux jouets ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Unagi Travel est une agence de voyages japonaise insolite qui envoie votre <BLANK> en vacances. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "328191_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

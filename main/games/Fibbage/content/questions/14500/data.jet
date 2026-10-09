@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Toledo, Nouveau-Brunswick, Mexique, New Jersey, Portland, Boston, Boise, Libertyville, IL, Paris, Québec, Nouvelle-Zélande, Paris, Funkytown, Honduras, Chicago, Mars, la lune, Santa Fe ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Saddam ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Détroit ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Détroit Michigan, Détroit, Michigan, Détroit, MI ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1980, Saddam Hussein a été nommé citoyen honoraire de <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "322000_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

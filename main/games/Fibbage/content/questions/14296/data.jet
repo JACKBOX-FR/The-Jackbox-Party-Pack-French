@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "ivre, dormir, sourd, défoncé, mâcher du chewing-gum, aveugle, pas sur le cheval, tricoter, faire caca, danser, irlandais, obèse, sans bras, français, fredonner, évanoui, à l'envers, debout ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "jockey ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "mort ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "étant mort, pas vivant, non vivant, pas vivant, il était mort ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Frank Hayes est le premier jockey à remporter une course en <VIDE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317832_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

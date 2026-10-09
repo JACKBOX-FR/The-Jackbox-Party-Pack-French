@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "la Statue de la Liberté, Mona Lisa, le Mont Rushmore, un ballon de basket, Airforce One, le Penseur, le Colisée, la Maison Blanche, la Grande Muraille de Chine, le Grand Sphinx, une pelote de ficelle, un crayon, quatre voitures, des montagnes russes, Big Ben, un épouvantail, une pizza, un trophée de bowling ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "marié ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "la Tour Eiffel ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "tour eiffel, la tour eiffle, la tour eifle ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2007, une femme atteinte d'une maladie rare qui l'attire sexuellement vers des objets inanimés s'est mariée <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "321451_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "321454_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

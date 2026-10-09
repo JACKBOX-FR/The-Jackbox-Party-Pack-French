@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une guerre des licornes|la guerre des licornes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Guerre des licornes ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "369500_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

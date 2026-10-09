@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "le sous-sol de ta mère, Boogie Out, un pull qui démange, l'espace, Madrid, la baignoire, le paradis, mon cœur, Berlin, tes rêves, le Nouvel An, la salle de réunion, une ruelle, ma banquette arrière, le nu, le lit, ta moustache, la santé mentale ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Eddie Murphy ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Ton cul ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'acteur Eddie Murphy a sorti une chanson dance en 1982 intitulée \"Boogie in <BLANK>\". ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "346782_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

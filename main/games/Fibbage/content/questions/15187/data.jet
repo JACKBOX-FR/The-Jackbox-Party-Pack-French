@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "sueur, vomissements, maquillage, éruptions cutanées, larmes, piqûres, salive, tatouages tribaux, peinture corporelle, cheveux, BO, rayures, marques, empreintes de pouce, banderoles, jus d'adolescent, contusions, verrues ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "étreindre ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "paillettes ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "TWEET DE CÉLÉBRITÉ ! 01h07 - 2 août 13 @taylorswift13 a tweeté \"Merci pour ce soir, Des Moines. J'ai trouvé des quantités infinies de <BLANK> sur mes bras en serrant beaucoup d'entre vous dans mes bras ce soir.\" ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "335565_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "335568_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

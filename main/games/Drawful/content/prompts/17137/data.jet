@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une soirée hot-dog hula hoop ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Fête de hot-dog Hula Hoop ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

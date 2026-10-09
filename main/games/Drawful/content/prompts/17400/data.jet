@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une assiette sur la tête|une assiette sur une tête|une assiette sur une tête ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Plaque sur la tête ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

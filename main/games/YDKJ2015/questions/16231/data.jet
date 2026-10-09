@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What would you expect to see in a Spring Break video called <i>Girls Gone “Call of the Wild”</i>?",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "filles nues commettant du cannibalisme dans les Andes ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Flashez-les si vous les avez ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "les filles exhibent leurs seins alors qu'elles cherchent l'or du Klondike ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "des filles soulevant leurs chemises pendant qu'elles combattent pendant la Révolution espagnole ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "des filles s'exposent en harponnant une baleine ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "Qu'attendriez-vous de voir dans une vidéo de Spring Break intitulée <i>Girls Gone \"Call of the Wild\"</i> ? ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "Littérature ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "filles nues commettant du cannibalisme dans les Andes ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Flashez-les si vous les avez ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "les filles exhibent leurs seins alors qu'elles cherchent l'or du Klondike ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "des filles soulevant leurs chemises pendant qu'elles combattent pendant la Révolution espagnole ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "des filles s'exposent en harponnant une baleine ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "359316_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "359313_1",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "359312_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "359315_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "359310_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un thérapeute qui s'ennuie ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Thérapeute qui s'ennuie ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

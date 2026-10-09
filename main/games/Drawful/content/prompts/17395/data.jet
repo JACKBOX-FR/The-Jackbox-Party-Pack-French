@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "un magasin d'antiquités|un magasin d'antiquités ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Boutique d'antiquités ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

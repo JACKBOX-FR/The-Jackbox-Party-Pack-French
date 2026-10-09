@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "voiture, vie après la mort, grenier, autre canapé, poubelle, buanderie, boîte aux lettres, baignoire, four, lave-vaisselle, micro-ondes, toilettes, cour arrière, armoire à alcool, lit, cour avant, hangar, armoire à pharmacie ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "télécommandes ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "réfrigérateur ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "réfrigérateur ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Selon une étude Logitech, 49 % des télécommandes perdues se trouvent dans le canapé, tandis que 4 % se trouvent dans le <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "318889_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

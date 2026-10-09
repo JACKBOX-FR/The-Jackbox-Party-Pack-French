@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bOpponent"
+    },
+    {
+      "v": "Yahtzee|Jenga|Chutes and Ladders|Hungry Hungry Hippos|Don’t Break the Ice|Fireball Island|Balderdash|Scattergories |Settlers of Catan",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Candy Land|Clue|Ticket to Ride|Risk|Cranium |Parcheesi",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Jumanji |Letters with Friends|Scene It|Dice|Don’t Spill the Beans!|My Apologies!",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Monopoly |Mousetrap |Scrabble |Game of Life |Trivial Pursuit |Clue|Sorry!",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "You’re Spacing Out, Man!",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "“Go To Jail” |“Take Cheese”|“Double Word Score”|“Pay Day”|“Roll Again”|“Dining Room”|“Slide”",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "Yahtzee|Jenga|Chutes and Ladders|Hungry Hungry Hippos|Don’t Break the Ice|Fireball Island|Balderdash|Scattergories |Settlers of Catan",
+      "t": "S",
+      "n": "tDecoyGen"
+    },
+    {
+      "v": "Candy Land|Clue|Ticket to Ride|Risk|Cranium |Parcheesi",
+      "t": "S",
+      "n": "tDecoyA"
+    },
+    {
+      "v": "Jumanji | Lettres avec des amis | Scène | Dés | Ne renversez pas les haricots ! | Mes excuses ! ",
+      "t": "S",
+      "n": "tDecoyB"
+    },
+    {
+      "v": "Monopoly | Piège à souris | Scrabble | Jeu de la vie | Trivial Pursuit | Indice | Désolé ! ",
+      "t": "S",
+      "n": "tMatches"
+    },
+    {
+      "v": "Tu t'espaces, mec ! ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "« Aller en prison » | « Prendre du fromage » | « Double score de mots » | « Jour de paie » | « Rouler à nouveau » | « Salle à manger » | « Slide » ",
+      "t": "S",
+      "n": "tQuestions"
+    },
+    {
+      "v": "365508_0 ",
+      "t": "A",
+      "n": "aEStandalone"
+    },
+    {
+      "v": "365463_0 ",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "365464_0 ",
+      "t": "A",
+      "n": "aClue"
+    }
+  ]
+}

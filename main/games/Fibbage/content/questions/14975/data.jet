@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "homme lunaire, diable, pouce vers le bas, rat mort, langue, serpent, gâteau de mariage écrasé, garçon de piscine, contrat de mariage, avocat, sac d'argent, mouffette, pénis, démon, homme souriant, fantôme, crotte, arc-en-ciel ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "érigé ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "majeur ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "doigt, donner le doigt, donner le doigt, donner le doigt ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2013, un riche homme du Michigan a acheté la maison à côté de son ex-femme et a érigé une statue géante en bronze représentant un <VIERGE>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "331677_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

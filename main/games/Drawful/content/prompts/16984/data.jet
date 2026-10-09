@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Rocky 4|rocky quatre|rocky iv ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Rocheux4 ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

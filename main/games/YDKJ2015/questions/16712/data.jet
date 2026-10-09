@@ -1,0 +1,201 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "What could you do?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que vous vouliez télécharger autant d'applications sur votre téléphone Samsung Galaxy qu'il y a d'étoiles dans la Voie lactée. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "téléchargez environ 30 000 MILLIARDS de versions d'Angry Birds ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je suis dans l'espace sur mon téléphone ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "téléchargez environ 300 MILLIARDS d'applications de reconnaissance de chansons ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "téléchargez environ 10 MILLIARDS d'applications de puzzle ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "téléchargez environ 50 MILLIONS d'applications de retouche photo ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+7.08 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Que pourrais-tu faire ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Supposons que vous vouliez télécharger autant d'applications sur votre téléphone Samsung Galaxy qu'il y a d'étoiles dans la Voie lactée. ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "2,1,0,3 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "téléchargez environ 30 000 MILLIARDS de versions d'Angry Birds ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Je suis dans l'espace sur mon téléphone ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "téléchargez environ 300 MILLIARDS d'applications de reconnaissance de chansons ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "download about 10 BILLION puzzle apps",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "download about 50 MILLION photo-editing apps",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+7.08",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "367285_0f",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "367282_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "367281_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "367284_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "367279_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "v": "367291_0",
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "v": "367287_0",
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

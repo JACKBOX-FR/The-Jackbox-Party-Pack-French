@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Je ne t'aime pas | Je ne t'aime pas ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "je ne t'aime pas ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW3"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW1"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bW2"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "bIntro2"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "bIntro"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumper"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nPrize"
+    },
+    {
+      "v": "0",
+      "t": "N",
+      "n": "nBumperPlacement"
+    },
+    {
+      "v": "Ergo, how long was the next major “-argo” embargo, between <i>Fargo</i> and <i>Argo</i>?",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Le film <i>Key Largo</i> est sorti en 1948 et le prochain film majeur « -argo » était <i>Fargo</i>, il peut donc y avoir eu un embargo secret « -argo ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "7 ans ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Escargot pour Margot ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "17 ans ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "12 ans ",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00 ",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "22 ans ",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+8.58 ",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "Ergo, combien de temps a duré le prochain embargo majeur « -argo », entre <i>Fargo</i> et <i>Argo</i> ? ",
+      "t": "S",
+      "n": "tQ2"
+    },
+    {
+      "v": "Le film <i>Key Largo</i> est sorti en 1948 et le prochain film majeur « -argo » était <i>Fargo</i>, il peut donc y avoir eu un embargo secret « -argo ». ",
+      "t": "S",
+      "n": "tQ1"
+    },
+    {
+      "v": "none ",
+      "t": "S",
+      "n": "tSubject"
+    },
+    {
+      "v": "3,1,0,2 ",
+      "t": "S",
+      "n": "tMCOrder"
+    },
+    {
+      "v": "7 ans ",
+      "t": "S",
+      "n": "tW3"
+    },
+    {
+      "v": "Escargot pour Margot ",
+      "t": "S",
+      "n": "tCat"
+    },
+    {
+      "v": "17 ans ",
+      "t": "S",
+      "n": "tRight"
+    },
+    {
+      "v": "12 years",
+      "t": "S",
+      "n": "tW1"
+    },
+    {
+      "v": "S+0.00",
+      "t": "S",
+      "n": "$aQuestion$cQ1"
+    },
+    {
+      "v": "22 years",
+      "t": "S",
+      "n": "tW2"
+    },
+    {
+      "v": "S+8.58",
+      "t": "S",
+      "n": "$aQuestion$cQ2"
+    },
+    {
+      "v": "262669_0",
+      "t": "A",
+      "n": "aJoke"
+    },
+    {
+      "v": "262664_0",
+      "t": "A",
+      "n": "aIntro"
+    },
+    {
+      "v": "262666_0",
+      "t": "A",
+      "n": "aChoices"
+    },
+    {
+      "v": "262665_0",
+      "t": "A",
+      "n": "aQuestion"
+    },
+    {
+      "v": "262668_0",
+      "t": "A",
+      "n": "aExp"
+    },
+    {
+      "t": "A",
+      "n": "aW2"
+    },
+    {
+      "v": "262663_0",
+      "t": "A",
+      "n": "aCat"
+    },
+    {
+      "t": "A",
+      "n": "aW3"
+    },
+    {
+      "t": "A",
+      "n": "aIntro2"
+    },
+    {
+      "t": "A",
+      "n": "aW1"
+    }
+  ]
+}

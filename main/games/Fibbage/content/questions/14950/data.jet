@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "un short, un maillot des Green Bay Packers, des lunettes de soleil, un peignoir, des tongs, un manteau de fourrure, une jupe, beaucoup de bling, un bikini, un string, rien, une perruque, des baskets, un pantalon de survêtement, une cape, un costume de diable, de la peinture pour le visage, des ongles à pression ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Cimetière ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "bottes de cowboy ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "bottes ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le cimetière Evergreen comprend une étrange statue de Jésus portant <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "331102_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "331105_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

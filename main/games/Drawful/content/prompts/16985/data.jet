@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "une quantité acceptable de caca ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Quantité acceptable de caca ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "368937_1",
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

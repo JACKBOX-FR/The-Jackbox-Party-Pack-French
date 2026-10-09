@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "essoreuse à salade, chaîne Playboy, briquet Zippo, mulett, broyeur à déchets, PedEgg, lampe de poche, Snuggie, four grille-pain, télécommande, lecteur VHS, Thighmaster, Walkman, bagel à pizza, casque à bière, préservatif, pomme de douche, sac banane ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "économiste ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "machine à laver",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "L'économiste de l'Université de Cambridge, Ha-Joon Chang, a une opinion impopulaire. Il insiste sur le fait que <BLANK> a changé le monde plus qu'Internet. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "353845_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

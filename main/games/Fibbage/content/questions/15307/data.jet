@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Dog Cop, Pig Dog, Ruff Work, Barkowski, PI, Officier Dog, Golden Revolver, Canine One One, Flatfoot Pup, Crime Canines, Wolf Vice, Doggy PD, Sergeant Snoop, Canine Blue, Big Dog, Little City, Dog Squad, Regardez qui n'aboie pas, Woof !, Ce n'est pas un taureau (chien) ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "bouledogue ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Poochinski ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 1990, avant « Tout le monde aime Raymond », l’acteur Peter Boyle a joué dans un pilote télé raté intitulé <BLANK> sur un flic qui se transforme en bouledogue parlant. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "338346_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

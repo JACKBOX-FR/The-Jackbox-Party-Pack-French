@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "statues, terrain de football, confettis, sauce barbecue, maquillage, balles, perruque, biscuits au sucre, gravure, spray au poivre, nourriture pour oiseaux, désodorisants, châteaux de sable, cadres photo, litière pour chat, peinture, épices de cuisine, assiettes ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "cendres ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "un récif ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "récifs ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "George Frankel est le PDG d'une entreprise basée en Géorgie qui transformera les cendres de votre parent décédé en <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "354733_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "354736_0f",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

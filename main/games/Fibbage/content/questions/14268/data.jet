@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "Yakov, Branson, homme, Cooter, Whitey, bière, bus, ?, voisin, pet, quatre roues, col bleu, Chewie, renoncule, Christ, camouflage, boucle de ceinture, boue ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "Branson ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Ils ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Andrew Wilson, un homme de Branson, Missouri, a légalement changé son nom pour simplement <BLANK>. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "317258_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "317261_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

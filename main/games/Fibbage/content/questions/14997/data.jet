@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "BizBot, Chasse au trésor, CatPile, Scavenge, Frank, Steve Made This, WebHelp, Crunch, Trouvez-le, Finder Blaster, Partout, Meh, PorkChop, Ok alors, Blue Rose, SearchDestroy, Whererezit, Zilla ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "rechercher ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "Frotter le dos ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "frotter le dos ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Le nom original du moteur de recherche devenu Google. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "332183_1",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "332186_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "rêve dans un rêve | un rêve dans un rêve ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Rêve dans un rêve ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

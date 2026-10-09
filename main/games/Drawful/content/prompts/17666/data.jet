@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "v": "false",
+      "t": "B",
+      "n": "HasJokeAudio"
+    },
+    {
+      "v": "Histoire d'horreur américaine ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "Histoire d'horreur américaine ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "t": "A",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "v": "true",
+      "t": "B",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "v": "crapaud, bébé, royal, panneau d'arrêt, membre du Parlement, nichoir, stade de football, poteau lumineux, batte de cricket, crumpet, vache, cabine téléphonique, brasserie, clôture, Starbucks, musée, dentiste, librairie ",
+      "t": "S",
+      "n": "Suggestions"
+    },
+    {
+      "v": "lécher ",
+      "t": "S",
+      "n": "Category"
+    },
+    {
+      "v": "cathédrale ",
+      "t": "S",
+      "n": "CorrectText"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    },
+    {
+      "v": "Église, église catholique, cathédrale, cathédrale ",
+      "t": "S",
+      "n": "AlternateSpellings"
+    },
+    {
+      "v": "En 2012, un homme de 26 ans originaire de Londres s'est donné pour mission de lécher tous les <BLANK> du Royaume-Uni. ",
+      "t": "S",
+      "n": "QuestionText"
+    },
+    {
+      "v": "331355_0",
+      "t": "A",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "331358_0",
+      "t": "A",
+      "n": "CorrectAudio"
+    }
+  ]
+}
